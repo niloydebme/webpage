@@ -1,5 +1,5 @@
 ---
-title: "Convective fow optimization inside a lid‑driven chamber with a rotating porous cylinder using Darcy–Brinkman–Forchheimer model"
+title: "Convective flow optimization inside a lid‑driven chamber with a rotating porous cylinder using Darcy–Brinkman–Forchheimer model"
 collection: publications
 category: manuscripts
 permalink: /publications/2024_JTAC_Deb and Saha

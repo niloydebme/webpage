@@ -266,8 +266,8 @@ author_profile: true
           </div>
         </div>
         <p class="entry-desc">
-          <strong>CGPA:</strong> 3.94 / 4.00 · <strong>Class Rank:</strong> 6 / 188 (Top 3%)<br>
-          <strong>Thesis:</strong> <em>Case Study of Natural and Mixed Convection Heat Transfer inside Different Chambers with the Presence of Porous Medium</em><br>
+          <strong>CGPA:</strong> 3.94 / 4.00 · <strong>Rank:</strong> 6 / 188 (Top 3% of the class)<br>
+          <strong>Thesis:</strong> <em>Numerical Study of Natural and Mixed Convection in Enclosed Spaces with Porous Media and Varying Geometries.</em><br>
           <strong>Supervisor:</strong> Dr. Sumon Saha
         </p>
       </div>
@@ -483,7 +483,7 @@ author_profile: true
       Academic Projects
     </h2>
 
-    <div class="entry" style="margin-top:6px;">
+   <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
         <div class="inst-name">Design of a Counter-Flow Shell & Helical Coil Tube Heat Exchanger (SHCTHX)</div>
         <div class="inst-sub">ME-310: Thermo-fluid System Design & Practice</div>
@@ -492,7 +492,7 @@ author_profile: true
       <div class="entry-right">Feb 2022</div>
     </div>
 
-    <div class="entry" style="margin-top:6px;">
+  <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
         <div class="inst-name">Self-Stabilizing, Computer-Controlled Laser Turret</div>
         <div class="inst-sub">ME-366: Electromechanical System Design & Practice</div>
