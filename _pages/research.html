@@ -22,6 +22,7 @@ author_profile: true
     text-align: left;
     font-weight: bold;
     font-size: 0.9 rem;
+    margin-top: 12px;
     margin-bottom: 12px;
   }
 
@@ -70,6 +71,7 @@ author_profile: true
   }
 </style>
 
+<!-- Research 1-->
 <div class="title">
     CFD-Based Control of Convection with Source Term(s).
 </div>
@@ -119,4 +121,65 @@ Case Studies in Thermal Engineering, 51, 103601. <br>
   $$
 </div>
 </div>
+
+
+<!-- Research 2 -->
+<div class="title">
+    Complex System Optimization – Analytical and Data-Driven Approach
+</div>
+
+<p>
+Generally, a <i>complex system</i> involves many decisions or <i>design variables</i>, often with 
+<i>multiple objectives</i>. It includes improving the performance, efficiency, or robustness of a 
+system in the face of highly <i>non-linear relations</i>, <i>high dimensionality</i>, and 
+<i>interdependence</i> – features frequently encountered in real-world engineering problems. The 
+analytical approaches have defined mathematical models or a closed-form solution. The objective 
+function is smooth and differentiable, where <i>gradient-based algorithms</i> offer a viable solution 
+in most <i>convex optimization cases</i>. The method also integrates <i>data-driven surrogates</i> 
+with lower computational costs. However, it is also evident that the objective functions are 
+sometimes not analytic or do not have a defined mathematical form. Moreover, highly 
+<i>non-convex optimization</i> is critical, where many <i>data-driven algorithms (ML, DL)</i> and 
+<i>Bayesian optimizations</i> are necessary. <i>Metaheuristic-based algorithms</i> (such as genetic, 
+differential evolution, particle swarm, etc.) are helpful for the non-convex cases.
+</p>
+
+<p>
+Please find a recent work <sup>&dagger;</sup> of ours, where the optimization was performed for an 
+advanced thermodynamic application.
+</p>
+
+<div class="citation">
+------------------------- <br>
+&dagger; Rahman Ayon, M. S., <b>Deb, N.</b>, Rahman, M. M., &amp; Haq, M. Z. (2025). 
+<i>Thermodynamic optimization of a novel multi-pressure direct expansion
+ cycle for LNG cold energy recovery.</i> 
+ <span style="color:blue;">(Manuscript under preparation)</span>.
+</div>
+
+<figure>
+  <img src="{{ site.baseurl }}/images/thermo_opt.png" alt="Thermodynamic Optimization Figure" style="max-width:95%; height:auto;">
+</figure>
+
+<div class="dottedbox">
+  <div class="dottedbox-title">Governing Equations of the Multi-Pressure Direct Expansion Cycle</div>
+  <div class="math-compact">
+  $$
+  \begin{aligned}
+  \textbf{Energy balance:} & \quad \dot{Q} = \dot{W} + \sum_{\text{out}} \dot{m}_i h_i - \sum_{\text{in}} \dot{m}_i h_i \\[3pt]
+  \textbf{Exergy balance:} & \quad \dot{\Phi}_Q = \dot{W} + \sum_{\text{out}} \dot{m}_i \psi_i - \sum_{\text{in}} \dot{m}_i \psi_i + \dot{I} \\[3pt]
+  \textbf{Flow exergy:} & \quad \psi = (h - h_0) - T_0 (s - s_0) \\[3pt]
+  \textbf{Isentropic efficiency:} & \quad
+  \eta_s =
+  \begin{cases}
+  \dfrac{\dot{W}}{\dot{W}_s}, & \text{work-producing devices} \\[3pt]
+  \dfrac{\dot{W}_s}{\dot{W}}, & \text{work-consuming devices}
+  \end{cases} \\[3pt]
+  \textbf{Net work output:} & \quad \dot{W}_{net} = \sum_j \dot{W}_j \\[3pt]
+  \textbf{Specific net work:} & \quad w_{net} = \dfrac{\dot{W}_{net}}{\dot{m}_{LNG}} \\[3pt]
+  \textbf{Second-law efficiency:} & \quad \eta_{II} = \dfrac{\dot{W}_{net}}{(\dot{\Psi}_{LNG})_{in} - (\dot{\Psi}_{RLNG})_{out}}
+  \end{aligned}
+  $$
+  </div>
+</div>
+
 
