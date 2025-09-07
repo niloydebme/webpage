@@ -48,6 +48,11 @@ author_profile: true
     vertical-align: top;
   }
 
+  .math-compact {
+    font-size: 0.85rem;   /* shrink equations */
+    line-height: 1.2;     /* tighter spacing */
+  }
+
   .citation {
     font-size: 0.85rem;
     margin-top: 10px;
@@ -65,7 +70,7 @@ author_profile: true
 </style>
 
 <div class="title">
-  Thermal Management and Robustness of Linear Controllers (P, PI, and PID) in Mixed Convection - A CFD Approach
+    CFD-Based Control of Convection with Source Term(s).
 </div>
 
 <p>
@@ -99,6 +104,7 @@ Case Studies in Thermal Engineering, 51, 103601. <br>
 
 <div class="dottedbox">
   <div class="dottedbox-title"></div>
+  <div class="math-compact">
   $$
   \begin{aligned}
   \textbf{Continuity:} & \quad \nabla \cdot \mathbf{u} = 0 \\[6pt]
@@ -110,5 +116,6 @@ Case Studies in Thermal Engineering, 51, 103601. <br>
   + K_{d}\,\frac{de(t)}{dt}, \quad e(t) = T_{p}-T_{\text{set}}
   \end{aligned}
   $$
+</div>
 </div>
 
