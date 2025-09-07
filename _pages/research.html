@@ -5,6 +5,121 @@ permalink: /research/
 author_profile: true
 ---
 
+<!-- Load MathJax -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
-<img src="{{ site.baseurl }}/images/cdfcontrol.jpg" alt="cdfimage missing">
+<style>
+  body {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    margin: 20px;
+  }
+
+  .title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+  }
+
+  .dottedbox {
+    border: 1px dotted black;
+    padding: 10px;
+    margin: 15px 0;
+    background-color: #fff;
+  }
+
+  .dottedbox-title {
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+  }
+
+  .equation-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .equation-table td {
+    padding: 4px 8px;
+    vertical-align: top;
+  }
+
+  .citation {
+    font-size: 0.85rem;
+    margin-top: 10px;
+  }
+
+  figure {
+    text-align: center;
+    margin: 15px auto;
+  }
+
+  figure img {
+    max-width: 90%;
+    height: auto;
+  }
+</style>
+
+<div class="title">
+  Thermal Management and Robustness of Linear Controllers (P, PI, and PID) in Mixed Convection - A CFD Approach
+</div>
+
+<p>
+Employing the <i>control law</i> for regulating <i>convection</i> can provide an optimal system 
+for many sophisticated applications, such as MEMS fabrication, electronic component cooling, and 
+drug manufacturing facilities. A <i>computational approach</i> is always advantageous in this 
+regard for affordable trial and error. A more advanced version of this can be established by 
+creating a <i>digital twin</i> for the application. Other improvements include the use of 
+<i>nonlinear controllers</i> for the system, inserting multiple sensors in the domain, and 
+acquiring precise measurements. Another aspect involves <i>quantifying the uncertainty</i> and 
+using it during feedback. This would require <i>advanced data analysis</i> in real-time and 
+<i>statistical methods</i> to capture the system's dynamics and enable precise control.
+</p>
+
+<p>
+A related published work (Deb et al., 2023<sup>&dagger;</sup>) only touches upon the basic aspects. 
+This can be leveraged for many advanced applications with the aforementioned improvements.
+</p>
+
+<div class="citation">
+------------------------- <br>
+&dagger; <b>Deb, N.</b>, Fardin, S., Fardin, M. M., Nawal, N., Nizam, M. R., &amp; Saha, S. (2023). 
+<i>Thermal management inside a discretely heated rectangular cuboid using P, PI and PID controllers.</i> 
+Case Studies in Thermal Engineering, 51, 103601. <br>
+<a href="https://doi.org/10.1016/j.csite.2023.103601" target="_blank">https://doi.org/10.1016/j.csite.2023.103601</a>
+</div>
+
+<figure>
+  <img src="{{ site.baseurl }}/images/controlwork.png" alt="Control Work Figure">
+</figure>
+
+<div class="dottedbox">
+  <div class="dottedbox-title">Governing Equations and Control Law</div>
+  <table class="equation-table">
+    <tr>
+      <td><b>Continuity:</b></td>
+      <td>$$\nabla \cdot \mathbf{u} = 0$$</td>
+    </tr>
+    <tr>
+      <td><b>Momentum:</b></td>
+      <td>$$\rho\left(\frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u}\cdot\nabla)\mathbf{u}\right) 
+      = -\nabla p + \mu \nabla^{2}\mathbf{u} + \rho\,\mathbf{g}\,\beta\,(T - T_{0})$$</td>
+    </tr>
+    <tr>
+      <td><b>Energy:</b></td>
+      <td>$$\rho c_{p}\left(\frac{\partial T}{\partial t} + \mathbf{u}\cdot\nabla T\right) 
+      = k \nabla^{2} T$$</td>
+    </tr>
+    <tr>
+      <td><b>Control law (PID):</b></td>
+      <td>$$u(t) = K_{p} e(t) + K_{i}\int_{0}^{t} e(\tau)\, d\tau 
+      + K_{d}\,\frac{de(t)}{dt}, \quad e(t) = T_{p}-T_{\text{set}}$$</td>
+    </tr>
+  </table>
+</div>
+
 
