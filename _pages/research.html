@@ -59,7 +59,7 @@ author_profile: true
   }
 
   figure img {
-    max-width: 90%;
+    max-width: 100%;
     height: auto;
   }
 </style>
@@ -98,28 +98,17 @@ Case Studies in Thermal Engineering, 51, 103601. <br>
 </figure>
 
 <div class="dottedbox">
-  <div class="dottedbox-title">Governing Equations and Control Law</div>
-  <table class="equation-table">
-    <tr>
-      <td><b>Continuity:</b></td>
-      <td>$$\nabla \cdot \mathbf{u} = 0$$</td>
-    </tr>
-    <tr>
-      <td><b>Momentum:</b></td>
-      <td>$$\rho\left(\frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u}\cdot\nabla)\mathbf{u}\right) 
-      = -\nabla p + \mu \nabla^{2}\mathbf{u} + \rho\,\mathbf{g}\,\beta\,(T - T_{0})$$</td>
-    </tr>
-    <tr>
-      <td><b>Energy:</b></td>
-      <td>$$\rho c_{p}\left(\frac{\partial T}{\partial t} + \mathbf{u}\cdot\nabla T\right) 
-      = k \nabla^{2} T$$</td>
-    </tr>
-    <tr>
-      <td><b>Control law (PID):</b></td>
-      <td>$$u(t) = K_{p} e(t) + K_{i}\int_{0}^{t} e(\tau)\, d\tau 
-      + K_{d}\,\frac{de(t)}{dt}, \quad e(t) = T_{p}-T_{\text{set}}$$</td>
-    </tr>
-  </table>
+  <div class="dottedbox-title"></div>
+  $$
+  \begin{aligned}
+  \textbf{Continuity:} & \quad \nabla \cdot \mathbf{u} = 0 \\[6pt]
+  \textbf{Momentum:} & \quad \rho\left(\frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u}\cdot\nabla)\mathbf{u}\right) 
+  = -\nabla p + \mu \nabla^{2}\mathbf{u} + \rho\,\mathbf{g}\,\beta\,(T - T_{0}) \\[6pt]
+  \textbf{Energy:} & \quad \rho c_{p}\left(\frac{\partial T}{\partial t} + \mathbf{u}\cdot\nabla T\right) 
+  = k \nabla^{2} T \\[6pt]
+  \textbf{Control law (PID):} & \quad u(t) = K_{p} e(t) + K_{i}\int_{0}^{t} e(\tau)\, d\tau 
+  + K_{d}\,\frac{de(t)}{dt}, \quad e(t) = T_{p}-T_{\text{set}}
+  \end{aligned}
+  $$
 </div>
-
 
