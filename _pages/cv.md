@@ -345,7 +345,7 @@ author_profile: true
         <path d="M3 7h18"></path>
         <path d="M12 3v18"></path>
       </svg>
-      Research 
+      Research Projects
     </h2>
     <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
