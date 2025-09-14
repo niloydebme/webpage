@@ -16,24 +16,8 @@ location: " "
     
    <ul class="class-notes-list" style="font-size: 14px; line-height: 1">
         <li class="class-notes-item">
-            <strong>Course:</strong> Introduction to Thermodynamics | <strong>Instructor:</strong> Dr. John Smith | 
+            <strong>Course:</strong> -- | <strong>Instructor:</strong> -- | 
             <a href="path/to/thermodynamics_notes.pdf" target="_blank">PDF</a>
-        </li>
-        <li class="class-notes-item">
-            <strong>Course:</strong> Fluid Mechanics | <strong>Instructor:</strong> Dr. Jane Doe | 
-            <a href="path/to/fluid_mechanics_notes.pdf" target="_blank">PDF</a>
-        </li>
-        <li class="class-notes-item">
-            <strong>Course:</strong> Computational Methods | <strong>Instructor:</strong> Prof. Alan Turing | 
-            <a href="path/to/computational_methods_notes.pdf" target="_blank">PDF</a>
-        </li>
-        <li class="class-notes-item">
-            <strong>Course:</strong> Advanced Mathematics | <strong>Instructor:</strong> Dr. Albert Einstein | 
-            <a href="path/to/advanced_mathematics_notes.pdf" target="_blank">PDF</a>
-        </li>
-        <li class="class-notes-item">
-            <strong>Course:</strong> Solid State Physics | <strong>Instructor:</strong> Prof. Richard Feynman | 
-            <a href="path/to/solid_state_physics_notes.pdf" target="_blank">PDF</a>
         </li>
     </ul>
 
@@ -41,19 +25,7 @@ location: " "
     
    <ul class="code-list" style="font-size: 14px; line-height: 1">
         <li class="code-item">
-            Introduction to Programming | <a href="path/to/intro_programming_code.py" target="_blank">Code</a>
-        </li>
-        <li class="code-item">
-            Data Structures | <a href="path/to/data_structures_code.py" target="_blank">Code</a>
-        </li>
-        <li class="code-item">
-            Machine Learning | <a href="path/to/machine_learning_code.py" target="_blank">Code</a>
-        </li>
-        <li class="code-item">
-            Web Development Basics | <a href="path/to/web_development_code.html" target="_blank">Code</a>
-        </li>
-        <li class="code-item">
-            Computational Physics | <a href="path/to/computational_physics_code.py" target="_blank">Code</a>
+            -- | <a href="path/to/intro_programming_code.py" target="_blank">--</a>
         </li>
     </ul>
 
