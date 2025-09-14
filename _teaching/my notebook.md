@@ -1,15 +1,15 @@
 ---
 title: "My Notebook"
 collection: teaching
-type: "Personal/Lecture Notes"
+type: "Lecture Notes"
 permalink: /teaching/my notebook
-venue: " "
+venue: "- Mathematics, Science and Engineering"
 date: 2025-01-01
 location: " "
 ---
 
 <p style="font-size: 14px; line-height: 1.4">
-   This section is dedicated to my personal collection of notes and code, most of which were created/annotated as part of my learning journey. Some are related to my academic studies, while others were made just for fun. It would be a great pleasure if someone finds this helpful.
+   This section contains my year-long collection of notes and code, most of which were written, scripted, or annotated as part of my learning journey. Some relate to academics, while others were made just for fun. I hope someone may find this helpful.
 </p>
 
 <h3> My Notes (Listed Partially)</h3>
