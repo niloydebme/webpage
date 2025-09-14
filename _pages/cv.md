@@ -131,7 +131,7 @@ author_profile: true
 
   .institution .inst-sub {
     color: var(--accent);
-    font-style: italic;
+    /* font-style: italic; */
     font-size: 13.2px;
     margin-top: 2px;
   }
@@ -233,7 +233,7 @@ author_profile: true
       <p class="name">Niloy Deb</p>
       <p class="title">Mechanical Engineering Graduate</p>
       <p class="entry-desc" style="margin-top:8px;">
-        <strong>Summary:</strong> An aspiring mechanical engineering graduate focused on data-driven science, differentiable physics extended scientific machine learning, statistical inference, computational methods, and applied mathematics. Research interests include chaotic dynamical systems, turbulence, fluid flow through porous and subsuface media, fluid under multiphysics environment, and so on.
+        <strong>Summary:</strong> An aspiring mechanical engineering graduate focused on data-driven science, differentiable physics extending scientific machine learning, statistical inference, computational methods, and applied mathematics. Research interests include chaotic dynamical systems, turbulence, fluid flow through porous and subsurface media, and fluid flow in multiphysics environments.
       </p>
     </div>
     <div class="contact" style="width:32%;">
@@ -247,6 +247,8 @@ author_profile: true
       </div>
     </div>
   </div>
+
+
 
   <section class="section" id="education">
     <h2>
@@ -262,13 +264,13 @@ author_profile: true
           <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
           <div>
             <div class="inst-name">Bangladesh University of Engineering and Technology (BUET)</div>
-            <div class="inst-sub">Bachelor of Science in Mechanical Engineering</div>
+            <div class="inst-sub">Bachelor of Science (B.Sc.) in Mechanical Engineering</div>
           </div>
         </div>
         <p class="entry-desc">
-          <strong>CGPA:</strong> 3.94 / 4.00 · <strong>Rank:</strong> 6 / 188 (Top 3% of the class)<br>
-          <strong>Thesis:</strong> <em>Numerical Study of Natural and Mixed Convection in Enclosed Spaces with Porous Media and Varying Geometries.</em><br>
-          <strong>Supervisor:</strong> Dr. Sumon Saha
+          <strong>Cumulative GPA:</strong> 3.94 / 4.00 · <strong>Rank:</strong> 6 / 188 (Top 3% of the class)<br>
+          <strong>Thesis:</strong> Numerical Study of Natural and Mixed Convection in Enclosures with Porous Media of Varying Geometries. <br>
+          <strong>Supervisor:</strong> Dr. Sumon Saha, Professor, Department of Mechanical Engineering, BUET
         </p>
       </div>
       <div class="entry-right">
@@ -282,11 +284,11 @@ author_profile: true
           <img src="{{ site.baseurl }}/images/dhakacollege.png" alt="Dhaka College logo" class="institution-logo">
           <div>
             <div class="inst-name">Dhaka College, Dhaka</div>
-            <div class="inst-sub">Higher Secondary Certificate (Science)</div>
+            <div class="inst-sub">Higher Secondary Certificate (HSC)- Science </div>
           </div>
         </div>
         <p class="entry-desc">
-          <strong>GPA:</strong> 5:00 / 5.00 
+          <strong>GPA:</strong> 5:00 / 5.00 (92% aggregate in Physics, Chemistry, and Higher Mathematics)
         </p>
       </div>
       <div class="entry-right">
