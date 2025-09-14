@@ -13,7 +13,7 @@ location: " "
 </p>
 
 <h3> My Notes (Listed Partially)</h3>
-    
+    ** I'll update as time permits.
    <ul class="class-notes-list" style="font-size: 14px; line-height: 1">
         <li class="class-notes-item">
             <strong>Course:</strong> -- | <strong>Instructor:</strong> -- | 
@@ -22,10 +22,10 @@ location: " "
     </ul>
 
 <h3>My Codes (Listed Partially)</h3>
-    
+    ** I'll update as time permits.
    <ul class="code-list" style="font-size: 14px; line-height: 1">
         <li class="code-item">
-            -- | <a href="path/to/intro_programming_code.py" target="_blank">--</a>
+            -- | <a href="path/to/intro_programming_code.py" target="_blank">Code</a>
         </li>
     </ul>
 
