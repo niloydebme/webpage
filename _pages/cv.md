@@ -233,7 +233,7 @@ author_profile: true
       <p class="name">Niloy Deb</p>
       <p class="title">Mechanical Engineering Graduate</p>
       <p class="entry-desc" style="margin-top:8px;">
-        <strong>Summary:</strong> An aspiring mechanical engineering graduate focused on data-driven science, differentiable physics extending scientific machine learning, statistical inference, computational methods, and applied mathematics. Research interests include chaotic dynamical systems, turbulence, fluid flow through porous and subsurface media, and fluid flow in multiphysics environments.
+        <strong>Summary:</strong> An aspiring mechanical engineering graduate focused on data-driven science, scientific machine learning (SciML), statistical inference, computational methods, and applied mathematics. Research interests include chaotic dynamical systems, turbulence, fluid flow through porous and subsurface media, and fluid flow in multiphysics environments.
       </p>
     </div>
     <div class="contact" style="width:32%;">
@@ -284,7 +284,7 @@ author_profile: true
           <img src="{{ site.baseurl }}/images/dhakacollege.png" alt="Dhaka College logo" class="institution-logo">
           <div>
             <div class="inst-name">Dhaka College, Dhaka</div>
-            <div class="inst-sub">Higher Secondary Certificate (HSC)- Science </div>
+            <div class="inst-sub">Higher Secondary Certificate (HSC) - Science </div>
           </div>
         </div>
         <p class="entry-desc">
@@ -308,18 +308,16 @@ author_profile: true
     </h2>
     <div class="chips" role="list">
       <span class="chip">Data-Driven Science</span>
-      <span class="chip">Statistical Modeling</span>
-      <span class="chip">Scientific Machine Learing</span>
-      <span class="chip">Differentiable Physics</span>
-      <span class="chip">Mathematical & Computational Modeling</span>
-      <span class="chip">Numerical Methods - FEM, FDM, FVM, SEM, etc.</span>
-      <span class="chip">Computational Fluid Dynamics & Heat Transfer</span>
-      <span class="chip">Advanced Thermodynamics Applications & Optimization</span>
-      <span class="chip">Physics of Turbulence</span>
+      <span class="chip">Statistical Modeling and Inference</span>
+      <span class="chip">Mathematical and Computational Modeling of Real-World Systems</span>
+      <span class="chip">Complex Systems Optimization</span>
+      <span class="chip">Scientific Machine Learning (SciML)</span> 
+      <span class="chip">Numerical Methods - LBM, FEM, FDM, FVM, SEM</span>
+      <span class="chip">Computational Fluid Dynamics (CFD) and Heat Transfer</span>
+      <span class="chip">Physics of Turbulence and Convection</span>
       <span class="chip">Chaotic Dynamical System and Control</span>
-      <span class="chip">Fluid under Multiphysics Environments</span>
-      <span class="chip">Fluid Flow Through Porous & Subsurface Media</span>
-      <span class="chip">Physics of Convection</span>
+      <span class="chip">Multiphysics Fluid Flow</span>
+      <span class="chip">Fluid Flow Through Porous and Subsurface Media</span>
     </div>
   </section>
 
