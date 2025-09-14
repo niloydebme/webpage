@@ -93,11 +93,11 @@ author_profile: true
   }
 
   .entry-left {
-    width: 64%;
+    width: 80%;
   }
 
   .entry-right {
-    width: 34%;
+    width: 18%;
     text-align: right;
     color: var(--muted);
     font-size: 13px;
