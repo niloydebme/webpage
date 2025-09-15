@@ -339,7 +339,7 @@ author_profile: true
           <div class="inst-sub">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, Department of Mechanical Engineering, BUET. Mentor: Dr. Sumon Saha</div>
         </div>
       </div>
-      <div class="entry-desc">
+      <p class="entry-desc">
   <p>Worked on numerous numerical modeling and simulation studies, with some thematic focuses including:</p>
   <ul>
     <li><span style="color: #1967d2;">Thermal Management and Control:</span> Studied the robustness of linear controllers (P, PI, PID) in mixed convection environments using a <span style="text-decoration: underline;">CFD approach</span>.</li>
@@ -351,7 +351,7 @@ author_profile: true
   <p>Presented group work as a lead author at an international conference (14th International Conference on Mechanical Engineering) hosted by the Department of Mechanical Engineering, BUET, Dhaka, Bangladesh.</p>
   <p>Another paper, with me as the lead author and presented by another speaker, was presented at the 17th Asian Congress of Fluid Mechanics in Beijing, China.</p>
   <p>Mentored undergraduate students in their CFD and heat transfer-related theses.</p>
-</div>
+</p>
     <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 </section>
