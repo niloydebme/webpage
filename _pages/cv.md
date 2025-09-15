@@ -227,7 +227,7 @@ author_profile: true
 </style>
 
 
-<div class="cv">
+<div class="cv"> </div>
 
   <div class="header">
     <div style="width:68%;">
@@ -323,11 +323,9 @@ author_profile: true
 <section class="section" id="professional">
  <h2>
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M6 18h12"></path>
-    <path d="M9 14v-3a3 3 0 0 1 6 0v3"></path>
-    <path d="M9 14h6"></path>
-    <path d="M12 11v3"></path>
-    <circle cx="12" cy="6" r="2"></circle>
+    <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+    <line x1="8" y1="21" x2="16" y2="21"></line>
+    <line x1="12" y1="17" x2="12" y2="21"></line>
   </svg>
   Research Experience
 </h2>
@@ -572,7 +570,6 @@ author_profile: true
   </svg>
   Technical Skills
 </h2>
-    </h2>
     <p class="entry-desc">
       <strong>Highlights:</strong> Scientific Writing · Exploratory Data Analysis · Quantitative Research
     </p>
@@ -656,5 +653,3 @@ author_profile: true
       Solving ODEs with MATLAB · MathWorks · <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c390f6ca-c82a-4189-83ef-c67ccb7cc0dc&">Certificate</a>
     </p>
   </section>
-</div>
-</div>
