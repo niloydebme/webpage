@@ -352,6 +352,7 @@ author_profile: true
   <p>Another paper, with me as the lead author and presented by another speaker, was presented at the 17th Asian Congress of Fluid Mechanics in Beijing, China.</p>
   <p>Mentored undergraduate students in their CFD and heat transfer-related theses.</p>
 </p>
+</div>
     <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 </section>
