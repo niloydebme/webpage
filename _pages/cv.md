@@ -395,69 +395,6 @@ author_profile: true
   </div>
 </section>
 
-
-
-  <section class="section" id="research">
-    <h2>
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M3 7h18"></path>
-        <path d="M12 3v18"></path>
-      </svg>
-      Research Projects
-    </h2>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name">Thermal Management and Robustness of Linear Controllers (P, PI, PID) in Mixed Convection Modeling - A CFD Approach</div>
-        <div class="entry-desc">Supervisor: Dr. Sumon Saha</div>
-      </div>
-      <div class="entry-right">June 2023</div>
-    </div>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name">Revisiting the Numerical Calculation of Nusselt Number (Nu) for Different Thermal Boundary Conditions</div>
-        <div class="entry-desc">Supervisor: Dr. Sumon Saha</div>
-      </div>
-      <div class="entry-right">Aug 2023</div>
-    </div>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name">Natural and Mixed Convection Heat Transfer in the Presence of Porous Medium with Magnetohydrodynamics, Joule Heating, and Internal Heat Generation</div>
-        <div class="entry-desc">Supervisor: Dr. Sumon Saha</div>
-      </div>
-      <div class="entry-right">Aug 2023</div>
-    </div>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name">Subsurface Fluid Properties and Phase Behavior — A Case Study of the Titas Gas Field in Bangladesh: Changes in Natural Gas Phase Behavior Across Spatial and Temporal Dimensions. </div>
-        <div class="entry-desc">Funded Project by 'Hydrocarbon Unit Research Program 2023–24' · Supervisor / PI: Dr. Mohammed Mahbubur Rahman</div>
-      </div>
-      <div class="entry-right">May 2024</div>
-    </div>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name"> Thermodynamic Optimization of a Novel Three-Stage Direct Expansion Cycle for LNG Cold Energy Recovery</div>
-        <div class="entry-desc"> PI: Shaumik Rahman Ayon</div>
-      </div>
-      <div class="entry-right">May 2024</div>
-    </div>
-  </section>
-
-  <section class="section" id="publications">
-    <h2>
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M19 21H5a2 2 0 0 1-2-2V7"></path>
-        <path d="M17 3H7a2 2 0 0 0-2 2v12"></path>
-      </svg>
-      Publications
-    </h2>
-
-    <ul style="margin:6px 0 0 14px;">
-      {% for post in site.publications reversed %}
-      {% include archive-single-cv.html %}
-      {% endfor %}
-    </ul>
-  </section>
-
 <section class="section" id="professional">
   <h2>
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
@@ -530,6 +467,69 @@ author_profile: true
     <div class="entry-right">Apr 2022 (3 weeks) <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 </section>
+
+  <section class="section" id="research">
+    <h2>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 7h18"></path>
+        <path d="M12 3v18"></path>
+      </svg>
+      Research Projects
+    </h2>
+    <div class="entry" style="margin-top:6px;">
+      <div class="entry-left">
+        <div class="inst-name">Thermal Management and Robustness of Linear Controllers (P, PI, PID) in Mixed Convection Modeling - A CFD Approach</div>
+        <div class="entry-desc">Supervisor: Dr. Sumon Saha</div>
+      </div>
+      <div class="entry-right">June 2023</div>
+    </div>
+    <div class="entry" style="margin-top:6px;">
+      <div class="entry-left">
+        <div class="inst-name">Revisiting the Numerical Calculation of Nusselt Number (Nu) for Different Thermal Boundary Conditions</div>
+        <div class="entry-desc">Supervisor: Dr. Sumon Saha</div>
+      </div>
+      <div class="entry-right">Aug 2023</div>
+    </div>
+    <div class="entry" style="margin-top:6px;">
+      <div class="entry-left">
+        <div class="inst-name">Natural and Mixed Convection Heat Transfer in the Presence of Porous Medium with Magnetohydrodynamics, Joule Heating, and Internal Heat Generation</div>
+        <div class="entry-desc">Supervisor: Dr. Sumon Saha</div>
+      </div>
+      <div class="entry-right">Aug 2023</div>
+    </div>
+    <div class="entry" style="margin-top:6px;">
+      <div class="entry-left">
+        <div class="inst-name">Subsurface Fluid Properties and Phase Behavior — A Case Study of the Titas Gas Field in Bangladesh: Changes in Natural Gas Phase Behavior Across Spatial and Temporal Dimensions. </div>
+        <div class="entry-desc">Funded Project by 'Hydrocarbon Unit Research Program 2023–24' · Supervisor / PI: Dr. Mohammed Mahbubur Rahman</div>
+      </div>
+      <div class="entry-right">May 2024</div>
+    </div>
+    <div class="entry" style="margin-top:6px;">
+      <div class="entry-left">
+        <div class="inst-name"> Thermodynamic Optimization of a Novel Three-Stage Direct Expansion Cycle for LNG Cold Energy Recovery</div>
+        <div class="entry-desc"> PI: Shaumik Rahman Ayon</div>
+      </div>
+      <div class="entry-right">May 2024</div>
+    </div>
+  </section>
+
+  <section class="section" id="publications">
+    <h2>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M19 21H5a2 2 0 0 1-2-2V7"></path>
+        <path d="M17 3H7a2 2 0 0 0-2 2v12"></path>
+      </svg>
+      Publications
+    </h2>
+
+    <ul style="margin:6px 0 0 14px;">
+      {% for post in site.publications reversed %}
+      {% include archive-single-cv.html %}
+      {% endfor %}
+    </ul>
+  </section>
+
+
 
   <section class="section" id="projects">
     <h2>
@@ -609,7 +609,7 @@ author_profile: true
     </h2> 
     <div class="inline-par">
       <strong>Advanced / Graduate & Self-Learning:</strong> (listed partially)
-      Advanced Numerical Analysis (Dept. of ME, BUET) <strong>  ·  </strong>  Advanced Thermodynamics (classical and statistical) (Dept. of ME, BUET) <strong>  ·  </strong> Boiling & Condensation Heat Transfer (Dept. of ME, BUET) · Reservoir Engineering (Dept. of PMRE, BUET) <strong>  ·  </strong> Non-linear Dynamics & Chaos (S. Strogatz, Online) <strong>  ·  </strong>Non-linear Systems (J. Slotine, MOCW) <strong>  ·  </strong> Control Bootcamp (S. L. Brunton, Online) <strong>  ·  </strong> Global Warming - Science & Modeling (D. Archer, edX) <strong>  ·  </strong> Understanding Rheology (F. Morrison, Online) <strong>  ·  </strong> Flow in Porous Media (M. Blunt, Online) <strong>  ·  </strong> Physics of Turbulence (M. K. Verma, IITK-NPTEL) <strong>  ·  </strong> Advanced Fluid Mechanics (S. Chakraborty, IITKGP-NPTEL) <strong>  ·  </strong> AI Principles & Techniques (Stanford Online) <strong>  ·  </strong> Deep Learning in Scientific Computing (ETH Zurich) <strong>  ·  </strong> Data Analytics and Geostatistics (M. J. Pyrcz, Online) <strong>  ·  </strong> Matrix Calculus for Machine Learning and Beyond (A. Edelman & S. G. Johnson, MOCW) <strong>  ·  </strong> Matrix, Numerical and Optimization Methods in Science and Engineering (K. Cassel, Online) <strong>  ·  </strong> Applied Time Series Analysis (A. K. Tangirala, IITM-NPTEL) <strong>  ·  </strong> Probabilistic System Analysis and Applied Probability (J. Tsitsiklis, MOCW) <strong>  ·  </strong> Data-Driven Science and Engineering (S. L. Brunton, Online) <strong>  ·  </strong> Random Physics Lectures (classical, Statistical, Quantum Mechanics, Modern Physics - Special and General Relativity by L. Susskind, Online )- did just for fun. 
+      Advanced Numerical Analysis (Dept. of ME, BUET) <strong>  ·  </strong>  Advanced Thermodynamics (classical and statistical) (Dept. of ME, BUET) <strong>  ·  </strong> Boiling & Condensation Heat Transfer (Dept. of ME, BUET) <stron> · </strong> Reservoir Engineering (Dept. of PMRE, BUET) <stron> · </strong> Well Testing Analysis (Dept. of PMRE, BUET)<strong>  ·  </strong> Non-linear Dynamics & Chaos (S. Strogatz, Online) <strong>  ·  </strong>Non-linear Systems (J. Slotine, MOCW) <strong>  ·  </strong> Control Bootcamp (S. L. Brunton, Online) <strong>  ·  </strong> Global Warming - Science & Modeling (D. Archer, edX) <strong>  ·  </strong> Understanding Rheology (F. Morrison, Online) <strong>  ·  </strong> Flow in Porous Media (M. Blunt, Online) <strong>  ·  </strong> Physics of Turbulence (M. K. Verma, IITK-NPTEL) <strong>  ·  </strong> Advanced Fluid Mechanics (S. Chakraborty, IITKGP-NPTEL) <strong>  ·  </strong> AI Principles & Techniques (Stanford Online) <strong>  ·  </strong> Deep Learning in Scientific Computing (ETH Zurich) <strong>  ·  </strong> Data Analytics and Geostatistics (M. J. Pyrcz, Online) <strong>  ·  </strong> Matrix Calculus for Machine Learning and Beyond (A. Edelman & S. G. Johnson, MOCW) <strong>  ·  </strong> Matrix, Numerical and Optimization Methods in Science and Engineering (K. Cassel, Online) <strong>  ·  </strong> Applied Time Series Analysis (A. K. Tangirala, IITM-NPTEL) <strong>  ·  </strong> Probabilistic System Analysis and Applied Probability (J. Tsitsiklis, MOCW) <strong>  ·  </strong> Data-Driven Science and Engineering (S. L. Brunton, Online) <strong>  ·  </strong> Random Physics Lectures (classical, Statistical, Quantum Mechanics, Modern Physics - Special and General Relativity by L. Susskind, Online )- did just for fun. 
     </div>
     <div class="inline-par" style="margin-top:8px;">
       <strong>Undergraduate / Core:</strong>
