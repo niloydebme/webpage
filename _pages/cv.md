@@ -227,7 +227,7 @@ author_profile: true
 </style>
 
 
-<div class="cv"> </div>
+<div class="cv">
 
   <div class="header">
     <div style="width:68%;">
@@ -653,3 +653,4 @@ author_profile: true
       Solving ODEs with MATLAB · MathWorks · <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c390f6ca-c82a-4189-83ef-c67ccb7cc0dc&">Certificate</a>
     </p>
   </section>
+</div>
