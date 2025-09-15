@@ -240,7 +240,7 @@ author_profile: true
       <div style="font-weight:600;margin-bottom:6px;">Contact</div>
       <div>niloydeb@pmre.buet.ac.bd</div>
       <div style="margin-top:6px;">
-        <a href="LINKEDIN_URL" target="_blank">LinkedIn</a> · <a href="#" target="_blank">ORCID</a>
+        <a href="LINKEDIN_URL" target="_blank">LinkedIn</a> · <a href="https://orcid.org/0009-0006-4542-0895" target="_blank">ORCID</a>
       </div>
       <div style="margin-top:8px;">
         <a class="btn" href="link-to-cv.pdf" style="background:var(--accent); color:#fff; padding:6px 10px; border-radius:6px; text-decoration:none; font-size:13px;">📄 Download PDF</a>
@@ -321,23 +321,81 @@ author_profile: true
     </div>
   </section>
 
-  <section class="section" id="coursework">
-    <h2>
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-        <rect x="3" y="4" width="18" height="6" rx="2"></rect>
-        <path d="M7 20h10"></path>
-      </svg>
-      Relevant Coursework
-    </h2> 
-    <div class="inline-par">
-      <strong>Advanced / Graduate & Self-Learning:</strong> (listed partially)
-      Advanced Numerical Analysis (Dept. of ME, BUET) <strong>  ·  </strong>  Advanced Thermodynamics (classical and statistical) (Dept. of ME, BUET) <strong>  ·  </strong> Boiling & Condensation Heat Transfer (Dept. of ME, BUET) · Reservoir Engineering (Dept. of PMRE, BUET) <strong>  ·  </strong> Non-linear Dynamics & Chaos (S. Strogatz, Online) <strong>  ·  </strong>Non-linear Systems (J. Slotine, MOCW) <strong>  ·  </strong> Control Bootcamp (S. L. Brunton, Online) <strong>  ·  </strong> Global Warming - Science & Modeling (D. Archer, edX) <strong>  ·  </strong> Understanding Rheology (F. Morrison, Online) <strong>  ·  </strong> Flow in Porous Media (M. Blunt, Online) <strong>  ·  </strong> Physics of Turbulence (M. K. Verma, IITK-NPTEL) <strong>  ·  </strong> Advanced Fluid Mechanics (S. Chakraborty, IITKGP-NPTEL) <strong>  ·  </strong> AI Principles & Techniques (Stanford Online) <strong>  ·  </strong> Deep Learning in Scientific Computing (ETH Zurich) <strong>  ·  </strong> Data Analytics and Geostatistics (M. J. Pyrcz, Online) <strong>  ·  </strong> Matrix Calculus for Machine Learning and Beyond (A. Edelman & S. G. Johnson, MOCW) <strong>  ·  </strong> Matrix, Numerical and Optimization Methods in Science and Engineering (K. Cassel, Online) <strong>  ·  </strong> Applied Time Series Analysis (A. K. Tangirala, IITM-NPTEL) <strong>  ·  </strong> Probabilistic System Analysis and Applied Probability (J. Tsitsiklis, MOCW) <strong>  ·  </strong> Data-Driven Science and Engineering (S. L. Brunton, Online) <strong>  ·  </strong> Random Physics Lectures (classical, Statistical, Quantum Mechanics, Modern Physics - Special and General Relativity by L. Susskind, Online )- did just for fun. 
+
+<section class="section" id="professional">
+  <h2>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="2" y="7" width="20" height="14" rx="2"></rect>
+      <path d="M16 3h0a2 2 0 0 1 2 2v2H6V5a2 2 0 0 1 2-2h0"></path>
+    </svg>
+    Professional Experience
+  </h2>
+
+  <div class="entry">
+    <div class="entry-left">
+      <div class="institution">
+        <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
+        <div>
+          <div class="inst-name">Bangladesh University of Engineering and Technology (BUET)</div>
+          <div class="inst-sub">Lecturer, Dept. of Petroleum & Mineral Resources Engineering</div>
+        </div>
+      </div>
+      <p class="entry-desc">
+        <strong> Academic research </strong> on · Energy Resources Engineering · Hydrocarbon Reservoir Engineering · Advanced Well Testing and Interpretation · Advanced Reservoir Simulation .<br>
+        <strong> Taught (Undergraduate Courses):</strong> PMRE 411 · Reservoir Engineering · PMRE 413 · Natural Gas Engineering (≈50 students each)
+      </p>
     </div>
-    <div class="inline-par" style="margin-top:8px;">
-      <strong>Undergraduate / Core:</strong>
-      Instrumentation and Measurement <strong>  ·  </strong> Electro-Mechanical System Design (Project) <strong>  ·  </strong> Noise & Vibration <strong>  ·  </strong> Control Engineering <strong>  ·  </strong> Engineering Mechanics (I & II) <strong>  ·  </strong> Mechanics of Solids <strong>  ·  </strong> Thermodynamics (Basic) <strong>  ·  </strong> Advanced Thermodynamics (Classical and Statistical) <strong>  ·  </strong> Fluid Mechanics (I & II) <strong>  ·  </strong> Heat Transfer <strong>  ·  </strong> Heat Transfer Equipment Design <strong>  ·  </strong> Thermo Fluid System Design (Project) <strong>  ·  </strong> Combustion <strong>  ·  </strong> Refrigeration and Building Mechanical System <strong>  ·  </strong> Numerical Analysis <strong>  ·  </strong> Computer Programming 
+    <div class="entry-right">
+      Dec 2023 – Present
+      <span class="location">Dhaka, Bangladesh</span>
     </div>
-  </section>
+  </div>
+
+  <div class="entry" style="margin-top:8px;">
+    <div class="entry-left">
+      <div class="institution">
+        <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
+        <div>
+          <div class="inst-name">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, Dept. of Mechanical Engineering, BUET</div>
+          <div class="inst-sub">Research Assistant</div>
+        </div>
+      </div>
+      <div class="entry-desc">Numerical modeling & simulation of thermo-fluid problems · CFD & Heat Transfer research · Mentored undergraduate students</div>
+    </div>
+    <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
+  </div>
+
+  <div class="entry" style="margin-top:8px;">
+    <div class="entry-left">
+      <div class="institution">
+        <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
+        <div>
+          <div class="inst-name">Directorate of Continuing Education, BUET</div>
+          <div class="inst-sub">Co-instructor</div>
+        </div>
+      </div>
+      <div class="entry-desc">Short course: COMSOL Multiphysics Simulation of Thermo-fluidic Problems (Basic Level) · 2-day workshop · Resource person: Dr. Sumon Saha</div>
+    </div>
+    <div class="entry-right">Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
+  </div>
+
+  <div class="entry" style="margin-top:8px;">
+    <div class="entry-left">
+      <div class="institution">
+        <img src="{{ site.baseurl }}/images/powertek.jpeg" alt="Powertek logo" class="institution-logo">
+        <div>
+          <div class="inst-name">Haripur 360 MW Combined Cycle Power Plant</div>
+          <div class="inst-sub">Industrial Trainee </div>
+        </div>
+      </div>
+      <div class="entry-desc">An internship program organized by the dept. of Mechanical Engineering, BUET <br>
+      Hands-on exposure to power generation, Plant unit operations (FGC, HRSG, ST, GT, WT), maintenance, and process control.</div>
+    </div>
+    <div class="entry-right">Apr 2022 (3 weeks) <span class="location">Dhaka, Bangladesh</span></div>
+  </div>
+</section>
+
+
 
   <section class="section" id="research">
     <h2>
@@ -502,39 +560,7 @@ author_profile: true
     </div>
   </section>
 
-  <section class="section" id="training">
-    <h2>
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M21 8V7a2 2 0 0 0-2-2h-3"></path>
-        <path d="M3 8v9a2 2 0 0 0 2 2h3"></path>
-      </svg>
-      Training & MOOC Completion
-    </h2>
 
-    <p class="inline-par">
-      Research Skill Development · DCE, BUET · <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/EXOfHmAlqktAtOIqCe3qqqwBMHvi-7VKch1JsfkeN4RUmw?e=1pHMCX">Certificate</a>
-      <span class="dot">·</span>
-      Quantitative Method · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/KUNNEK67EW6E">Certificate</a>
-      <span class="dot">·</span>
-      Evaluating Problems · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/QWF5B9NVSPDD">Certificate</a>
-      <span class="dot">·</span>
-      Welcome to Game Theory · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/3V72R3HBVLJS">Certificate</a>
-      <span class="dot">·</span>
-      Intro to Data Analysis using Excel · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/8SC5YX5ZGN9K">Certificate</a>
-      <span class="dot">·</span>
-      Introduction to Programming with MATLAB · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/TCQNM5G5Y7FP">Certificate</a>
-      <span class="dot">·</span>
-      Python for Everybody (Specialization) · Coursera · <a href="https://www.coursera.org/account/accomplishments/specialization/VPRVZ5MZ43HX">Certificate</a>
-      <span class="dot">·</span>
-      ELEN7070x: Research Methods · EdX · <a href="https://courses.edx.org/certificates/9abb933553e644ed9f41ff096fc60a72">Certificate</a>
-      <span class="dot">·</span>
-      16.00x: Introduction to Aerospace Engineering · EdX · <a href="https://courses.edx.org/certificates/ec2238cfcac64bbebddb7263c82ce30c">Certificate</a>
-      <span class="dot">·</span>
-      Image Processing Onramp · MathWorks · <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=6c90b29d-19c4-4b51-9069-fa743ed4b1f7&">Certificate</a>
-      <span class="dot">·</span>
-      Solving ODEs with MATLAB · MathWorks · <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c390f6ca-c82a-4189-83ef-c67ccb7cc0dc&">Certificate</a>
-    </p>
-  </section>
 
   <section class="section" id="skills">
     <h2>
@@ -571,6 +597,58 @@ author_profile: true
       <li><strong>University Merit Scholarship (2018–2023):</strong> Awarded for consecutive terms, BUET</li>
       <li><strong>Dean’s List Award (2018–2023):</strong> Awarded for consecutive terms, Dept. of ME, BUET</li>
     </ul>
+  </section>
+
+  <section class="section" id="coursework">
+    <h2>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="3" y="4" width="18" height="6" rx="2"></rect>
+        <path d="M7 20h10"></path>
+      </svg>
+      Relevant Coursework
+    </h2> 
+    <div class="inline-par">
+      <strong>Advanced / Graduate & Self-Learning:</strong> (listed partially)
+      Advanced Numerical Analysis (Dept. of ME, BUET) <strong>  ·  </strong>  Advanced Thermodynamics (classical and statistical) (Dept. of ME, BUET) <strong>  ·  </strong> Boiling & Condensation Heat Transfer (Dept. of ME, BUET) · Reservoir Engineering (Dept. of PMRE, BUET) <strong>  ·  </strong> Non-linear Dynamics & Chaos (S. Strogatz, Online) <strong>  ·  </strong>Non-linear Systems (J. Slotine, MOCW) <strong>  ·  </strong> Control Bootcamp (S. L. Brunton, Online) <strong>  ·  </strong> Global Warming - Science & Modeling (D. Archer, edX) <strong>  ·  </strong> Understanding Rheology (F. Morrison, Online) <strong>  ·  </strong> Flow in Porous Media (M. Blunt, Online) <strong>  ·  </strong> Physics of Turbulence (M. K. Verma, IITK-NPTEL) <strong>  ·  </strong> Advanced Fluid Mechanics (S. Chakraborty, IITKGP-NPTEL) <strong>  ·  </strong> AI Principles & Techniques (Stanford Online) <strong>  ·  </strong> Deep Learning in Scientific Computing (ETH Zurich) <strong>  ·  </strong> Data Analytics and Geostatistics (M. J. Pyrcz, Online) <strong>  ·  </strong> Matrix Calculus for Machine Learning and Beyond (A. Edelman & S. G. Johnson, MOCW) <strong>  ·  </strong> Matrix, Numerical and Optimization Methods in Science and Engineering (K. Cassel, Online) <strong>  ·  </strong> Applied Time Series Analysis (A. K. Tangirala, IITM-NPTEL) <strong>  ·  </strong> Probabilistic System Analysis and Applied Probability (J. Tsitsiklis, MOCW) <strong>  ·  </strong> Data-Driven Science and Engineering (S. L. Brunton, Online) <strong>  ·  </strong> Random Physics Lectures (classical, Statistical, Quantum Mechanics, Modern Physics - Special and General Relativity by L. Susskind, Online )- did just for fun. 
+    </div>
+    <div class="inline-par" style="margin-top:8px;">
+      <strong>Undergraduate / Core:</strong>
+      Instrumentation and Measurement <strong>  ·  </strong> Electro-Mechanical System Design (Project) <strong>  ·  </strong> Noise & Vibration <strong>  ·  </strong> Control Engineering <strong>  ·  </strong> Engineering Mechanics (I & II) <strong>  ·  </strong> Mechanics of Solids <strong>  ·  </strong> Thermodynamics (Basic) <strong>  ·  </strong> Advanced Thermodynamics (Classical and Statistical) <strong>  ·  </strong> Fluid Mechanics (I & II) <strong>  ·  </strong> Heat Transfer <strong>  ·  </strong> Heat Transfer Equipment Design <strong>  ·  </strong> Thermo Fluid System Design (Project) <strong>  ·  </strong> Combustion <strong>  ·  </strong> Refrigeration and Building Mechanical System <strong>  ·  </strong> Numerical Analysis <strong>  ·  </strong> Computer Programming 
+    </div>
+  </section>
+
+  <section class="section" id="training">
+    <h2>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 8V7a2 2 0 0 0-2-2h-3"></path>
+        <path d="M3 8v9a2 2 0 0 0 2 2h3"></path>
+      </svg>
+      Training & MOOC Completion
+    </h2>
+
+    <p class="inline-par">
+      Research Skill Development · DCE, BUET · <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/EXOfHmAlqktAtOIqCe3qqqwBMHvi-7VKch1JsfkeN4RUmw?e=1pHMCX">Certificate</a>
+      <span class="dot">·</span>
+      Quantitative Method · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/KUNNEK67EW6E">Certificate</a>
+      <span class="dot">·</span>
+      Evaluating Problems · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/QWF5B9NVSPDD">Certificate</a>
+      <span class="dot">·</span>
+      Welcome to Game Theory · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/3V72R3HBVLJS">Certificate</a>
+      <span class="dot">·</span>
+      Intro to Data Analysis using Excel · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/8SC5YX5ZGN9K">Certificate</a>
+      <span class="dot">·</span>
+      Introduction to Programming with MATLAB · Coursera · <a href="https://www.coursera.org/account/accomplishments/verify/TCQNM5G5Y7FP">Certificate</a>
+      <span class="dot">·</span>
+      Python for Everybody (Specialization) · Coursera · <a href="https://www.coursera.org/account/accomplishments/specialization/VPRVZ5MZ43HX">Certificate</a>
+      <span class="dot">·</span>
+      ELEN7070x: Research Methods · EdX · <a href="https://courses.edx.org/certificates/9abb933553e644ed9f41ff096fc60a72">Certificate</a>
+      <span class="dot">·</span>
+      16.00x: Introduction to Aerospace Engineering · EdX · <a href="https://courses.edx.org/certificates/ec2238cfcac64bbebddb7263c82ce30c">Certificate</a>
+      <span class="dot">·</span>
+      Image Processing Onramp · MathWorks · <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=6c90b29d-19c4-4b51-9069-fa743ed4b1f7&">Certificate</a>
+      <span class="dot">·</span>
+      Solving ODEs with MATLAB · MathWorks · <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c390f6ca-c82a-4189-83ef-c67ccb7cc0dc&">Certificate</a>
+    </p>
   </section>
 
 </div>
