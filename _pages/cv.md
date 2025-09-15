@@ -330,68 +330,29 @@ author_profile: true
   Research Experience
 </h2>
 
-
-  <div class="entry">
-    <div class="entry-left">
-      <div class="institution">
-        <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
-        <div>
-          <div class="inst-name">Bangladesh University of Engineering and Technology (BUET)</div>
-          <div class="inst-sub">Lecturer, Dept. of Petroleum & Mineral Resources Engineering</div>
-        </div>
-      </div>
-      <p class="entry-desc">
-        <strong> Academic research </strong> on · Energy Resources Engineering · Hydrocarbon Reservoir Engineering · Advanced Well Testing and Interpretation · Advanced Reservoir Simulation .<br>
-        <strong> Taught (Undergraduate Courses):</strong> PMRE 411 · Reservoir Engineering · PMRE 413 · Natural Gas Engineering (≈50 students each)
-      </p>
-    </div>
-    <div class="entry-right">
-      Dec 2023 – Present
-      <span class="location">Dhaka, Bangladesh</span>
-    </div>
-  </div>
-
   <div class="entry" style="margin-top:8px;">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
+        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
         <div>
-          <div class="inst-name">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, Dept. of Mechanical Engineering, BUET</div>
-          <div class="inst-sub">Research Assistant</div>
+          <div class="inst-name">Research Assistant</div>
+          <div class="inst-sub">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, Department of Mechanical Engineering, BUET. Mentor: Dr. Sumon Saha</div>
         </div>
       </div>
-      <div class="entry-desc">Numerical modeling & simulation of thermo-fluid problems · CFD & Heat Transfer research · Mentored undergraduate students</div>
-    </div>
+      <div class="entry-desc">
+  <p>Worked on numerous numerical modeling and simulation studies, with some thematic focuses including:</p>
+  <ul>
+    <li><span style="color: #1967d2;">Thermal Management and Control:</span> Studied the robustness of linear controllers (P, PI, PID) in mixed convection environments using a <span style="text-decoration: underline;">CFD approach</span>.</li>
+    <li><span style="color: #1967d2;">Fundamental Heat Transfer Analysis:</span> Revisited and refined numerical calculations for the <span style="text-decoration: underline;">Nusselt Number (Nu)</span> under various thermal boundary conditions.</li>
+    <li><span style="color: #1967d2;">Multiphysics Fluid Flow Simulations:</span> Worked on the numerical solution of natural and mixed convection heat transfer in <span style="text-decoration: underline;">porous media</span>, including effects of <span style="text-decoration: underline;">magnetohydrodynamics, Joule heating, and internal heat generation</span>.</li>
+    <li><span style="color: #1967d2;">Advanced Simulations:</span> Conducted various benchmark simulations, including <span style="text-decoration: underline;">RANS turbulence, multiphase flow, and phase transition analyses</span>.</li>
+  </ul>
+  <p><span style="color: #1967d2; text-decoration: underline;">Published multiple papers as lead author in international peer-reviewed journals.</span></p>
+  <p>Presented group work as a lead author at an international conference (14th International Conference on Mechanical Engineering) hosted by the Department of Mechanical Engineering, BUET, Dhaka, Bangladesh.</p>
+  <p>Another paper, with me as the lead author and presented by another speaker, was presented at the 17th Asian Congress of Fluid Mechanics in Beijing, China.</p>
+  <p>Mentored undergraduate students in their CFD and heat transfer-related theses.</p>
+</div>
     <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
-  </div>
-
-  <div class="entry" style="margin-top:8px;">
-    <div class="entry-left">
-      <div class="institution">
-        <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
-        <div>
-          <div class="inst-name">Directorate of Continuing Education, BUET</div>
-          <div class="inst-sub">Co-instructor</div>
-        </div>
-      </div>
-      <div class="entry-desc">Short course: COMSOL Multiphysics Simulation of Thermo-fluidic Problems (Basic Level) · 2-day workshop · Resource person: Dr. Sumon Saha</div>
-    </div>
-    <div class="entry-right">Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
-  </div>
-
-  <div class="entry" style="margin-top:8px;">
-    <div class="entry-left">
-      <div class="institution">
-        <img src="{{ site.baseurl }}/images/powertek.jpeg" alt="Powertek logo" class="institution-logo">
-        <div>
-          <div class="inst-name">Haripur 360 MW Combined Cycle Power Plant</div>
-          <div class="inst-sub">Industrial Trainee </div>
-        </div>
-      </div>
-      <div class="entry-desc">An internship program organized by the dept. of Mechanical Engineering, BUET <br>
-      Hands-on exposure to power generation, Plant unit operations (FGC, HRSG, ST, GT, WT), maintenance, and process control.</div>
-    </div>
-    <div class="entry-right">Apr 2022 (3 weeks) <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 </section>
 
