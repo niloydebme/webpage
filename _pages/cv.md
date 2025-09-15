@@ -321,13 +321,17 @@ author_profile: true
   </section>
 
 <section class="section" id="professional">
-  <h2>
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-      <rect x="2" y="7" width="20" height="14" rx="2"></rect>
-      <path d="M16 3h0a2 2 0 0 1 2 2v2H6V5a2 2 0 0 1 2-2h0"></path>
-    </svg>
-    Professional Experience
-  </h2>
+ <h2>
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 18h12"></path>
+    <path d="M9 14v-3a3 3 0 0 1 6 0v3"></path>
+    <path d="M9 14h6"></path>
+    <path d="M12 11v3"></path>
+    <circle cx="12" cy="6" r="2"></circle>
+  </svg>
+  Research Experience
+</h2>
+
 
   <div class="entry">
     <div class="entry-left">
@@ -561,12 +565,13 @@ author_profile: true
 
 
   <section class="section" id="skills">
-    <h2>
-       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width:24px; height:24px; opacity:.95;">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M9.594 3.94c.09-.542.56-.94 1.11-.94h2.514c.55 0 1.02.398 1.11.94l.213 1.28c.554.113 1.074.453 1.503.94l1.28.213c.542.09.94.56.94 1.11v2.514c0 .55-.398 1.02-.94 1.11l-1.28.213a6.72 6.72 0 0 1-.94 1.503l-.213 1.28c-.09.542-.56.94-1.11.94h-2.514c-.55 0-1.02-.398-1.11-.94l-.213-1.28a6.72 6.72 0 0 1-1.503-.94l-1.28-.213c-.542-.09-.94-.56-.94-1.11v-2.514c0-.55.398-1.02.94-1.11l1.28-.213a6.72 6.72 0 0 1 .94-1.503l.213-1.28Z" />
-        <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
-      </svg>
-      Technical Skills
+       <h2>
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="3"></circle>
+    <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V22a2 2 0 1 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H2a2 2 0 1 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06c.48.48 1.17.64 1.82.33H8a1.65 1.65 0 0 0 1-1.51V2a2 2 0 1 1 4 0v.09c0 .66.37 1.26 1 1.51.65.31 1.34.15 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9c0 .66.37 1.26 1 1.51.65.31 1.34.15 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06c-.48.48-.64 1.17-.33 1.82V15z"></path>
+  </svg>
+  Technical Skills
+</h2>
     </h2>
     <p class="entry-desc">
       <strong>Highlights:</strong> Scientific Writing · Exploratory Data Analysis · Quantitative Research
@@ -585,11 +590,14 @@ author_profile: true
 
   <section class="section" id="awards">
     <h2>
-       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" style="width:24px; height:24px; opacity:.95;">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.62 48.62 0 0 1 12 20.915c3.593 0 7.172-.647 10.42-1.921-.191-2.924-.715-5.83-1.89-8.568M4.26 10.147c6.182-5.744 12.827-6.023 16.326-2.197M4.26 10.147a60.462 60.462 0 0 1 1.042-4.148m-.576-.445C7.942 2.064 12.38 2.064 15.65 3.32a8.716 8.716 0 0 0 1.524 1.05M20.326 7.95c.531.636 1.058 1.236 1.574 1.838m-1.574-1.838a60.462 60.462 0 0 1-.576-.445m0 0a24.115 24.115 0 0 1-5.76-1.458" />
-      </svg>
-      Awards & Achievements
-    </h2>
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 21h8"></path>
+    <path d="M12 17v4"></path>
+    <path d="M7 4h10v4a5 5 0 0 1-10 0V4z"></path>
+    <path d="M5 4h2v4a7 7 0 0 0 14 0V4h2"></path>
+  </svg>
+  Achievements
+</h2>
     <ul class="compact-list">
       <li><strong>Dr. Muhammad Harunur Rashid Award (ICME 2023):</strong> Best paper — 14th International Conference on Mechanical Engineering, Dept. of Mechanical Engineering, BUET</li>
       <li><strong>University Merit Scholarship (2018–2023):</strong> Awarded for consecutive terms, BUET</li>
@@ -648,3 +656,5 @@ author_profile: true
       Solving ODEs with MATLAB · MathWorks · <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c390f6ca-c82a-4189-83ef-c67ccb7cc0dc&">Certificate</a>
     </p>
   </section>
+</div>
+</div>
