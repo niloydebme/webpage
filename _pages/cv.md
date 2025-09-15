@@ -335,8 +335,8 @@ author_profile: true
       <div class="institution">
         <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
         <div>
-          <div class="inst-name">Research Assistant</div>
-          <div class="inst-sub">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, Department of Mechanical Engineering, BUET. Mentor: Dr. Sumon Saha</div>
+          <div class="inst-name">Research Assistant, Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</div>
+          <div class="inst-sub"> Department of Mechanical Engineering, BUET. Mentor: Dr. Sumon Saha</div>
         </div>
       </div>
       
@@ -364,9 +364,9 @@ author_profile: true
       </li>
     </ul>
     <p style="margin-top: 5px; margin-bottom: 5px; text-decoration: underline;">Published multiple papers as lead author in international peer-reviewed journals.</p>
-    <p style="margin-top: 5px; margin-bottom: 5px;">Presented group work as a lead author at an international conference (14th International Conference on Mechanical Engineering) hosted by the Department of Mechanical Engineering, BUET, Dhaka, Bangladesh.</p>
+    <p style="margin-top: 5px; margin-bottom: 5px;"> <span style="text-decoration: underline;">Presented group work as a lead author at an international conference </span> (14th International Conference on Mechanical Engineering) hosted by the Department of Mechanical Engineering, BUET, Dhaka, Bangladesh.</p>
     <p style="margin-top: 5px; margin-bottom: 5px;">Another paper, with me as the lead author and presented by another speaker, was presented at the 17th Asian Congress of Fluid Mechanics in Beijing, China.</p>
-    <p style="margin-top: 5px;">Mentored undergraduate students in their CFD and heat transfer-related theses.</p>
+    <p style="margin-top: 5px;"> <span style="text-decoration: underline;"> Mentored undergraduate students </span> in their CFD and heat transfer-related theses.</p>
   </div>
 </section>
 
