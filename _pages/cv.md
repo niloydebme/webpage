@@ -226,8 +226,8 @@ author_profile: true
   }
 </style>
 
-<div class="cv">
 
+<div class="cv">
   <div class="header">
     <div style="width:68%;">
       <p class="name">Niloy Deb</p>
@@ -247,8 +247,6 @@ author_profile: true
       </div>
     </div>
   </div>
-
-
 
   <section class="section" id="education">
     <h2>
@@ -320,7 +318,6 @@ author_profile: true
       <span class="chip">Fluid Flow Through Porous and Subsurface Media</span>
     </div>
   </section>
-
 
 <section class="section" id="professional">
   <h2>
@@ -611,7 +608,8 @@ author_profile: true
       <strong>Advanced / Graduate & Self-Learning:</strong> (listed partially)
       Advanced Numerical Analysis (Dept. of ME, BUET) <strong>  ·  </strong>  Advanced Thermodynamics (classical and statistical) (Dept. of ME, BUET) <strong>  ·  </strong> Boiling & Condensation Heat Transfer (Dept. of ME, BUET) <stron> · </strong> Reservoir Engineering (Dept. of PMRE, BUET) <stron> · </strong> Well Testing Analysis (Dept. of PMRE, BUET)<strong>  ·  </strong> Non-linear Dynamics & Chaos (S. Strogatz, Online) <strong>  ·  </strong>Non-linear Systems (J. Slotine, MOCW) <strong>  ·  </strong> Control Bootcamp (S. L. Brunton, Online) <strong>  ·  </strong> Global Warming - Science & Modeling (D. Archer, edX) <strong>  ·  </strong> Understanding Rheology (F. Morrison, Online) <strong>  ·  </strong> Flow in Porous Media (M. Blunt, Online) <strong>  ·  </strong> Physics of Turbulence (M. K. Verma, IITK-NPTEL) <strong>  ·  </strong> Advanced Fluid Mechanics (S. Chakraborty, IITKGP-NPTEL) <strong>  ·  </strong> AI Principles & Techniques (Stanford Online) <strong>  ·  </strong> Deep Learning in Scientific Computing (ETH Zurich) <strong>  ·  </strong> Data Analytics and Geostatistics (M. J. Pyrcz, Online) <strong>  ·  </strong> Matrix Calculus for Machine Learning and Beyond (A. Edelman & S. G. Johnson, MOCW) <strong>  ·  </strong> Matrix, Numerical and Optimization Methods in Science and Engineering (K. Cassel, Online) <strong>  ·  </strong> Applied Time Series Analysis (A. K. Tangirala, IITM-NPTEL) <strong>  ·  </strong> Probabilistic System Analysis and Applied Probability (J. Tsitsiklis, MOCW) <strong>  ·  </strong> Data-Driven Science and Engineering (S. L. Brunton, Online) <strong>  ·  </strong> Random Physics Lectures (classical, Statistical, Quantum Mechanics, Modern Physics - Special and General Relativity by L. Susskind, Online )- did just for fun. 
     </div>
-    <div class="inline-par" style="margin-top:8px;">
+
+  <div class="inline-par" style="margin-top:8px;">
       <strong>Undergraduate / Core:</strong>
       Instrumentation and Measurement <strong>  ·  </strong> Electro-Mechanical System Design (Project) <strong>  ·  </strong> Noise & Vibration <strong>  ·  </strong> Control Engineering <strong>  ·  </strong> Engineering Mechanics (I & II) <strong>  ·  </strong> Mechanics of Solids <strong>  ·  </strong> Thermodynamics (Basic) <strong>  ·  </strong> Advanced Thermodynamics (Classical and Statistical) <strong>  ·  </strong> Fluid Mechanics (I & II) <strong>  ·  </strong> Heat Transfer <strong>  ·  </strong> Heat Transfer Equipment Design <strong>  ·  </strong> Thermo Fluid System Design (Project) <strong>  ·  </strong> Combustion <strong>  ·  </strong> Refrigeration and Building Mechanical System <strong>  ·  </strong> Numerical Analysis <strong>  ·  </strong> Computer Programming 
     </div>
@@ -625,7 +623,6 @@ author_profile: true
       </svg>
       Training & MOOC Completion
     </h2>
-
     <p class="inline-par">
       Research Skill Development · DCE, BUET · <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/EXOfHmAlqktAtOIqCe3qqqwBMHvi-7VKch1JsfkeN4RUmw?e=1pHMCX">Certificate</a>
       <span class="dot">·</span>
@@ -650,5 +647,4 @@ author_profile: true
       Solving ODEs with MATLAB · MathWorks · <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c390f6ca-c82a-4189-83ef-c67ccb7cc0dc&">Certificate</a>
     </p>
   </section>
-
 </div>
