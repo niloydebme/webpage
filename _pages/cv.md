@@ -343,19 +343,31 @@ author_profile: true
 </div>
     <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
   </div>
-  <p class="entry-desc">
-  <p>Worked on numerous numerical modeling and simulation studies, with some thematic focuses including:</p>
-  <ul>
-    <li><span style="color: #1967d2;">Thermal Management and Control:</span> Studied the robustness of linear controllers (P, PI, PID) in mixed convection environments using a <span style="text-decoration: underline;">CFD approach</span>.</li>
-    <li><span style="color: #1967d2;">Fundamental Heat Transfer Analysis:</span> Revisited and refined numerical calculations for the <span style="text-decoration: underline;">Nusselt Number (Nu)</span> under various thermal boundary conditions.</li>
-    <li><span style="color: #1967d2;">Multiphysics Fluid Flow Simulations:</span> Worked on the numerical solution of natural and mixed convection heat transfer in <span style="text-decoration: underline;">porous media</span>, including effects of <span style="text-decoration: underline;">magnetohydrodynamics, Joule heating, and internal heat generation</span>.</li>
-    <li><span style="color: #1967d2;">Advanced Simulations:</span> Conducted various benchmark simulations, including <span style="text-decoration: underline;">RANS turbulence, multiphase flow, and phase transition analyses</span>.</li>
-  </ul>
-  <p><span style="color: #1967d2; text-decoration: underline;">Published multiple papers as lead author in international peer-reviewed journals.</span></p>
-  <p>Presented group work as a lead author at an international conference (14th International Conference on Mechanical Engineering) hosted by the Department of Mechanical Engineering, BUET, Dhaka, Bangladesh.</p>
-  <p>Another paper, with me as the lead author and presented by another speaker, was presented at the 17th Asian Congress of Fluid Mechanics in Beijing, China.</p>
-  <p>Mentored undergraduate students in their CFD and heat transfer-related theses.</p>
-</p>
+ <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
+    <p style="margin-bottom: 5px;">Worked on numerous numerical modeling and simulation studies, with some thematic focuses including:</p>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+        <strong>Thermal Management and Control:</strong> Studied the robustness of linear controllers (P, PI, PID) in mixed convection environments using a <span style="text-decoration: underline;">CFD approach</span>.
+      </li>
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+        <strong>Fundamental Heat Transfer Analysis:</strong> Revisited and refined numerical calculations for the <span style="text-decoration: underline;">Nusselt Number (Nu)</span> under various thermal boundary conditions.
+      </li>
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+        <strong>Multiphysics Fluid Flow Simulations:</strong> Worked on the numerical solution of natural and mixed convection heat transfer in <span style="text-decoration: underline;">porous media</span>, including effects of <span style="text-decoration: underline;">magnetohydrodynamics, Joule heating, and internal heat generation</span>.
+      </li>
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+        <strong>Advanced Simulations:</strong> Conducted various benchmark simulations, including <span style="text-decoration: underline;">RANS turbulence, multiphase flow, and phase transition analyses</span>.
+      </li>
+    </ul>
+    <p style="margin-top: 5px; margin-bottom: 5px; text-decoration: underline;">Published multiple papers as lead author in international peer-reviewed journals.</p>
+    <p style="margin-top: 5px; margin-bottom: 5px;">Presented group work as a lead author at an international conference (14th International Conference on Mechanical Engineering) hosted by the Department of Mechanical Engineering, BUET, Dhaka, Bangladesh.</p>
+    <p style="margin-top: 5px; margin-bottom: 5px;">Another paper, with me as the lead author and presented by another speaker, was presented at the 17th Asian Congress of Fluid Mechanics in Beijing, China.</p>
+    <p style="margin-top: 5px;">Mentored undergraduate students in their CFD and heat transfer-related theses.</p>
+  </div>
 </section>
 
 <section class="section" id="professional">
