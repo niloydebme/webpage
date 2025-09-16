@@ -335,7 +335,7 @@ author_profile: true
       <div class="institution">
         <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
         <div>
-          <div class="inst-name">Research Assistant, Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</div>
+          <div class="inst-name">Research Assistant, <span style="font-weight: normal;">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</span></div>
           <div class="inst-sub"> Department of Mechanical Engineering, BUET. <span style="text-decoration: underline;">Mentor: Dr. Sumon Saha</span></div>
         </div>
       </div>
@@ -386,7 +386,7 @@ author_profile: true
       <div class="institution">
         <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
         <div>
-          <div class="inst-name">Undergraduate Researcher, Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</div>
+          <div class="inst-name">Undergraduate Researcher, <span style="font-weight: normal;">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</span></div>
           <div class="inst-sub"> Department of Mechanical Engineering, BUET. <span style="text-decoration: underline;">Mentor: Dr. Sumon Saha</span></div>
         </div>
       </div>
@@ -437,7 +437,7 @@ author_profile: true
       <div class="institution">
         <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
         <div>
-          <div class="inst-name">Lecturer, Dept. of Petroleum and Mineral Resources Engineering</div>
+          <div class="inst-name">Lecturer, <span style="font-weight: normal;">Dept. of Petroleum and Mineral Resources Engineering </span></div>
           <div class="inst-sub">Bangladesh University of Engineering and Technology</div>
         </div>
       </div>
@@ -457,7 +457,7 @@ author_profile: true
       <div class="institution">
         <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
         <div>
-          <div class="inst-name"> Co-instructor, Short Course </div>
+          <div class="inst-name"> Co-instructor, <span style="font-weight: normal;">Short Course</span> </div>
           <div class="inst-sub">Directorate of Continuing Education, BUET</div>
         </div>
       </div>
