@@ -552,13 +552,13 @@ author_profile: true
         <path d="M3 11h18"></path>
         <path d="M3 15h18"></path>
       </svg>
-      Academic Projects
+      Technical Projects
     </h2>
 
    <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
-        <div class="inst-name">Design of a Counter-Flow Shell & Helical Coil Tube Heat Exchanger (SHCTHX)</div>
-        <div class="inst-sub">ME-310: Thermo-fluid System Design & Practice</div>
+        <div class="inst-name"> <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Design of a Counter-Flow Shell & Helical Coil Tube Heat Exchanger (SHCTHX)</div>
+        <div class="inst-sub"><span style = "color: var(--accent);"> ME-310: Thermo-fluid System Design & Practice, Supervisor: Dr. AKM Monjur Morshed, Professor, Dept. of ME, BUET  </span> </div>
         <div class="entry-desc">CAD design · Thermo-hydraulic calculations · Prototype design and CFD simulation for flow & thermal visualization.</div>
       </div>
       <div class="entry-right">Feb 2022</div>
@@ -566,8 +566,8 @@ author_profile: true
 
   <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
-        <div class="inst-name">Self-Stabilizing, Computer-Controlled Laser Turret</div>
-        <div class="inst-sub">ME-366: Electromechanical System Design & Practice</div>
+        <div class="inst-name"><span style="position: absolute; left: -15px; font-size: 1em;">►</span> Self-Stabilizing, Computer-Controlled Laser Turret</div>
+        <div class="inst-sub">ME-366: Electromechanical System Design & Practice, Supervisor: Dr. Aman Uddin, Associate Professor, Dept. of ME, BUET</div>
         <div class="entry-desc">CAD · Arduino programming · sensor integration & feedback control · hardware-software integration for stabilization and precision.</div>
       </div>
       <div class="entry-right">Jul 2021</div>
