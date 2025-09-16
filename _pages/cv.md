@@ -65,7 +65,7 @@ author_profile: true
   /* Section */
   .section {
     margin-top: 14px;
-    padding-bottom: 12px;
+    padding-bottom: 14px;
     border-bottom: 1px solid var(--line);
   }
 
@@ -120,7 +120,7 @@ author_profile: true
     height: 28px;
     width: auto;
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: top;
   }
 
   .institution .inst-name {
