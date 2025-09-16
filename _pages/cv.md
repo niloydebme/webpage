@@ -273,7 +273,7 @@ author_profile: true
         </p>
       </div>
       <div class="entry-right">
-        March 2018 – May 2023
+        Mar 2018 – May 2023
         <span class="location">Dhaka, Bangladesh</span>
       </div>
     </div>
@@ -291,7 +291,7 @@ author_profile: true
         </p>
       </div>
       <div class="entry-right">
-        June 2015 - August 2017
+        Jun 2015 - Aug 2017
         <span class="location">Dhaka, Bangladesh</span>
       </div>
     </div>
@@ -392,7 +392,7 @@ author_profile: true
       </div>
       
 </div>
-    <div class="entry-right">April 2021 – May 2023 <span class="location">Dhaka, Bangladesh</span></div>
+    <div class="entry-right">Apr 2021 – May 2023 <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
@@ -478,7 +478,7 @@ author_profile: true
       <div class="entry-desc">An internship program organized by the dept. of Mechanical Engineering, BUET <br>
       Hands-on exposure to power generation, Plant unit operations (FGC, HRSG, ST, GT, WT), maintenance, and process control.</div>
     </div>
-    <div class="entry-right">Nov-Dec 2022 (3 weeks) <span class="location">Dhaka, Bangladesh</span></div>
+    <div class="entry-right">Nov - Dec 2022 (3 weeks) <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 </section>
 
@@ -557,20 +557,22 @@ author_profile: true
 
    <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
-        <div class="inst-name"> <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Design of a Counter-Flow Shell & Helical Coil Tube Heat Exchanger (SHCTHX)</div>
-        <div class="inst-sub"><span style = "color: var(--accent);"> ME-310: Thermo-fluid System Design & Practice, Supervisor: Dr. AKM Monjur Morshed, Professor, Dept. of ME, BUET  </span> </div>
+        <div class="inst-name"> &#9656; Design of a Counter-Flow Shell & Helical Coil Tube Heat Exchanger (SHCTHX)</div>
+        <div class="inst-sub"><span style = "color: var(--accent);"> ME-310: Thermo-fluid System Design & Practice<br>
+         Supervisor: Dr. AKM Monjur Morshed, Professor, Dept. of ME, BUET  </span> </div>
         <div class="entry-desc">CAD design · Thermo-hydraulic calculations · Prototype design and CFD simulation for flow & thermal visualization.</div>
       </div>
-      <div class="entry-right">Feb 2022</div>
+      <div class="entry-right">Jan - Feb 2022</div>
     </div>
 
   <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
-        <div class="inst-name"><span style="position: absolute; left: -15px; font-size: 1em;">►</span> Self-Stabilizing, Computer-Controlled Laser Turret</div>
-        <div class="inst-sub">ME-366: Electromechanical System Design & Practice, Supervisor: Dr. Aman Uddin, Associate Professor, Dept. of ME, BUET</div>
+        <div class="inst-name">&#9656; Self-Stabilizing, Computer-Controlled Laser Turret</div>
+        <div class="inst-sub">ME-366: Electromechanical System Design & Practice<br>
+         Supervisor: Dr. Aman Uddin, Associate Professor, Dept. of ME, BUET</div>
         <div class="entry-desc">CAD · Arduino programming · sensor integration & feedback control · hardware-software integration for stabilization and precision.</div>
       </div>
-      <div class="entry-right">Jul 2021</div>
+      <div class="entry-right">Apr - Jun 2021</div>
     </div>
   </section>
 
