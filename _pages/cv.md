@@ -344,7 +344,7 @@ author_profile: true
     <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
   </div>
  <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-    <p style="margin-bottom: 5px;">Worked on numerous numerical modeling and simulation studies, with some thematic focuses including:</p>
+    <p style="margin-bottom: 5px;"> &middot; Worked on numerous numerical modeling and simulation studies, with some thematic focuses including:</p>
     <ul style="list-style-type: none; padding-left: 20px;">
       <li style="position: relative; margin-bottom: 5px;">
         <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
@@ -363,9 +363,9 @@ author_profile: true
         <strong>Advanced Simulations:</strong> Conducted various benchmark simulations, including <span style="text-decoration: underline;">RANS turbulence, multiphase flow, and phase transition analyses</span>.
       </li>
     </ul>
-    <p style="margin-top: 5px; margin-bottom: 5px; text-decoration: underline;">Published multiple papers as lead author in international peer-reviewed journals.</p>
-    <p style="margin-top: 5px; margin-bottom: 5px;"> <span style="text-decoration: underline;">Presented group work as a lead author at an international conference </span> (14th International Conference on Mechanical Engineering) hosted by the Department of Mechanical Engineering, BUET, Dhaka, Bangladesh.</p>
-    <p style="margin-top: 5px; margin-bottom: 5px;">Another paper, with me as the lead author and presented by another speaker, was presented at the 17th Asian Congress of Fluid Mechanics in Beijing, China.</p>
+    <p style="margin-top: 5px; margin-bottom: 5px; text-decoration: underline;"> &middot; Published multiple papers as lead author in international peer-reviewed journals.</p>
+    <p style="margin-top: 5px; margin-bottom: 5px;"> <span style="text-decoration: underline;"> &middot; Presented group work as a lead author at an international conference </span> (14th International Conference on Mechanical Engineering) hosted by the Department of Mechanical Engineering, BUET, Dhaka, Bangladesh.</p>
+    <p style="margin-top: 5px; margin-bottom: 5px;"> &middot; <span style="text-decoration: underline;">I was the lead author </span> of another paper presented at the 17th Asian Congress of Fluid Mechanics in Beijing, China.</p>
     <p style="margin-top: 5px;"> <span style="text-decoration: underline;"> Mentored undergraduate students </span> in their CFD and heat transfer-related theses.</p>
   </div>
 </section>
