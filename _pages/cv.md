@@ -584,7 +584,7 @@ author_profile: true
   </svg>
   Technical Skills
 </h2>
-      <div class="entry-desc" style="margin-bottom:6px;">
+      <div class="entry-desc" style="margin-bottom:6px; color: var(--accent);">
     <strong>Highlights:</strong> Scientific Writing · Exploratory Data Analysis · Quantitative Research
   </div>
 
