@@ -336,7 +336,7 @@ author_profile: true
         <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
         <div>
           <div class="inst-name">Research Assistant, Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</div>
-          <div class="inst-sub"> Department of Mechanical Engineering, BUET. Mentor: Dr. Sumon Saha</div>
+          <div class="inst-sub"> Department of Mechanical Engineering, BUET. <span style="text-decoration: underline;">Mentor: Dr. Sumon Saha</span></div>
         </div>
       </div>
       
@@ -348,7 +348,7 @@ author_profile: true
     <ul style="list-style-type: none; padding-left: 20px;">
       <li style="position: relative; margin-bottom: 5px;">
         <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-        Studied the robustness of linear controllers (P, PI, PID) in mixed convection environments from a <span style="text-decoration: underline;">CFD perspective</span>.
+        Studied the robustness of linear controllers (P, PI, PID) in mixed convection cases from a <span style="text-decoration: underline;">CFD perspective</span>.
       </li>
       <li style="position: relative; margin-bottom: 5px;">
         <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
@@ -380,6 +380,47 @@ author_profile: true
       </li>
     </ul>
   </div>
+
+  <div class="entry" style="margin-top:8px;">
+    <div class="entry-left">
+      <div class="institution">
+        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
+        <div>
+          <div class="inst-name">Undergraduate Researcher, Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</div>
+          <div class="inst-sub"> Department of Mechanical Engineering, BUET. <span style="text-decoration: underline;">Mentor: Dr. Sumon Saha</span></div>
+        </div>
+      </div>
+      
+</div>
+    <div class="entry-right">April 2021 – May 2023 <span class="location">Dhaka, Bangladesh</span></div>
+  </div>
+
+  <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
+    <p style="margin-bottom: 5px;"> I worked in that role during my junior and senior years of undergraduate study.</p>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+        First acquaintance with the workflow of CFD modeling –  <span style="text-decoration: underline;">pre-processing, solver, and post-processing</span>.
+      </li>
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Modeled several thermofluidic problems using a FEM-based commercial CFD tool – 
+          <span style="text-decoration: underline;">COMSOL Multiphysics.</span> 
+      </li>
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Began working on my undergraduate thesis:
+          <span style="text-decoration: underline;">Numerical Study of Natural and Mixed Convection in Enclosures with Porous Media of Varying Geometries.</span> 
+      </li>
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Was fortunate to draft my first publication-worthy manuscript titled <span style="text-decoration: underline;">“Natural convection and entropy generation inside a square chamber divided by a corrugated porous partition”</span>, and later  
+          <span style="text-decoration: underline;">“Convective flow optimization inside a lid-driven chamber with a rotating porous cylinder using Darcy–Brinkman–Forchheimer model”</span> during my final year.
+      </li>
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Had the privilege of being mentored by 
+          <span style="text-decoration: underline;">Dr. Prodip K. Das, Associate Professor in Hydrogen Energy Systems, University of Edinburgh, UK.</span> 
+      </li>
+    </ul>
+  </div>
+
 </section>
 
 <section class="section" id="professional">
