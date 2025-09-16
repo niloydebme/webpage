@@ -584,19 +584,44 @@ author_profile: true
   </svg>
   Technical Skills
 </h2>
-    <p class="entry-desc">
-      <strong>Highlights:</strong> Scientific Writing · Exploratory Data Analysis · Quantitative Research
-    </p>
-    <ul class="compact-list">
-      <li><strong>Programming Language:</strong> Python, MATLAB, C</li>
-      <li><strong>Documentation/Scripting:</strong> LaTeX, MS Office, Jupyter Notebook Markdown Text</li>
-      <li><strong>Visualization:</strong> Tecplot 360, WebPlotDigitizer, Desmos graphing calculator, Python - Matplotlib, Plotly, Seaborn</li>
-      <li><strong>Design, CAD, & Drawing:</strong> AutoCAD, SolidWorks, Proteus, Draw.io, Canva, Illustrator, Photoshop, LaTeX - TikZ, Python - OpenCV, Pillow, scikit-image </li>
-      <li><strong>FEM Modeling:</strong> COMSOL Multiphysics</li>
-      <li><strong> Reservoir Simulation:</strong> Kappa Workstation (Rubis - Full Reservoir Numerical Modeling, Saphir - Pressure Transient Analysis).</li>
-      <li><strong> ML/DL/Stats:</strong> Python - scikit-learn, TensorFlow, PyTorch, JAX, SciPY, PyMC/3/4, etc. </li>
-      <li><strong>Exploratory Data Analysis:</strong> Python - Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn</li>
-    </ul>
+      <div class="entry-desc" style="margin-bottom:6px;">
+    <strong>Highlights:</strong> Scientific Writing · Exploratory Data Analysis · Quantitative Research
+  </div>
+
+  <ul style="list-style-type: none; padding-left: 20px; font-size: 13.4px;">
+    <li style="position: relative; margin-bottom: 6px;">
+      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <strong>Programming Languages:</strong> Python, MATLAB, C
+    </li>
+    <li style="position: relative; margin-bottom: 6px;">
+      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <strong>Documentation/Scripting:</strong> LaTeX, MS Office, Jupyter Notebook Markdown
+    </li>
+    <li style="position: relative; margin-bottom: 6px;">
+      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <strong>Visualization:</strong> Tecplot 360, WebPlotDigitizer, Desmos, Python - Matplotlib, Plotly, Seaborn
+    </li>
+    <li style="position: relative; margin-bottom: 6px;">
+      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <strong>Design, CAD, & Drawing:</strong> AutoCAD, SolidWorks, Proteus, Draw.io, Canva, Illustrator, Photoshop, LaTeX-TikZ, Python - OpenCV, Pillow, scikit-image
+    </li>
+    <li style="position: relative; margin-bottom: 6px;">
+      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <strong>FEM Modeling:</strong> COMSOL Multiphysics
+    </li>
+    <li style="position: relative; margin-bottom: 6px;">
+      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <strong>Reservoir Simulation:</strong> Kappa Workstation (Rubis, Saphir)
+    </li>
+    <li style="position: relative; margin-bottom: 6px;">
+      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <strong>ML/DL/Stats:</strong> Python - scikit-learn, TensorFlow, PyTorch, JAX, SciPy, PyMC3/4
+    </li>
+    <li style="position: relative; margin-bottom: 6px;">
+      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <strong>Exploratory Data Analysis:</strong> Python - Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn
+    </li>
+  </ul>
   </section>
 
   <section class="section" id="awards">
