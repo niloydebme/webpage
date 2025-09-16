@@ -482,51 +482,6 @@ author_profile: true
   </div>
 </section>
 
-  <section class="section" id="research">
-    <h2>
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M3 7h18"></path>
-        <path d="M12 3v18"></path>
-      </svg>
-      Research Projects
-    </h2>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name">Thermal Management and Robustness of Linear Controllers (P, PI, PID) in Mixed Convection Modeling - A CFD Approach</div>
-        <div class="entry-desc">Supervisor: Dr. Sumon Saha</div>
-      </div>
-      <div class="entry-right">June 2023</div>
-    </div>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name">Revisiting the Numerical Calculation of Nusselt Number (Nu) for Different Thermal Boundary Conditions</div>
-        <div class="entry-desc">Supervisor: Dr. Sumon Saha</div>
-      </div>
-      <div class="entry-right">Aug 2023</div>
-    </div>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name">Natural and Mixed Convection Heat Transfer in the Presence of Porous Medium with Magnetohydrodynamics, Joule Heating, and Internal Heat Generation</div>
-        <div class="entry-desc">Supervisor: Dr. Sumon Saha</div>
-      </div>
-      <div class="entry-right">Aug 2023</div>
-    </div>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name">Subsurface Fluid Properties and Phase Behavior — A Case Study of the Titas Gas Field in Bangladesh: Changes in Natural Gas Phase Behavior Across Spatial and Temporal Dimensions. </div>
-        <div class="entry-desc">Funded Project by 'Hydrocarbon Unit Research Program 2023–24' · Supervisor / PI: Dr. Mohammed Mahbubur Rahman</div>
-      </div>
-      <div class="entry-right">May 2024</div>
-    </div>
-    <div class="entry" style="margin-top:6px;">
-      <div class="entry-left">
-        <div class="inst-name"> Thermodynamic Optimization of a Novel Three-Stage Direct Expansion Cycle for LNG Cold Energy Recovery</div>
-        <div class="entry-desc"> PI: Shaumik Rahman Ayon</div>
-      </div>
-      <div class="entry-right">May 2024</div>
-    </div>
-  </section>
-
   <section class="section" id="publications">
     <h2>
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
@@ -568,15 +523,61 @@ author_profile: true
   <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
         <div class="inst-name">&#9656; Self-Stabilizing, Computer-Controlled Laser Turret</div>
-        <div class="inst-sub">ME-366: Electromechanical System Design & Practice<br>
-         Supervisor: Dr. Aman Uddin, Associate Professor, Dept. of ME, BUET</div>
+        <div class="inst-sub"><span style = "color: var(--accent);"> ME-366: Electromechanical System Design & Practice<br>
+         Supervisor: Dr. Aman Uddin, Associate Professor, Dept. of ME, BUET </span></div>
         <div class="entry-desc">CAD · Arduino programming · sensor integration & feedback control · hardware-software integration for stabilization and precision.</div>
       </div>
       <div class="entry-right">Apr - Jun 2021</div>
     </div>
   </section>
 
+  <section class="section" id="research">
+    <h2>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 7h18"></path>
+        <path d="M12 3v18"></path>
+      </svg>
+      Presentations
+    </h2>
 
+    <div class="entry" style="margin-top:6px;">
+      <div class="entry-left">
+        <div class="inst-name">How to Review Literature</div>
+        <div class="entry-desc"> Technical writing session organized by the Computational Fluid Dynamics and Heat Transfer Research (CFDHT) Group</div>
+      </div>
+      <div class="entry-right">Aug 2023</div>
+    </div>
+
+    <div class="entry" style="margin-top:6px;">
+      <div class="entry-left">
+        <div class="inst-name">MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium</div>
+        <div class="entry-desc">Technical session, 14th International Conference on Mechanical Engineering (ICME) 2023</div>
+      </div>
+      <div class="entry-right">Dec 2023</div>
+    </div>
+
+
+    <div class="entry" style="margin-top:6px;">
+      <div class="entry-left">
+        <div class="inst-name">Introduction to Porous Mediaand Related Mathematical Modeling for Fluid Flow and Heat Transfer</div>
+        <div class="entry-desc"> Computational Fluid Dynamics Simulation using COMSOL Multiphysics Software, workshop organized by REVA University, Bengaluru, India </div>
+      </div>
+      <div class="entry-right">Sep 2023</div>
+    </div>
+
+
+    <div class="entry" style="margin-top:6px;">
+      <div class="entry-left">
+        <div class="inst-name"> Multi-segment Numerical Integration Method for Solution of Boundary Value Problems (Linear and Non-linear ODEs) </div>
+        <div class="entry-desc"> Tutorial Session </div>
+      </div>
+      <div class="entry-right">May 2024</div>
+    </div>
+
+
+ 
+
+  </section>
 
   <section class="section" id="skills">
        <h2>
