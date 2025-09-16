@@ -437,8 +437,8 @@ author_profile: true
       <div class="institution">
         <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
         <div>
-          <div class="inst-name">Bangladesh University of Engineering and Technology (BUET)</div>
-          <div class="inst-sub">Lecturer, Dept. of Petroleum & Mineral Resources Engineering</div>
+          <div class="inst-name">Lecturer, Dept. of Petroleum and Mineral Resources Engineering</div>
+          <div class="inst-sub">Bangladesh University of Engineering and Technology</div>
         </div>
       </div>
       <p class="entry-desc">
@@ -457,25 +457,11 @@ author_profile: true
       <div class="institution">
         <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
         <div>
-          <div class="inst-name">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, Dept. of Mechanical Engineering, BUET</div>
-          <div class="inst-sub">Research Assistant</div>
+          <div class="inst-name"> Co-instructor, Short Course </div>
+          <div class="inst-sub">Directorate of Continuing Education, BUET</div>
         </div>
       </div>
-      <div class="entry-desc">Numerical modeling & simulation of thermo-fluid problems · CFD & Heat Transfer research · Mentored undergraduate students</div>
-    </div>
-    <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
-  </div>
-
-  <div class="entry" style="margin-top:8px;">
-    <div class="entry-left">
-      <div class="institution">
-        <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
-        <div>
-          <div class="inst-name">Directorate of Continuing Education, BUET</div>
-          <div class="inst-sub">Co-instructor</div>
-        </div>
-      </div>
-      <div class="entry-desc">Short course: COMSOL Multiphysics Simulation of Thermo-fluidic Problems (Basic Level) · 2-day workshop · Resource person: Dr. Sumon Saha</div>
+      <div class="entry-desc">Short course: COMSOL Multiphysics Simulation of Thermo-fluidic Problems (Basic Level) · 2-day (12 hours) workshop · Instructor: Dr. Sumon Saha</div>
     </div>
     <div class="entry-right">Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
   </div>
@@ -485,14 +471,14 @@ author_profile: true
       <div class="institution">
         <img src="{{ site.baseurl }}/images/powertek.jpeg" alt="Powertek logo" class="institution-logo">
         <div>
-          <div class="inst-name">Haripur 360 MW Combined Cycle Power Plant</div>
-          <div class="inst-sub">Industrial Trainee </div>
+          <div class="inst-name">Industrial Trainee</div>
+          <div class="inst-sub"> Haripur 360 MW Combined Cycle Power Plant </div>
         </div>
       </div>
       <div class="entry-desc">An internship program organized by the dept. of Mechanical Engineering, BUET <br>
       Hands-on exposure to power generation, Plant unit operations (FGC, HRSG, ST, GT, WT), maintenance, and process control.</div>
     </div>
-    <div class="entry-right">Apr 2022 (3 weeks) <span class="location">Dhaka, Bangladesh</span></div>
+    <div class="entry-right">Nov-Dec 2022 (3 weeks) <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 </section>
 
