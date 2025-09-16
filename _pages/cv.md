@@ -381,7 +381,7 @@ author_profile: true
     </ul>
   </div>
 
-  <div class="entry" style="margin-top:8px;">
+  <div class="entry" style="margin-top:12px;">
     <div class="entry-left">
       <div class="institution">
         <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
@@ -452,7 +452,7 @@ author_profile: true
     </div>
   </div>
 
-  <div class="entry" style="margin-top:8px;">
+  <div class="entry" style="margin-top:12px;">
     <div class="entry-left">
       <div class="institution">
         <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
@@ -466,7 +466,7 @@ author_profile: true
     <div class="entry-right">Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 
-  <div class="entry" style="margin-top:8px;">
+  <div class="entry" style="margin-top:12px;">
     <div class="entry-left">
       <div class="institution">
         <img src="{{ site.baseurl }}/images/powertek.jpeg" alt="Powertek logo" class="institution-logo">
