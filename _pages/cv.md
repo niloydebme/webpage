@@ -542,7 +542,7 @@ author_profile: true
 
     <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
-        <div class="inst-name">How to Review Literature</div>
+        <div class="inst-name"> &#9656; How to Review Literature</div>
         <div class="entry-desc"> Technical writing session organized by the Computational Fluid Dynamics and Heat Transfer Research (CFDHT) Group</div>
       </div>
       <div class="entry-right">Aug 2023</div>
@@ -550,7 +550,7 @@ author_profile: true
 
     <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
-        <div class="inst-name">MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium</div>
+        <div class="inst-name"> &#9656; MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium</div>
         <div class="entry-desc">Technical session, 14th International Conference on Mechanical Engineering (ICME) 2023</div>
       </div>
       <div class="entry-right">Dec 2023</div>
@@ -559,7 +559,7 @@ author_profile: true
 
     <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
-        <div class="inst-name">Introduction to Porous Mediaand Related Mathematical Modeling for Fluid Flow and Heat Transfer</div>
+        <div class="inst-name"> &#9656; Introduction to Porous Media and Related Mathematical Modeling for Fluid Flow and Heat Transfer</div>
         <div class="entry-desc"> Computational Fluid Dynamics Simulation using COMSOL Multiphysics Software, workshop organized by REVA University, Bengaluru, India </div>
       </div>
       <div class="entry-right">Sep 2023</div>
@@ -568,7 +568,7 @@ author_profile: true
 
     <div class="entry" style="margin-top:6px;">
       <div class="entry-left">
-        <div class="inst-name"> Multi-segment Numerical Integration Method for Solution of Boundary Value Problems (Linear and Non-linear ODEs) </div>
+        <div class="inst-name"> &#9656; Multi-segment Numerical Integration Method for Solution of Boundary Value Problems (Linear and Non-linear ODEs) </div>
         <div class="entry-desc"> Tutorial Session </div>
       </div>
       <div class="entry-right">May 2024</div>
