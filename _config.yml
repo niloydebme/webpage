@@ -24,7 +24,8 @@ author:
   avatar           : "profile.jpeg"
   name             : "Niloy Deb"
   pronouns         : # example: "he/him/his"  
-  bio              : " Mechanical Engineering Graduate|Topics of Interest - Differentiable Physics, Data-Driven Science, High-Fidelity Computational Fluid Dynamics"
+  bio              : "Mechanical Engineering Graduate | Interests: Data-Driven Science · SciML · CFD · Multiphysics Flow · Turbulence"
+
   location         : #"Dhaka - 1000, Bangladesh"
   employer         : #"Bangladesh Uni. of Engg. & Tech."
   uri              : "https://niloydebme.github.io/webpage" # URL
@@ -34,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=lhLrIrkAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-4542-0895"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Niloy-Deb-2" # URL
