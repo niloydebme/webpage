@@ -572,3 +572,7 @@ border-radius: .1em;
 .bio-accent {
   color: var(--accent);
 }
+.bio-highlight {
+  color: #0077b6;   /* deep blue */
+  font-weight: 500; /* slight emphasis */
+}
