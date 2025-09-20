@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Niloy Deb"
   pronouns         : # example: "he/him/his"  
-  bio              : "Mechanical Engineering Graduate | Interests: Data-Driven Science · SciML · CFD · Multiphysics Flow · Turbulence"
+  bio              : "Mechanical Engineering Graduate <span class='bio-accent'> Data-Driven Science · SciML · CFD · Multiphysics Flow · Turbulence </span>"
 
   location         : #"Dhaka - 1000, Bangladesh"
   employer         : #"Bangladesh Uni. of Engg. & Tech."
