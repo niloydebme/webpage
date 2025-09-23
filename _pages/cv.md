@@ -306,13 +306,13 @@ author_profile: true
       Interests
     </h2>
     <div class="chips" role="list">
-      <span class="chip">Data-Driven Science</span>
-      <span class="chip">Statistical Modeling and Inference</span>
+      <span class="chip">Scientific Machine Learning (SciML)</span> 
+      <span class="chip">Differentiable Physics</span>
+      <span class="chip">Statistical Inference and Uncertainty Quantification</span>
       <span class="chip">Complex Systems Optimization</span>
       <span class="chip">Mathematical and Computational Modeling of Real-World Systems</span>
-      <span class="chip">Scientific Machine Learning (SciML)</span> 
-      <span class="chip">Numerical Methods - LBM, FEM, FDM, FVM, SEM</span>
-      <span class="chip">Computational Fluid Dynamics (CFD) and Heat Transfer</span>
+      <span class="chip">Numerical Methods (LBM, FEM, FDM, FVM, SEM) </span>
+      <span class="chip">Computational Fluid Dynamics (CFD)</span>
       <span class="chip">Physics of Turbulence and Convection</span>
       <span class="chip">Chaotic Dynamical System and Control</span>
       <span class="chip">Multiphysics Fluid Flow</span>
