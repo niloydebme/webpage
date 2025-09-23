@@ -234,7 +234,7 @@ author_profile: true
       <p class="name">Niloy Deb</p>
       <p class="title">Mechanical Engineering Graduate</p>
       <p class="entry-desc" style="margin-top:8px;">
-        <strong>Summary:</strong> An aspiring mechanical engineering graduate focused on data-driven science, scientific machine learning (SciML), statistical inference, computational methods, and applied mathematics. Research interests include chaotic dynamical systems, turbulence, fluid flow through porous and subsurface media, and fluid flow in multiphysics environments.
+        <strong>Summary:</strong> An aspiring mechanical engineering graduate focused on differentiable physics, scientific machine learning (SciML), statistical inference, computational methods, and applied mathematics. Research interests include chaotic dynamical systems, turbulence, fluid flow through porous and subsurface media, and fluid flow in multiphysics environments.
       </p>
     </div>
     <div class="contact" style="width:32%;">
@@ -267,9 +267,9 @@ author_profile: true
           </div>
         </div>
         <p class="entry-desc">
-          <strong>Cumulative GPA:</strong> 3.94 / 4.00 · <strong>Rank:</strong> 6 / 188 (Top 3% of the class)<br>
-          <strong>Thesis:</strong> Numerical Study of Natural and Mixed Convection in Enclosures with Porous Media of Varying Geometries. <br>
-          <strong>Supervisor:</strong> Dr. Sumon Saha, Professor, Department of Mechanical Engineering, BUET
+          <strong>Cumulative GPA: 3.94 / 4.00 </strong> · <strong>Rank: 6th out of 188 students (Top 3.2%)</strong><br>
+          <!-- <strong>Thesis:</strong> Numerical Study of Natural and Mixed Convection in Enclosures with Porous Media of Varying Geometries. <br>
+          <strong>Supervisor:</strong> Dr. Sumon Saha, Professor, Department of Mechanical Engineering, BUET -->
         </p>
       </div>
       <div class="entry-right">
