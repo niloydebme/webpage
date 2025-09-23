@@ -287,7 +287,7 @@ author_profile: true
           </div>
         </div>
         <p class="entry-desc">
-          <strong>GPA:</strong> 5:00 / 5.00 (92% aggregate in Physics, Chemistry, and Higher Mathematics)
+          <strong>GPA: 5:00 / 5.00 (92% aggregate in Physics, Chemistry, and Higher Mathematics) </strong> 
         </p>
       </div>
       <div class="entry-right">
@@ -451,7 +451,7 @@ author_profile: true
 
  <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
   <p style="margin-bottom: 5px;">
-        <strong> Instructed Undergraduate Courses:</strong> PMRE 411 · Reservoir Engineering [July 2025 Semester]· PMRE 413 · Natural Gas Engineering [July 2023 Semester] (≈50 students each)
+        <strong> Instructed Undergraduate Courses:</strong> &#9656; PMRE 411 · Reservoir Engineering [July 2025 Semester] &#9656; PMRE 413 · Natural Gas Engineering [July 2023 Semester] (≈50 students each)
       </p>
  </div>
 
@@ -459,7 +459,7 @@ author_profile: true
   <div class="entry" style="margin-top:8px;">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
+        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo" style="width:50%;">
         <div>
           <div class="inst-name">Research Assistant</div>
           <div class="inst-sub"> Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group <span style="text-decoration: underline;">Principal Investigator</span>: Dr. Sumon Saha , Professor, Department of Mechanical Engineering, BUET</div>
@@ -470,13 +470,18 @@ author_profile: true
     <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 
-   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-
-  <p style="margin-bottom: 5px;"> I worked in that role during my junior and senior years of undergraduate study.</p>
+   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;"> 
     <ul style="list-style-type: none; padding-left: 20px;">
       <li style="position: relative; margin-bottom: 5px;">
         <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-        First acquaintance with the workflow of CFD modeling –  <span style="text-decoration: underline;">pre-processing, solver, and post-processing</span>.
+        Research includes: Numerical Methods, Turbulence Modeling, CFD-based Control of Convection, Multiphysics Flow,
+Multiphase Flow, and Flow Through Porous Media
+      </li>
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+        <span style="text-decoration: underline;">Drafted a proposal </span> for the Research Innovation Center for Science and Engineering (RISE) <span style="text-decoration: underline;">internal research grant </span>, BUET. <br>
+<strong>Theme </strong>: Visualization, Optimization, and Performance Analysis of Two-Phase Fluid Flow in a Plate-Fin Compact Heat
+Exchanger.
       </li>
     </ul>
  
