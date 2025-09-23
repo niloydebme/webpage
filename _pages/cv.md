@@ -459,10 +459,10 @@ author_profile: true
   <div class="entry" style="margin-top:8px;">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo" style="width:50%;">
+        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo" style="width:30px;">
         <div>
           <div class="inst-name">Research Assistant</div>
-          <div class="inst-sub"> Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group <span style="text-decoration: underline;">Principal Investigator</span>: Dr. Sumon Saha , Professor, Department of Mechanical Engineering, BUET</div>
+          <div class="inst-sub"> Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group <strong>Principal Investigator</strong>: Dr. Sumon Saha , Professor, Department of Mechanical Engineering, BUET</div>
         </div>
       </div>
       
@@ -489,7 +489,7 @@ Exchanger.
 
 
 
-  <div class="entry" style="margin-top:12px;">
+  <!-- <div class="entry" style="margin-top:12px;">
     <div class="entry-left">
       <div class="institution">
         <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
@@ -501,7 +501,8 @@ Exchanger.
       <div class="entry-desc">Short course: COMSOL Multiphysics Simulation of Thermo-fluidic Problems (Basic Level) · 2-day (12 hours) workshop · Instructor: Dr. Sumon Saha</div>
     </div>
     <div class="entry-right">Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
-  </div>
+  </div> -->
+
 
   <div class="entry" style="margin-top:12px;">
     <div class="entry-left">
@@ -509,13 +510,15 @@ Exchanger.
         <img src="{{ site.baseurl }}/images/powertek.jpeg" alt="Powertek logo" class="institution-logo">
         <div>
           <div class="inst-name">Industrial Trainee</div>
-          <div class="inst-sub"> Haripur 360 MW Combined Cycle Power Plant </div>
+          <div class="inst-sub"> Haripur 360 MW Combined Cycle Power Plant (CCPP) </div>
         </div>
       </div>
-      <div class="entry-desc">An internship program organized by the dept. of Mechanical Engineering, BUET <br>
-      Hands-on exposure to power generation, Plant unit operations (FGC, HRSG, ST, GT, WT), maintenance, and process control.</div>
     </div>
     <div class="entry-right">Nov - Dec 2022 (3 weeks) <span class="location">Dhaka, Bangladesh</span></div>
+     <div class="entry-desc">
+      Hands-on exposure to power generation in a CCPP, plant unit operations (fuel gas compressor, heat recovery steam
+generator, steam turbine, gas turbine, water treatments), plant maintenance, and process control.
+</div>
   </div>
 </section>
 
