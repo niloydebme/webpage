@@ -90,7 +90,7 @@ author_profile: true
     gap: 12px;
     align-items: flex-start;
     margin: 8px 0;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
   }
 
   .entry-left {
