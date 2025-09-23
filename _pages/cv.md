@@ -459,10 +459,10 @@ author_profile: true
   <div class="entry" style="margin-top:8px;">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo" style="width:30px;">
+        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo" style="width:35px;">
         <div>
           <div class="inst-name">Research Assistant</div>
-          <div class="inst-sub"> Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group <strong>Principal Investigator</strong>: Dr. Sumon Saha , Professor, Department of Mechanical Engineering, BUET</div>
+          <div class="inst-sub"> Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group </div>
         </div>
       </div>
       
@@ -471,6 +471,7 @@ author_profile: true
   </div>
 
    <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;"> 
+    <strong>Principal Investigator</strong>: Dr. Sumon Saha , Professor, Department of Mechanical Engineering, BUET.
     <ul style="list-style-type: none; padding-left: 20px;">
       <li style="position: relative; margin-bottom: 5px;">
         <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
@@ -515,11 +516,11 @@ Exchanger.
       </div>
     </div>
     <div class="entry-right">Nov - Dec 2022 (3 weeks) <span class="location">Dhaka, Bangladesh</span></div>
-     <div class="entry-desc">
+  </div>
+  <div class="entry-desc">
       Hands-on exposure to power generation in a CCPP, plant unit operations (fuel gas compressor, heat recovery steam
 generator, steam turbine, gas turbine, water treatments), plant maintenance, and process control.
 </div>
-  </div>
 </section>
 
   <section class="section" id="publications">
