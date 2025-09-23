@@ -90,6 +90,7 @@ author_profile: true
     gap: 12px;
     align-items: flex-start;
     margin: 8px 0;
+    margin-bottom: 20px;
   }
 
   .entry-left {
@@ -140,6 +141,7 @@ author_profile: true
     margin-top: 6px;
     font-size: 13.4px;
     color: #111;
+    margin-bottom: 25px;
   }
 
   /* chips */
@@ -459,7 +461,7 @@ author_profile: true
   <div class="entry" style="margin-top:8px;">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo" style="width:35px;">
+        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo" style="width:30px; height:22px;">
         <div>
           <div class="inst-name">Research Assistant</div>
           <div class="inst-sub"> Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group </div>
