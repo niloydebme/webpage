@@ -441,16 +441,48 @@ author_profile: true
           <div class="inst-sub">Bangladesh University of Engineering and Technology</div>
         </div>
       </div>
-      <p class="entry-desc">
-        <strong> Academic research </strong> on · Energy Resources Engineering · Hydrocarbon Reservoir Engineering · Advanced Well Testing and Interpretation · Advanced Reservoir Simulation .<br>
-        <strong> Taught (Undergraduate Courses):</strong> PMRE 411 · Reservoir Engineering · PMRE 413 · Natural Gas Engineering (≈50 students each)
-      </p>
     </div>
     <div class="entry-right">
       Dec 2023 – Present
       <span class="location">Dhaka, Bangladesh</span>
     </div>
+    
   </div>
+
+ <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
+  <p style="margin-bottom: 5px;">
+        <strong> Instructed Undergraduate Courses:</strong> PMRE 411 · Reservoir Engineering [July 2025 Semester]· PMRE 413 · Natural Gas Engineering [July 2023 Semester] (≈50 students each)
+      </p>
+ </div>
+
+
+  <div class="entry" style="margin-top:8px;">
+    <div class="entry-left">
+      <div class="institution">
+        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
+        <div>
+          <div class="inst-name">Research Assistant</div>
+          <div class="inst-sub"> Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group <span style="text-decoration: underline;">Principal Investigator</span>: Dr. Sumon Saha , Professor, Department of Mechanical Engineering, BUET</div>
+        </div>
+      </div>
+      
+</div>
+    <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
+  </div>
+
+   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
+
+  <p style="margin-bottom: 5px;"> I worked in that role during my junior and senior years of undergraduate study.</p>
+    <ul style="list-style-type: none; padding-left: 20px;">
+      <li style="position: relative; margin-bottom: 5px;">
+        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+        First acquaintance with the workflow of CFD modeling –  <span style="text-decoration: underline;">pre-processing, solver, and post-processing</span>.
+      </li>
+    </ul>
+ 
+ </div>
+
+
 
   <div class="entry" style="margin-top:12px;">
     <div class="entry-left">
