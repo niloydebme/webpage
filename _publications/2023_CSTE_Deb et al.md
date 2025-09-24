@@ -8,7 +8,8 @@ excerpt: "<b>Computational Modeling of Nonlinear System </b>| <b>Thermal Managem
 date: 2023-10-09
 venue: '<b> Case Studies in Thermal Engineering </b>'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'Niloy Deb, Sadib Fardin, Md Muhtasim Fardin, Nudrat Nawal, Md Rashed Nizam, Sumon Saha. Thermal management
+paperurl: 'https://doi.org/10.1016/j.csite.2023.103601'
+citation: 'Niloy Deb, Sadib Fardin, Md Muhtasim Fardin, Nudrat Nawal, Md Rashed Nizam, Sumon Saha. Thermal management
  inside a discretely heated rectangular cuboid using P, PI and PID controllers. Case Studies in Thermal
  Engineering, Vol. 51, Article 103601, 2023.'
 ---
