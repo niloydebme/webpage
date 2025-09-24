@@ -8,7 +8,9 @@ date: 2024-06-24
 venue: '<b> Journal of Thermal Analysis and Calorimetry </b>'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s10973-024-13228-y'
-citation: 'Deb, N., Farshi, M. S., Das, P. K., & Saha, S. (2024). Convective flow optimization inside a lid-driven chamber with a rotating porous cylinder using Darcy–Brinkman–Forchheimer model. Journal of Thermal Analysis and Calorimetry, 1-22.'
+citation: ' Niloy Deb, Md Salman Farshi, Prodip K Das, Sumon Saha. Convective flow optimization inside a lid-driven chamber
+ with a rotating porous cylinder using Darcy–Brinkman–Forchheimer model. Journal of Thermal Analysis and
+ Calorimetry, Vol. 149, No. 12, pp. 6125–6146, 2024. '
 ---
 
 <p style="text-align: justify; font-size: 16px">The active fow optimization and the entropy generation of a spinning porous cylinder on laminar mixed convective fow in 
