@@ -641,7 +641,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
     </li>
     <li style="position: relative; margin-bottom: 6px;">
       <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-      <strong>Documentation/Scripting:</strong> LaTeX, MS Office, Jupyter Notebook Markdown
+      <strong>Documentation/Scripting:</strong> LaTeX, MS Office, Markdown, HTML
     </li>
     <li style="position: relative; margin-bottom: 6px;">
       <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
@@ -680,11 +680,12 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
   </svg>
   Achievements
 </h2>
-    <ul class="compact-list">
-      <li><strong>Dr. Muhammad Harunur Rashid Award (ICME 2023):</strong> Best paper — 14th International Conference on Mechanical Engineering, Dept. of Mechanical Engineering, BUET</li>
-      <li><strong>University Merit Scholarship (2018–2023):</strong> Awarded for consecutive terms, BUET</li>
-      <li><strong>Dean’s List Award (2018–2023):</strong> Awarded for consecutive terms, Dept. of ME, BUET</li>
-    </ul>
+     <ul class="compact-list">
+    <li><strong>Dr. Muhammad Harunur Rashid Award:</strong> Best Paper Award at the 14th International Conference on Mechanical Engineering, Dhaka, Bangladesh &nbsp;&nbsp; [ICME 2023]</li>
+    <li><strong>University Merit Scholarship (BUET):</strong> Awarded for academic excellence in undergraduate studies &nbsp;&nbsp; [2018–2023]</li>
+    <li><strong>Dean’s List Award (Department of Mechanical Engineering, BUET) :</strong> Awarded for academic excellence in all academic levels (I–IV) of undergraduate studies &nbsp;&nbsp; [2018–2023]</li>
+  </ul>
+
   </section>
 
   <section class="section" id="coursework">
