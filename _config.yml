@@ -21,7 +21,7 @@ repository               : #"academicpages/niloydebpmre.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile1.png"
   name             : "Niloy Deb"
   pronouns         : # example: "he/him/his"  
   bio              : "Mechanical Engineering Graduate <span class='bio-highlight'> Differentiable Physics · SciML · CFD · Multiphysics Flow · Turbulence </span>"
