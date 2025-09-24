@@ -635,35 +635,35 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
 
   <ul style="list-style-type: none; padding-left: 20px; font-size: 13.4px;">
     <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>Programming Languages:</strong> Python, MATLAB, C
     </li>
     <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>Documentation/Scripting:</strong> LaTeX, MS Office, Markdown, HTML
     </li>
     <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>Visualization:</strong> Tecplot 360, WebPlotDigitizer, Desmos, Python - Matplotlib, Plotly, Seaborn
     </li>
     <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>Design, CAD, & Drawing:</strong> AutoCAD, SolidWorks, Proteus, Draw.io, Canva, Illustrator, Photoshop, LaTeX-TikZ, Python - OpenCV, Pillow, scikit-image
     </li>
     <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>FEM Modeling:</strong> COMSOL Multiphysics
     </li>
     <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>Reservoir Simulation:</strong> Kappa Workstation (Rubis, Saphir)
     </li>
     <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>ML/DL/Stats:</strong> Python - scikit-learn, TensorFlow, PyTorch, JAX, SciPy, PyMC3/4
     </li>
     <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
+      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>Exploratory Data Analysis:</strong> Python - Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn
     </li>
   </ul>
@@ -697,12 +697,12 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
     </h2> 
     <div class="inline-par">
       <strong>Advanced / Graduate & Self-Learning:</strong> (listed partially)
-      Advanced Numerical Analysis (Dept. of ME, BUET) <strong>  ·  </strong>  Advanced Thermodynamics (classical and statistical) (Dept. of ME, BUET) <strong>  ·  </strong> Boiling & Condensation Heat Transfer (Dept. of ME, BUET) <strong> · </strong> Reservoir Engineering (Dept. of PMRE, BUET) <strong> · </strong> Well Testing Analysis (Dept. of PMRE, BUET)<strong>  ·  </strong> Non-linear Dynamics & Chaos (S. Strogatz, Online) <strong>  ·  </strong>Non-linear Systems (J. Slotine, MOCW) <strong>  ·  </strong> Control Bootcamp (S. L. Brunton, Online) <strong>  ·  </strong> Global Warming - Science & Modeling (D. Archer, edX) <strong>  ·  </strong> Understanding Rheology (F. Morrison, Online) <strong>  ·  </strong> Flow in Porous Media (M. Blunt, Online) <strong>  ·  </strong> Physics of Turbulence (M. K. Verma, IITK-NPTEL) <strong>  ·  </strong> Advanced Fluid Mechanics (S. Chakraborty, IITKGP-NPTEL) <strong>  ·  </strong> AI Principles & Techniques (Stanford Online) <strong>  ·  </strong> Deep Learning in Scientific Computing (ETH Zurich) <strong>  ·  </strong> Data Analytics and Geostatistics (M. J. Pyrcz, Online) <strong>  ·  </strong> Matrix Calculus for Machine Learning and Beyond (A. Edelman & S. G. Johnson, MOCW) <strong>  ·  </strong> Matrix, Numerical and Optimization Methods in Science and Engineering (K. Cassel, Online) <strong>  ·  </strong> Applied Time Series Analysis (A. K. Tangirala, IITM-NPTEL) <strong>  ·  </strong> Probabilistic System Analysis and Applied Probability (J. Tsitsiklis, MOCW) <strong>  ·  </strong> Data-Driven Science and Engineering (S. L. Brunton, Online) <strong>  ·  </strong> Random Physics Lectures (classical, Statistical, Quantum Mechanics, Modern Physics - Special and General Relativity by L. Susskind, Online )- did just for fun.  
+      Advanced Numerical Analysis (Dept. of ME, BUET) <span class="dot">·</span>  Advanced Thermodynamics (classical and statistical) (Dept. of ME, BUET) <span class="dot">·</span> Boiling & Condensation Heat Transfer (Dept. of ME, BUET) <span class="dot">·</span> Reservoir Engineering (Dept. of PMRE, BUET) <span class="dot">·</span> Well Testing Analysis (Dept. of PMRE, BUET) <span class="dot">·</span> Non-linear Dynamics & Chaos (S. Strogatz, Online) <span class="dot">·</span> Non-linear Systems (J. Slotine, MOCW) <span class="dot">·</span> Control Bootcamp (S. L. Brunton, Online) <span class="dot">·</span> Global Warming - Science & Modeling (D. Archer, edX) <span class="dot">·</span> Understanding Rheology (F. Morrison, Online) <span class="dot">·</span> Flow in Porous Media (M. Blunt, Online) <span class="dot">·</span> Physics of Turbulence (M. K. Verma, IITK-NPTEL) <span class="dot">·</span> Advanced Fluid Mechanics (S. Chakraborty, IITKGP-NPTEL) <span class="dot">·</span> AI Principles & Techniques (Stanford Online) <span class="dot">·</span> Deep Learning in Scientific Computing (ETH Zurich) <span class="dot">·</span> Data Analytics and Geostatistics (M. J. Pyrcz, Online) <span class="dot">·</span> Matrix Calculus for Machine Learning and Beyond (A. Edelman & S. G. Johnson, MOCW) <span class="dot">·</span> Matrix, Numerical and Optimization Methods in Science and Engineering (K. Cassel, Online) <span class="dot">·</span> Applied Time Series Analysis (A. K. Tangirala, IITM-NPTEL) <span class="dot">·</span> Probabilistic System Analysis and Applied Probability (J. Tsitsiklis, MOCW) <span class="dot">·</span> Data-Driven Science and Engineering (S. L. Brunton, Online) <span class="dot">·</span> Random Physics Lectures (classical, Statistical, Quantum Mechanics, Modern Physics - Special and General Relativity by L. Susskind, Online )- did just for fun.  
     </div>
 
   <div class="inline-par" style="margin-top:8px;">
       <strong>Undergraduate / Core:</strong>
-      Instrumentation and Measurement <strong>  ·  </strong> Electro-Mechanical System Design (Project) <strong>  ·  </strong> Noise & Vibration <strong>  ·  </strong> Control Engineering <strong>  ·  </strong> Engineering Mechanics (I & II) <strong>  ·  </strong> Mechanics of Solids <strong>  ·  </strong> Thermodynamics (Basic) <strong>  ·  </strong> Advanced Thermodynamics (Classical and Statistical) <strong>  ·  </strong> Fluid Mechanics (I & II) <strong>  ·  </strong> Heat Transfer <strong>  ·  </strong> Heat Transfer Equipment Design <strong>  ·  </strong> Thermo Fluid System Design (Project) <strong>  ·  </strong> Combustion <strong>  ·  </strong> Refrigeration and Building Mechanical System <strong>  ·  </strong> Numerical Analysis <strong>  ·  </strong> Computer Programming 
+      Instrumentation and Measurement <span class="dot">·</span> Electro-Mechanical System Design (Project) <span class="dot">·</span> Noise & Vibration <span class="dot">·</span> Control Engineering <span class="dot">·</span> Engineering Mechanics (I & II) <span class="dot">·</span> Mechanics of Solids <span class="dot">·</span> Thermodynamics (Basic) <span class="dot">·</span> Advanced Thermodynamics (Classical and Statistical) <span class="dot">·</span> Fluid Mechanics (I & II) <span class="dot">·</span> Heat Transfer <span class="dot">·</span> Heat Transfer Equipment Design <span class="dot">·</span> Thermo Fluid System Design (Project) <span class="dot">·</span> Combustion <span class="dot">·</span> Refrigeration and Building Mechanical System <span class="dot">·</span> Numerical Analysis <span class="dot">·</span> Computer Programming 
     </div>
   </section>
 
