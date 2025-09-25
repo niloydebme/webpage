@@ -354,7 +354,7 @@ author_profile: true
       &bull; Differential Evolution (DE) Optimization &nbsp;
       &bull; LNG Cold Energy Recovery &nbsp;
       &bull; Thermodynamic Conversion Cycle &nbsp;
-      &bull; Direct Expansion Cycle (DEC) &#9656; &#9656; <span style="color:magenta;">[Manuscript ready for submission]</span>
+      &bull; Direct Expansion Cycle (DEC) &#9656; &#9656; <span style="color:skyblue;">[Manuscript ready for submission]</span>
     </span>
   </div>
 
@@ -381,7 +381,7 @@ author_profile: true
       &bull; Reservoir Fluid Phase Behavior &nbsp;
       &bull; Spatio-temporal Analysis &nbsp;
       &bull; Reserve Estimation &nbsp;
-      &bull; Field production history &#9656; &#9656; <span style="color:magenta;">[Completed: Project report and presentation; Paper preprint available]</span>
+      &bull; Field production history &#9656; &#9656; <span style="color:skyblue;">[Completed: Project report and presentation; Paper preprint available]</span>
     </span>
   </div>
 
@@ -407,7 +407,7 @@ author_profile: true
       &bull; FEM Modeling &nbsp;
       &bull; Convection Heat Transfer &nbsp;
       &bull; Porous Media Flow &nbsp;
-      &bull; Solution of Benchmark CFD Problems   &#9656; &#9656; <span style="color:magenta;">[Thesis Book; Publications]</span>
+      &bull; Solution of Benchmark CFD Problems   &#9656; &#9656; <span style="color:skyblue;">[Thesis Book; Publications]</span>
     </span>
   </div>
 </section>
@@ -620,7 +620,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
     <strong>Highlights:</strong> Scientific Writing · Exploratory Data Analysis · Quantitative Research
   </div>
 
-  <ul style="list-style-type: none; padding-left: 20px; font-size: 12px;">
+  <ul style="list-style-type: none; padding-left: 20px; font-size: 13 px;">
     <li style="position: relative; margin-bottom: 6px;">
       <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>Programming Languages:</strong> Python, MATLAB, C

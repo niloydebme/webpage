@@ -24,13 +24,27 @@ redirect_from:
 
 
 
-  <strong> News & Updates </strong>
-
-<ul style="list-style-type: none; padding: 0; font-size: 14px;">
-  <li style="margin-bottom: 10px;">
-    <i class="fa fa-calendar-day" style="margin-right: 8px;"></i> <span style="font-weight: bold;">2025-08-09:</span> Appeared on the TOEFL iBT exam.
-  </li>
-</ul>
+  <section style="font-family: Arial, sans-serif; max-width: 720px; margin: 20px auto; background: #f9f9f9; border: 1px solid #e1e1e1; border-radius: 6px; padding: 16px 20px;">
+  <h2 style="font-size:18px; margin-bottom: 14px; border-bottom: 2px solid #0073e6; padding-bottom: 6px; color: #333;">
+    📢 News & Updates
+  </h2>
+  <ul style="list-style: none; padding: 0; margin: 0; font-size: 13px; line-height: 1.6; color: #444;">
+    <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
+      <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
+      <div>
+        <span style="font-weight: bold; color: #222;">2025-08-09</span><br>
+        <span>Appeared for the TOEFL iBT exam.</span>
+      </div>
+    </li>
+    <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
+      <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
+      <div>
+        <span style="font-weight: bold; color: #222;">2025-04-23</span><br>
+        <span>Participated in a workshop organized by the Ministry of Shipping, Government of Bangladesh, to develop the National Action Plan for achieving net-zero greenhouse gas emissions in the maritime sector by 2050.</span>
+      </div>
+    </li>
+  </ul>
+</section>
 
 
 
