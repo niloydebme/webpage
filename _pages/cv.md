@@ -332,97 +332,84 @@ author_profile: true
   Research Experience
 </h2>
 
-  <div class="entry" style="margin-top:8px;">
+ <!-- Research Collaboration -->
+  <div class="entry">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
+        <img src="{{ site.baseurl }}/images/ensym.png" alt="EnSyM logo" class="institution-logo" style="width:28px; height:28px;">
         <div>
-          <div class="inst-name">Research Assistant, <span style="font-weight: normal;">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</span></div>
-          <div class="inst-sub"> Department of Mechanical Engineering, BUET. <span style="text-decoration: underline;">Mentor: Dr. Sumon Saha</span></div>
+          <div class="inst-name">Research Collaboration</div>
+          <div class="inst-sub">Energy Systems and Modeling (EnSyM) Research Group</div>
         </div>
       </div>
-      
-</div>
-    <div class="entry-right">Jun 2023 – Dec 2023 <span class="location">Dhaka, Bangladesh</span></div>
-  </div>
- <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-    <p style="margin-bottom: 5px;">  I was actively involved in several <span style="text-decoration: underline;">numerical modeling and simulation </span> studies. Some of my contribution to the group include:</p>
-    <ul style="list-style-type: none; padding-left: 20px;">
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-        Studied the robustness of linear controllers (P, PI, PID) in mixed convection cases from a <span style="text-decoration: underline;">CFD perspective</span>.
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-         Revisited the formulation and numerical calculations of the <span style="text-decoration: underline;">Nusselt Number (Nu)</span> subject to various thermal boundary conditions.
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-        Worked on numerical solutions of natural and mixed convection heat transfer involving <span style="text-decoration: underline;">porous media</span>, including the effects of <span style="text-decoration: underline;">magnetohydrodynamics, Joule heating, and internal heat generation</span>.
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-        Validated several benchmark simulations, including <span style="text-decoration: underline;">RANS turbulence, multiphase flow, and phase transition analyses</span>.
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-        Published multiple papers as the lead author in international peer-reviewed journals.
-              </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-        <span style="text-decoration: underline;">Presented group work as the lead author at an international conference </span> (14th International Conference on Mechanical Engineering) hosted by the Department of Mechanical Engineering, BUET, Dhaka, Bangladesh.
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-        <span style="text-decoration: underline;">I was also the lead author </span> of another paper presented at the 17th Asian Congress of Fluid Mechanics in Beijing, China.
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-       <span style="text-decoration: underline;"> Mentored undergraduate students </span> in their CFD and heat transfer-related theses.
-      </li>
-    </ul>
-  </div>
-
-  <div class="entry" style="margin-top:12px;">
-    <div class="entry-left">
-      <div class="institution">
-        <img src="{{ site.baseurl }}/images/cfdht.png" alt="Group logo" class="institution-logo">
-        <div>
-          <div class="inst-name">Undergraduate Researcher, <span style="font-weight: normal;">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</span></div>
-          <div class="inst-sub"> Department of Mechanical Engineering, BUET. <span style="text-decoration: underline;">Mentor: Dr. Sumon Saha</span></div>
-        </div>
-      </div>
-      
-</div>
-    <div class="entry-right">Apr 2021 – May 2023 <span class="location">Dhaka, Bangladesh</span></div>
+    </div>
+    <div class="entry-right">Jun 2025 – Sep 2025 <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-    <p style="margin-bottom: 5px;"> I worked in that role during my junior and senior years of undergraduate study.</p>
-    <ul style="list-style-type: none; padding-left: 20px;">
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span>
-        First acquaintance with the workflow of CFD modeling –  <span style="text-decoration: underline;">pre-processing, solver, and post-processing</span>.
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Modeled several thermofluidic problems using a FEM-based commercial CFD tool – 
-          <span style="text-decoration: underline;">COMSOL Multiphysics.</span> 
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Began working on my undergraduate thesis:
-          <span style="text-decoration: underline;">Numerical Study of Natural and Mixed Convection in Enclosures with Porous Media of Varying Geometries.</span> 
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Was fortunate to draft my first publication-worthy manuscript titled <span style="text-decoration: underline;">“Natural convection and entropy generation inside a square chamber divided by a corrugated porous partition”</span>, and later  
-          <span style="text-decoration: underline;">“Convective flow optimization inside a lid-driven chamber with a rotating porous cylinder using Darcy–Brinkman–Forchheimer model”</span> during my final year.
-      </li>
-      <li style="position: relative; margin-bottom: 5px;">
-        <span style="position: absolute; left: -15px; font-size: 1em;">►</span> Had the privilege of being mentored by 
-          <span style="text-decoration: underline;">Dr. Prodip K. Das, Associate Professor in Hydrogen Energy Systems, University of Edinburgh, UK.</span> 
-      </li>
-    </ul>
+    <strong>Principal Investigator</strong>: Shaumik Rahman Ayon, Assistant Professor, Department of Petroleum and Mineral Resources Engineering, BUET. <br>
+    <strong>Thermodynamic optimization of a novel multistage direct expansion cycle for LNG cold energy recovery</strong> <br>
+    <span style="display:block; margin-left:10px; text-indent:0;">
+      &bull; Modeling and Optimization &nbsp;
+      &bull; Differential Evolution (DE) Optimization &nbsp;
+      &bull; LNG Cold Energy Recovery &nbsp;
+      &bull; Thermodynamic Conversion Cycle &nbsp;
+      &bull; Direct Expansion Cycle (DEC) <span style="color:magenta;">[Manuscript ready for submission]</span>
+    </span>
   </div>
 
+  <!-- Research Associate -->
+  <div class="entry" style="margin-top:12px;">
+    <div class="entry-left">
+      <div class="institution">
+        <img src="{{ site.baseurl }}/images/hydrocarbon.png" alt="Hydrocarbon Unit logo" class="institution-logo" style="width:30px; height:22px;">
+        <div>
+          <div class="inst-name">Research Associate</div>
+          <div class="inst-sub">Funded Project, Hydrocarbon Unit Research Program 2023-24</div>
+        </div>
+      </div>
+    </div>
+    <div class="entry-right">Jan 2024 – Apr 2024 <span class="location">Bangladesh</span></div>
+  </div>
+
+  <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
+    <strong>Funding Agency</strong>: Bangladesh Hydrocarbon Unit, Ministry of Power, Energy and Mineral Resources, Bangladesh. <br>
+    <strong>Principal Investigator</strong>: Dr. Mohammed Mahbubur Rahman, Professor, Department of Petroleum and Mineral Resources Engineering, BUET. <br>
+    <strong>A Study of the Reservoir Fluid Properties and Phase Behavior of Titas Gas Field, Bangladesh</strong> <br>
+    <span style="display:block; margin-left:10px; text-indent:0;">
+      &bull; Reservoir Fluid Properties &nbsp;
+      &bull; Reservoir Fluid Phase Behavior &nbsp;
+      &bull; Spatio-temporal Analysis &nbsp;
+      &bull; Reserve Estimation &nbsp;
+      &bull; Field production history <span style="color:magenta;">[Completed: Project report and presentation; Paper preprint available]</span>
+    </span>
+  </div>
+
+  <!-- Undergraduate Thesis -->
+  <div class="entry" style="margin-top:12px;">
+    <div class="entry-left">
+      <div class="institution">
+        <img src="{{ site.baseurl }}/images/buet.png" alt="BUET logo" class="institution-logo">
+        <div>
+          <div class="inst-name">Undergraduate Thesis</div>
+          <div class="inst-sub">Department of Mechanical Engineering, BUET</div>
+        </div>
+      </div>
+    </div>
+    <div class="entry-right">May 2022 – May 2023 <span class="location">Dhaka, Bangladesh</span></div>
+  </div>
+
+  <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
+    <strong>Topic</strong>: Numerical Study of Natural and Mixed Convection in Enclosures with Porous Media of Varying Geometries. <br>
+    <strong>Supervisor</strong>: Dr. Sumon Saha, Professor, Department of Mechanical Engineering, BUET. <br>
+    <span style="display:block; margin-left:10px; text-indent:0;">
+      &bull; Computational Methods &nbsp;
+      &bull; FEM Modeling &nbsp;
+      &bull; Convection Heat Transfer &nbsp;
+      &bull; Porous Media Flow &nbsp;
+      &bull; Solution of Benchmark CFD Problems
+    </span>
+  </div>
 </section>
 
 <section class="section" id="professional">
