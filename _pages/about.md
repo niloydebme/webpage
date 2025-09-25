@@ -24,7 +24,7 @@ redirect_from:
 
 <!-- updates  -->
   <section style="font-family: Arial, sans-serif; max-width: 720px; margin: 20px auto;">
-  <h2 style="font-size:14px; margin-bottom: 14px; border-bottom: 2px solid #0073e6; padding-bottom: 6px; color: #333;">
+  <h2 style="font-size:16px; margin-bottom: 14px; border-bottom: 2px solid #0073e6; padding-bottom: 6px; color: #333;">
     <i class="fa fa-newspaper" style="color:#000; margin-right:6px;"></i> News & Updates
   </h2>
   <ul style="list-style: none; padding: 0; margin: 0; font-size: 13px; line-height: 1.6; color: #444;">

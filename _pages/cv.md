@@ -354,7 +354,7 @@ author_profile: true
       &bull; Differential Evolution (DE) Optimization &nbsp;
       &bull; LNG Cold Energy Recovery &nbsp;
       &bull; Thermodynamic Conversion Cycle &nbsp;
-      &bull; Direct Expansion Cycle (DEC) &#9656; &#9656; <span style="color:skyblue;">[Manuscript ready for submission]</span>
+      &bull; Direct Expansion Cycle (DEC) &#9656; &#9656; <span style="color:blue;">[Manuscript ready for submission]</span>
     </span>
   </div>
 
@@ -381,7 +381,7 @@ author_profile: true
       &bull; Reservoir Fluid Phase Behavior &nbsp;
       &bull; Spatio-temporal Analysis &nbsp;
       &bull; Reserve Estimation &nbsp;
-      &bull; Field production history &#9656; &#9656; <span style="color:skyblue;">[Completed: Project report and presentation; Paper preprint available]</span>
+      &bull; Field production history &#9656; &#9656; <span style="color:blue;">[Completed: Project report and presentation; Paper preprint available]</span>
     </span>
   </div>
 
@@ -407,7 +407,7 @@ author_profile: true
       &bull; FEM Modeling &nbsp;
       &bull; Convection Heat Transfer &nbsp;
       &bull; Porous Media Flow &nbsp;
-      &bull; Solution of Benchmark CFD Problems   &#9656; &#9656; <span style="color:skyblue;">[Thesis Book; Publications]</span>
+      &bull; Solution of Benchmark CFD Problems   &#9656; &#9656; <span style="color:blue;">[Thesis Book; Publications]</span>
     </span>
   </div>
 </section>
