@@ -620,7 +620,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
     <strong>Highlights:</strong> Scientific Writing · Exploratory Data Analysis · Quantitative Research
   </div>
 
-  <ul style="list-style-type: none; padding-left: 20px; font-size: 13.4px;">
+  <ul style="list-style-type: none; padding-left: 20px; font-size: 12px;">
     <li style="position: relative; margin-bottom: 6px;">
       <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
       <strong>Programming Languages:</strong> Python, MATLAB, C
@@ -684,7 +684,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
   </h2>
 
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    <ul style="list-style-type: none; padding-left: 20px;">
       <li style="position: relative; margin-bottom: 6px;">
         <span style="position: absolute; left: -18px; font-size: 1em;">▶</span>
         <strong>Co-Instructor</strong>, Short course on COMSOL Multiphysics Simulation of Thermo-fluidic Problems, Directorate of Continuing Education (DCE), BUET, Dhaka, Bangladesh
