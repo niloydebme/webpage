@@ -23,7 +23,7 @@ redirect_from:
 </figure>
 
 <!-- updates  -->
-  <section style="font-family: Arial, sans-serif; max-width: 720px; margin: 20px auto; background: #f9f9f9; border: 1px solid #e1e1e1; border-radius: 6px; padding: 16px 20px;">
+  <section style="font-family: Arial, sans-serif; max-width: 720px; margin: 20px auto;">
   <h2 style="font-size:14px; margin-bottom: 14px; border-bottom: 2px solid #0073e6; padding-bottom: 6px; color: #333;">
     <i class="fa fa-newspaper" style="color:#000; margin-right:6px;"></i> News & Updates
   </h2>
