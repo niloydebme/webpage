@@ -336,7 +336,7 @@ author_profile: true
   <div class="entry">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/ensym.png" alt="EnSyM logo" class="institution-logo" style="width:35px; height:28px;">
+        <img src="{{ site.baseurl }}/images/ensym.png" alt="EnSyM logo" class="institution-logo" style="width:35px; height:30px;">
         <div>
           <div class="inst-name">Research Collaboration</div>
           <div class="inst-sub">Energy Systems and Modeling (EnSyM) Research Group</div>
@@ -362,7 +362,7 @@ author_profile: true
   <div class="entry" style="margin-top:12px;">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/hydrocarbon.png" alt="Hydrocarbon Unit logo" class="institution-logo" style="width:35px; height:28px;">
+        <img src="{{ site.baseurl }}/images/hydrocarbon.png" alt="Hydrocarbon Unit logo" class="institution-logo" style="width:40px; height:30px;">
         <div>
           <div class="inst-name">Research Associate</div>
           <div class="inst-sub">Funded Project, Hydrocarbon Unit Research Program 2023-24</div>
