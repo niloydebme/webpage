@@ -362,7 +362,7 @@ author_profile: true
   <div class="entry" style="margin-top:12px;">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/hydrocarbon.png" alt="Hydrocarbon Unit logo" class="institution-logo" style="width:40px; height:20px;">
+        <img src="{{ site.baseurl }}/images/hydrocarbon.png" alt="Hydrocarbon Unit logo" class="institution-logo" style="width:35px; height:15px;">
         <div>
           <div class="inst-name">Research Associate</div>
           <div class="inst-sub">Funded Project, Hydrocarbon Unit Research Program 2023-24</div>
@@ -673,6 +673,35 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
   </ul>
 
   </section>
+
+<section class="section" id="involvements">
+  <h2>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"></circle>
+      <path d="M10 8l4 4-4 4"></path>
+    </svg>
+    Involvements
+  </h2>
+
+  <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+      <li style="position: relative; margin-bottom: 6px;">
+        <span style="position: absolute; left: -18px; font-size: 1em;">▶</span>
+        <strong>Co-Instructor</strong>, Short course on COMSOL Multiphysics Simulation of Thermo-fluidic Problems, Directorate of Continuing Education (DCE), BUET, Dhaka, Bangladesh
+      </li>
+      <li style="position: relative; margin-bottom: 6px;">
+        <span style="position: absolute; left: -18px; font-size: 1em;">▶</span>
+        <strong>Reviewer</strong>, <i>Scientific Reports; Numerical Heat Transfer, Part A: Applications</i>
+      </li>
+      <li style="position: relative; margin-bottom: 6px;">
+        <span style="position: absolute; left: -18px; font-size: 1em;">▶</span>
+        <strong>Question Setter</strong>, Mechanical Olympiad, Organized by the Department of Mechanical Engineering, BUET
+      </li>
+    </ul>
+  </div>
+</section>
+
+
 
   <section class="section" id="coursework">
     <h2>
