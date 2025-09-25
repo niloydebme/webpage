@@ -407,7 +407,7 @@ author_profile: true
       &bull; FEM Modeling &nbsp;
       &bull; Convection Heat Transfer &nbsp;
       &bull; Porous Media Flow &nbsp;
-      &bull; Solution of Benchmark CFD Problems
+      &bull; Solution of Benchmark CFD Problems    <span style="color:magenta;">[Thesis Book; Publications]</span>
     </span>
   </div>
 </section>
