@@ -22,11 +22,10 @@ redirect_from:
     <img src="images/myinterests.png" alt="Research Interests Venn Diagram" style="max-width: 100%; height: auto;">
 </figure>
 
-
-
+<!-- updates  -->
   <section style="font-family: Arial, sans-serif; max-width: 720px; margin: 20px auto; background: #f9f9f9; border: 1px solid #e1e1e1; border-radius: 6px; padding: 16px 20px;">
-  <h2 style="font-size:18px; margin-bottom: 14px; border-bottom: 2px solid #0073e6; padding-bottom: 6px; color: #333;">
-    📢 News & Updates
+  <h2 style="font-size:14px; margin-bottom: 14px; border-bottom: 2px solid #0073e6; padding-bottom: 6px; color: #333;">
+    <i class="fa fa-newspaper" style="color:#000; margin-right:6px;"></i> News & Updates
   </h2>
   <ul style="list-style: none; padding: 0; margin: 0; font-size: 13px; line-height: 1.6; color: #444;">
     <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
