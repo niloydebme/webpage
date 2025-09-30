@@ -236,7 +236,7 @@ author_profile: true
       <p class="name">Niloy Deb</p>
       <p class="title">Mechanical Engineering Graduate</p>
       <p class="entry-desc" style="margin-top:8px;">
-        <strong>Summary:</strong> An aspiring mechanical engineering graduate focused on differentiable physics, scientific machine learning (SciML), statistical inference, computational methods, and applied mathematics. Research interests include chaotic dynamical systems, turbulence, fluid flow through porous and subsurface media, and fluid flow under multiphysics constraints.
+        <strong>Summary:</strong> Aspiring mechanical engineering graduate focused on differentiable physics, scientific machine learning (SciML), statistical inference, computational methods, and multiobjective optimization. Research interests include chaotic dynamical systems, turbulence, fluid flow through porous and subsurface media, and multiphysics fluid dynamics.
       </p>
     </div>
     <div class="contact" style="width:32%;">
@@ -545,7 +545,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
         <div class="inst-name"> &#9656; Design of a Counter-Flow Shell & Helical Coil Tube Heat Exchanger (SHCTHX)</div>
         <div class="inst-sub"><span style = "color: var(--accent);"> ME-310: Thermo-fluid System Design & Practice<br>
          Supervisor: Dr. AKM Monjur Morshed, Professor, Dept. of ME, BUET  </span> </div>
-        <div class="entry-desc">CAD design · Thermo-hydraulic calculations · Prototype design and CFD simulation for flow & thermal visualization.</div>
+        <div class="entry-desc">CAD design · Thermo-hydraulic calculations · CFD simulation with flow & thermal field visualization · Structural integrity test ·  Prototype design.</div> <a href="https://www.researchgate.net/publication/373337988_Design_of_a_counter-flow_shell_and_helical_coil_tube_heat_exchanger_SHCTHX">[Project Report]</a>
       </div>
       <div class="entry-right">Jan - Feb 2022</div>
     </div>
@@ -555,7 +555,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
         <div class="inst-name">&#9656; Self-Stabilizing, Computer-Controlled Laser Turret</div>
         <div class="inst-sub"><span style = "color: var(--accent);"> ME-366: Electromechanical System Design & Practice<br>
          Supervisor: Dr. Aman Uddin, Associate Professor, Dept. of ME, BUET </span></div>
-        <div class="entry-desc">CAD · Arduino programming · sensor integration & feedback control · hardware-software integration for stabilization and precision.</div>
+        <div class="entry-desc">CAD design · Arduino programming · sensor integration & feedback control · hardware-software integration for stabilization and precision.</div> <a href="https://www.researchgate.net/publication/373336950_Project_report_titled_'Self-stabilizing_computer-controlled_laser_turret'_for_Electromechanical_System_Design_and_Practice">[Project Report]</a>
       </div>
       <div class="entry-right">Apr - Jun 2021</div>
     </div>
@@ -695,7 +695,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
       </li>
       <li style="position: relative; margin-bottom: 6px;">
         <span style="position: absolute; left: -18px; font-size: 1em;">▶</span>
-        <strong>Question Setter</strong>, Mechanical Olympiad, Organized by the Department of Mechanical Engineering, BUET
+        <strong>Question Setter</strong>, Mechanical Olympiad [Mechanical Festival 2023], Organized by the Department of Mechanical Engineering, BUET
       </li>
     </ul>
   </div>
