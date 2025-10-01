@@ -124,6 +124,48 @@ Case Studies in Thermal Engineering, 51, 103601. <br>
 
 <!-- Research 2 -->
 <div class="title">
+     &#9656; Multiphysics Fluid Flow
+</div>
+
+<p>
+The transport of <i>scalar or vector quantities</i> with fluid flow creates strongly coupled dynamics, where 
+nonlinear interactions between terms like <i>forces</i>, <i>energies</i>, and <i>fluxes</i> complicate the analysis. 
+Such <i>multiphysics-constrained flows</i> are ubiquitous in thermofluidics, fluid–structure interaction, reactive 
+flows, <i>magnetohydrodynamics (MHD)</i>, and <i>electrohydrodynamics (EHD)</i>. Although analytical and 
+semi-analytical models can suffice for simplified flows, they have limited applicability. High-fidelity simulations based on numerical methods—<i>finite element (FEM)</i>, <i>finite volume (FVM)</i>, <i>finite difference (FDM)</i>, <i>lattice Boltzmann (LBM)</i>, and <i>spectral element (SEM)</i>—have shown strengths in their respective areas. Yet, challenges remain in method selection, discretization schemes (<i>reparameterization</i>, <i>adaptive meshing</i>), time stepping (<i>explicit or implicit</i>), and, importantly, stability and convergence. <i>Multiphase</i> and <i>phase-change flows</i> need additional treatment with <i>phase-field</i>, <i>level-set</i>, and <i>volume-of-fluid</i> methods to track interfaces. To lower computational costs and improve efficiency, <i>machine learning (ML)</i>, <i>deep learning (DL)</i>, probabilistic surrogates, and <i>reduced-order modeling (POD, DMD)</i> are becoming popular. The field is evolving from purely data-driven methods to 
+<i>physics-informed</i> and <i>operator learning frameworks</i>. It is possible to integrate a learnable model 
+with existing physics and solvers, or even replace parts of them entirely, opening new frontiers. Increasingly, <i>scientific machine learning (SciML)</i> and <i>differentiable physics</i> are being applied to this class of problems for more efficient forward simulations and inverse estimations.
+</p>
+
+<p>
+Related publications:
+</p>
+
+<div class="citation">
+------------------------- <br>
+<b>Deb, N. </b> & Saha, S. (2024). Role of internal heat generation, magnetism and Joule heating on entropy generation and mixed convective flow in a square domain. <i>Annals of Nuclear Energy, 198, p.110324.</i> 
+<a href="https://doi.org/10.1016/j.anucene.2023.110324" target="_blank">https://doi.org/10.1016/j.anucene.2023.110324</a><br><br>
+
+Tasnim, S., Shuvo, M.S., <b> Deb, N. </b>, Islam, M.S. and Saha, S., 2023. Entropy generation on magnetohydrodynamic conjugate free convection with Joule heating of heat-generating liquid and solid element inside a chamber. <i>Case Studies in Thermal Engineering, 52, p.103711.</i> 
+<a href="https://doi.org/10.1016/j.csite.2023.103711" target="_blank">https://doi.org/10.1016/j.csite.2023.103711</a><br><br>
+
+<b>Deb, N. </b> and Saha, S., 2024. Comment on “Numerical simulation of magnetohydrodynamic buoyancy-induced flow in a non-isothermally heated square enclosure”[Communications in nonlinear science and numerical simulation, 14 (2009) 770-778]. <i>Communications in Nonlinear Science and Numerical Simulation, 130, p.107771.</i> 
+<a href="https://doi.org/10.1016/j.cnsns.2023.107771" target="_blank">https://doi.org/10.1016/j.cnsns.2023.107771</a><br><br>
+
+<b> Deb, N. </b>, Javed, S., Saha, S. and Sadrul Islam, A.K.M., 2023, August. Evaluation of heat transfer and melting process of a PCM inside a trapezoidal shape enclosure. In <i>IET Conference Proceedings CP836 (Vol. 2023, No. 13, pp. 249-254)</i>. Stevenage, UK: The Institution of Engineering and Technology. 
+<a href="https://doi.org/10.1049/icp.2023.1957" target="_blank">https://doi.org/10.1049/icp.2023.1957</a>
+</div>
+
+<figure>
+  <img src="{{ site.baseurl }}/images/multiphysicsflow.png" 
+       alt="Multiphysics Flow Illustration" 
+       style="max-width:110%; height:auto;">
+</figure>
+
+
+
+<!-- Research 3 -->
+<div class="title">
      &#9656; Complex System Optimization – Analytical and Data-Driven Approach
 </div>
 
