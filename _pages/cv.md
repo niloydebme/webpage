@@ -521,7 +521,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
       Publications
     </h2>
 
-    <ul style="margin:6px 0 0 14px;">
+    <ul style="margin:0 0 0 14px;">
       {% for post in site.publications reversed %}
       {% include archive-single-cv.html %}
       {% endfor %}
