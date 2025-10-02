@@ -15,20 +15,20 @@ redirect_from:
   </p>
 
   <p>
-    My name is <span style="color:blue; font-weight:bold;">Niloy Deb</span>, 
+    My name is <span style=" font-weight:bold;">Niloy Deb</span>, 
     and I am currently a <b>Lecturer</b> in the 
    Department of Petroleum and Mineral Resources Engineering (PMRE)
-    at <u>Bangladesh University of Engineering and Technology (BUET), Bangladesh</u>.  
+    at Bangladesh University of Engineering and Technology (BUET), Bangladesh.  
     I received my <b>Bachelor of Science (B.Sc.) in Mechanical Engineering</b> from BUET.  
     I also worked as a <b>research assistant</b> in the 
-    <span style="color:blue;">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</span>, 
+    <u>Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</u>, 
     led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET).  Learning new subjects is my passion, 
     and I am always open to new research opportunities.
   </p>
 
 
   <p>
-    As part of my research background, I am interested in 
+    As part of my research pursuits, I am interested in 
     <span style=" font-weight:bold;">chaotic dynamical systems</span>, 
     <span style=" font-weight:bold;">convection physics</span>, and 
     <span style=" font-weight:bold;">turbulence</span>.  
@@ -37,7 +37,7 @@ redirect_from:
     <b>fluid flow through porous and subsurface media</b>, and 
     <b>fluid behavior in multiphysics environments</b>.
     My current focus is on <i>integrating numerical analysis and high-fidelity computational fluid dynamics (CFD)</i> 
-    with <span style="color:blue; font-weight:bold;">data-driven and differentiable physics methods</span> 
+    with <span style="font-weight:bold;">data-driven and differentiable physics methods</span> 
     to improve <i>predictive accuracy</i>, <i>computational efficiency</i>, 
     and the <i>understanding of engineering systems</i>.  
     This requires modeling and prediction through 
@@ -49,7 +49,7 @@ redirect_from:
     <span style="font-weight:bold;">statistical inference</span>, 
     <span style=" font-weight:bold;">machine learning (ML)</span>, 
     and <span style=" font-weight:bold;">deep learning (DL)</span>
-    with physics-based modeling.
+    with <b>physics-based modeling </b>.
   </p>
 
 </div>
