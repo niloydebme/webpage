@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="font-family:Arial, sans-serif; font-size:14px;">
 
-  <p style="font-size:16px; color:#00BFFF; font-weight:bold;">
+  <p style="font-size:16px; color:#0077b6; font-weight:bold;">
     Greetings and welcome!
   </p>
 
