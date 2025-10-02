@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="font-family:Arial, sans-serif; font-size:14px;">
 
-  <p style="font-size:16px; color:blue; font-weight:bold;">
+  <p style="font-size:16px; color:#00BFFF; font-weight:bold;">
     Greetings and welcome!
   </p>
 
@@ -21,7 +21,7 @@ redirect_from:
     at Bangladesh University of Engineering and Technology (BUET), Bangladesh.  
     I received my <b>Bachelor of Science (B.Sc.) in Mechanical Engineering</b> from BUET.  
     I also worked as a <b>research assistant</b> in the 
-    <u>Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</u>, 
+    <b>Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</b>, 
     led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET).  Learning new subjects is my passion, 
     and I am always open to new research opportunities.
   </p>
@@ -41,7 +41,7 @@ redirect_from:
     to improve <i>predictive accuracy</i>, <i>computational efficiency</i>, 
     and the <i>understanding of engineering systems</i>.  
     This requires modeling and prediction through 
-    <span style="color:black; font-weight:bold;">scientific machine learning</span>, 
+    <span style="color:black; font-weight:bold;">scientific machine learning (SciML)</span>, 
     as well as optimizing complex nonlinear phenomena using 
     <i>adjoint methods</i>, <i>Bayesian optimization</i>, and 
     <i>gradient-based or metaheuristic algorithms</i>.  
