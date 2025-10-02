@@ -8,15 +8,69 @@ redirect_from:
 ---
 
 
+<div style="font-family:Arial, sans-serif; font-size:15px; line-height:1.6; color:black;">
 
-<p style="text-align: justify; font-size: 16px">
+  <p style="font-size:18px; color:blue; font-weight:bold;">
+    &#128075; Greetings and welcome!
+  </p>
+
+  <p>
+    My name is <span style="color:blue; font-weight:bold; text-decoration:underline;">Niloy Deb</span>, 
+    and I am currently a <b>Lecturer</b> in the 
+    <span style="color:blue; font-weight:bold;">Department of Petroleum and Mineral Resources Engineering (PMRE)</span> 
+    at <u>Bangladesh University of Engineering and Technology (BUET), Bangladesh</u>.  
+    I received my <b>Bachelor of Science (B.Sc.) in Mechanical Engineering (ME)</b> from BUET.  
+    I also worked as a <i>research assistant</i> in the 
+    <span style="color:blue; font-weight:bold;">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</span>, 
+    led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET).
+  </p>
+
+  <p>
+    <span style="font-weight:bold; color:black;">Learning new subjects is my passion</span>, 
+    and I am always open to new research opportunities.
+  </p>
+
+  <p>
+    As part of my research background, I am interested in 
+    <span style="color:blue; font-weight:bold;">chaotic dynamical systems</span>, 
+    <span style="color:black; font-weight:bold;">convection physics</span>, and 
+    <span style="color:blue; font-weight:bold;">turbulence</span>.  
+    Many of my completed or ongoing research projects address 
+    <b>CFD-based fluid system control</b>, 
+    <b>fluid flow through porous and subsurface media</b>, and 
+    <b>fluid behavior in multiphysics environments</b>.
+  </p>
+
+  <p>
+    My current focus is on <u>integrating numerical analysis and high-fidelity computational fluid dynamics (CFD)</u> 
+    with <span style="color:blue; font-weight:bold;">data-driven and differentiable physics methods</span> 
+    to improve <b>predictive accuracy</b>, <b>computational efficiency</b>, 
+    and the <i>understanding of engineering systems</i>.  
+    This requires modeling and prediction through 
+    <span style="color:black; font-weight:bold;">scientific machine learning</span>, 
+    as well as optimizing complex nonlinear phenomena using 
+    <i>adjoint methods</i>, <i>Bayesian optimization</i>, and 
+    <i>gradient-based or metaheuristic algorithms</i>.  
+    Above all, it entails <u>combining knowledge from 
+    <span style="color:blue; font-weight:bold;">statistical inference</span>, 
+    <span style="color:blue; font-weight:bold;">machine learning (ML)</span>, 
+    and <span style="color:blue; font-weight:bold;">deep learning (DL)</span></u> 
+    with physics-based modeling.
+  </p>
+
+</div>
+
+
+
+
+<!-- <p style="text-align: justify; font-size: 16px">
     <em>(Website under construction — please ignore the mess!)</em>  
     <strong>Hello, and welcome!</strong> I am <strong>Niloy Deb</strong>. I earned my <strong>Bachelor of Science in Mechanical Engineering</strong> from the <strong>Bangladesh University of Engineering and Technology (BUET)</strong>, Bangladesh. I have experience working as a research assistant in the <em>Computational Fluid Dynamics and Heat Transfer Research Group (CFDHT)</em> under the supervision of <strong>Dr. Sumon Saha</strong> (Professor, Department of Mechanical Engineering, BUET). Currently, I serve as a <strong>Lecturer</strong> in the Department of Petroleum and Mineral Resources Engineering, BUET.
 </p>
 
 <p style="text-align: justify; font-size: 16px">
     I am interested in <strong>chaotic dynamical systems</strong>, <strong>convection physics</strong>, and <strong>turbulence</strong>, with applications including <em>fluid system control</em>, <em>fluid flow through porous and subsurface media</em>, and <em>fluid behavior in multiphysics environments</em>. My current focus is on integrating <strong>numerical analysis</strong> or <strong>high-fidelity computational fluid dynamics (CFD)</strong> with <strong>data-driven</strong> and <strong>differentiable physics</strong> methods to <em>improve predictive accuracy</em>, <em>computational efficiency</em>, and <em>the understanding of engineering systems</em>. This approach requires to <em>model</em>, <em>predict</em>, and <em>optimize</em> <strong>complex nonlinear phenomena</strong> by <strong>adjoint method</strong>, <strong>Bayesian optimization</strong>, and <strong>gradient-based </strong>or <strong>metaheuristics-based algorithms</strong>. Above all, it involves combining knowledge from <strong>statistical inference</strong>, <strong>machine learning (ML)</strong>, and <strong>deep learning (DL)</strong> with <strong>physics-based modeling</strong>.
-</p>
+</p> -->
 
 <figure style="text-align: center; margin: 10px 0;">
     <img src="images/myinterests.png" alt="Research Interests Venn Diagram" style="max-width: 100%; height: auto;">
