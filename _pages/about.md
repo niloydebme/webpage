@@ -8,53 +8,47 @@ redirect_from:
 ---
 
 
-<div style="font-family:Arial, sans-serif; font-size:15px; line-height:1.6; color:black;">
+<div style="font-family:Arial, sans-serif; font-size:14px;">
 
-  <p style="font-size:18px; color:blue; font-weight:bold;">
-    &#128075; Greetings and welcome!
+  <p style="font-size:16px; color:blue; font-weight:bold;">
+    Greetings and welcome!
   </p>
 
   <p>
-    My name is <span style="color:blue; font-weight:bold; text-decoration:underline;">Niloy Deb</span>, 
+    My name is <span style="color:blue; font-weight:bold;">Niloy Deb</span>, 
     and I am currently a <b>Lecturer</b> in the 
-    <span style="color:blue; font-weight:bold;">Department of Petroleum and Mineral Resources Engineering (PMRE)</span> 
+   Department of Petroleum and Mineral Resources Engineering (PMRE)
     at <u>Bangladesh University of Engineering and Technology (BUET), Bangladesh</u>.  
-    I received my <b>Bachelor of Science (B.Sc.) in Mechanical Engineering (ME)</b> from BUET.  
-    I also worked as a <i>research assistant</i> in the 
-    <span style="color:blue; font-weight:bold;">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</span>, 
-    led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET).
-  </p>
-
-  <p>
-    <span style="font-weight:bold; color:black;">Learning new subjects is my passion</span>, 
+    I received my <b>Bachelor of Science (B.Sc.) in Mechanical Engineering</b> from BUET.  
+    I also worked as a <b>research assistant</b> in the 
+    <span style="color:blue;">Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</span>, 
+    led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET).  Learning new subjects is my passion, 
     and I am always open to new research opportunities.
   </p>
 
+
   <p>
     As part of my research background, I am interested in 
-    <span style="color:blue; font-weight:bold;">chaotic dynamical systems</span>, 
-    <span style="color:black; font-weight:bold;">convection physics</span>, and 
-    <span style="color:blue; font-weight:bold;">turbulence</span>.  
+    <span style=" font-weight:bold;">chaotic dynamical systems</span>, 
+    <span style=" font-weight:bold;">convection physics</span>, and 
+    <span style=" font-weight:bold;">turbulence</span>.  
     Many of my completed or ongoing research projects address 
     <b>CFD-based fluid system control</b>, 
     <b>fluid flow through porous and subsurface media</b>, and 
     <b>fluid behavior in multiphysics environments</b>.
-  </p>
-
-  <p>
-    My current focus is on <u>integrating numerical analysis and high-fidelity computational fluid dynamics (CFD)</u> 
+    My current focus is on <i>integrating numerical analysis and high-fidelity computational fluid dynamics (CFD)</i> 
     with <span style="color:blue; font-weight:bold;">data-driven and differentiable physics methods</span> 
-    to improve <b>predictive accuracy</b>, <b>computational efficiency</b>, 
+    to improve <i>predictive accuracy</i>, <i>computational efficiency</i>, 
     and the <i>understanding of engineering systems</i>.  
     This requires modeling and prediction through 
     <span style="color:black; font-weight:bold;">scientific machine learning</span>, 
     as well as optimizing complex nonlinear phenomena using 
     <i>adjoint methods</i>, <i>Bayesian optimization</i>, and 
     <i>gradient-based or metaheuristic algorithms</i>.  
-    Above all, it entails <u>combining knowledge from 
-    <span style="color:blue; font-weight:bold;">statistical inference</span>, 
-    <span style="color:blue; font-weight:bold;">machine learning (ML)</span>, 
-    and <span style="color:blue; font-weight:bold;">deep learning (DL)</span></u> 
+    Above all, it entails combining knowledge from 
+    <span style="font-weight:bold;">statistical inference</span>, 
+    <span style=" font-weight:bold;">machine learning (ML)</span>, 
+    and <span style=" font-weight:bold;">deep learning (DL)</span>
     with physics-based modeling.
   </p>
 
