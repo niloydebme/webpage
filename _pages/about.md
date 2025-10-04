@@ -48,7 +48,6 @@ redirect_from:
     and <span style=" font-weight:bold;">deep learning (DL)</span>
     with <b>physics-based modeling </b>.
   </p>
-
 </div>
 
 
