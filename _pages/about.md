@@ -25,14 +25,14 @@ redirect_from:
 
   <p>
     My research interests include
-    <span style=" font-weight:bold;">chaotic dynamical systems</span>, 
+    <span style=" font-weight:bold;">chaotic dynamical (fluid) systems</span>, 
     <span style=" font-weight:bold;">convection physics</span>, and 
     <span style=" font-weight:bold;">turbulence</span>.  
     Many of my completed or ongoing research projects are related to
     <b>CFD-based fluid system control</b>, 
     <b>fluid flow through porous and subsurface media</b>, and 
-    <b>fluid behavior in multiphysics environments</b>.
-    My current focus is on <i>integrating numerical analysis and high-fidelity computational fluid dynamics (CFD)</i> 
+    <b>fluid behavior in multiphysics environments (constraints)</b>.
+    My current focus is on <i>integrating numerical analysis and high-fidelity (multiscale) computational fluid dynamics (CFD)</i> 
     with <span style="font-weight:bold;">data-driven and differentiable physics methods</span> 
     to improve <i>predictive accuracy</i>, <i>computational efficiency</i>, 
     and <i>understanding of engineering systems</i>.  
