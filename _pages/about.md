@@ -11,9 +11,8 @@ redirect_from:
 <div style="font-family:Arial, sans-serif; font-size:14px;">
 
   <p style="font-size:15px; color:#0077b6; font-weight:bold;">
-    Welcome!
+    Welcome, good people!
   </p>
-
   <p>
     I am <span style=" font-weight:bold;">Niloy Deb</span>, currently employed as a <b>lecturer</b> in the 
    Department of Petroleum and Mineral Resources Engineering
