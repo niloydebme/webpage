@@ -19,7 +19,7 @@ redirect_from:
     at Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh. Before this, I worked as a <b>research assistant</b> in the 
     <b>Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</b>, 
     led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET). 
-    I earned my <b>B.Sc. in Mechanical Engineering</b> from BUET and am a <b>prospective Ph.D. student (Mechanical) </b> for the upcoming <b>Fall'26 intake </b>.   
+    I earned my <b>B.Sc. in Mechanical Engineering</b> from BUET and am a <u><b>prospective Ph.D. student (Mechanical) </b> for <b>Fall 2026</b></u>.   
 
 </p>
 
