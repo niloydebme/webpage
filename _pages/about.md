@@ -23,7 +23,7 @@ redirect_from:
     <b>Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</b>, 
     led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET).
 
-
+</p>
   <p>
     As part of my research pursuits, I am interested in 
     <span style=" font-weight:bold;">chaotic dynamical systems</span>, 
