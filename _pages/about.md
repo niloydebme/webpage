@@ -15,16 +15,13 @@ redirect_from:
   </p>
 
   <p>
-    My name is <span style=" font-weight:bold;">Niloy Deb</span>, 
-    and I am currently a <b>Lecturer</b> in the 
-   Department of Petroleum and Mineral Resources Engineering (PMRE)
+    I am <span style=" font-weight:bold;">Niloy Deb</span>, a <b>lecturer</b> in the 
+   Department of Petroleum and Mineral Resources Engineering
     at Bangladesh University of Engineering and Technology (BUET), Bangladesh.  
-    I received my <b>Bachelor of Science (B.Sc.) in Mechanical Engineering</b> from BUET.  
+    I earned my <b>Bachelor of Science (B.Sc.) in Mechanical Engineering</b> from BUET.  
     I also worked as a <b>research assistant</b> in the 
     <b>Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</b>, 
-    led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET).  Learning new subjects is my passion, 
-    and I am always open to new research opportunities.
-  </p>
+    led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET).
 
 
   <p>
@@ -32,14 +29,14 @@ redirect_from:
     <span style=" font-weight:bold;">chaotic dynamical systems</span>, 
     <span style=" font-weight:bold;">convection physics</span>, and 
     <span style=" font-weight:bold;">turbulence</span>.  
-    Many of my completed or ongoing research projects address 
+    Many of my completed or ongoing research projects include 
     <b>CFD-based fluid system control</b>, 
     <b>fluid flow through porous and subsurface media</b>, and 
     <b>fluid behavior in multiphysics environments</b>.
     My current focus is on <i>integrating numerical analysis and high-fidelity computational fluid dynamics (CFD)</i> 
     with <span style="font-weight:bold;">data-driven and differentiable physics methods</span> 
     to improve <i>predictive accuracy</i>, <i>computational efficiency</i>, 
-    and the <i>understanding of engineering systems</i>.  
+    and <i>understanding of engineering systems</i>.  
     This requires modeling and prediction through 
     <span style="color:black; font-weight:bold;">scientific machine learning (SciML)</span>, 
     as well as optimizing complex nonlinear phenomena using 
