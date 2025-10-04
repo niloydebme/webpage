@@ -14,7 +14,7 @@ redirect_from:
     Hello and welcome!
   </p>
   <p>
-    I am <span style=" font-weight:bold;">Niloy Deb</span> (/ˈniː.loɪ dɛb/), a <b>lecturer</b> in the 
+    I am <span style=" font-weight:bold;">Niloy Deb</span> (/ˈniː.loɪ dɛb/), currently a <b>lecturer</b> in the 
    Department of Petroleum and Mineral Resources Engineering
     at Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh. Before this, I worked as a <b>research assistant</b> in the 
     <b>Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</b>, 

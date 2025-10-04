@@ -77,19 +77,19 @@ author_profile: true
 </div>
 
 <p>
-Employing the <i>control law</i> to regulate <i>convection </i> can provide an optimal system 
+Employing the <i>control law</i> to regulate <i>convection</i> can provide an optimal system 
 for many sophisticated applications, such as MEMS fabrication, electronic component cooling, and 
 drug manufacturing facilities. A <i>computational approach</i> is always advantageous in this 
 regard for affordable trial and error. A more advanced version of this can be established by 
 creating a <i>digital twin</i> for the application. Other improvements include the selection of appropriate
 <i>controllers with tunable parameters</i> for the system, the insertion of multiple sensors in the domain, and 
-the acquisition of precise measurements. Another aspect involves <i>quantifying the uncertainty</i> and 
-using it during feedback. This would require <i>advanced data analysis</i> in real-time and 
-<i>statistical methods</i> to fully capture the system's dynamics and enable precise control.
+the acquisition of precise measurements. Another is <i>quantifying the uncertainty</i> and 
+using its thresholds (mean and variance) during feedback. The precision control needs integration with <i>advanced data analysis</i> in real-time and 
+<i>statistical methods</i> to fully capture the system's (spatio-temporal) dynamics.
 </p>
 
 <p>
-A related published work (Deb et al., 2023<sup>&dagger;</sup>) constitues my first attempts, in which active flow control is implemented for a thermal system. This is done computationally and can be leveraged for many advanced applications with many of the aforementioned improvements.
+A related published work of mine (Deb et al., 2023<sup>&dagger;</sup>), in which an active flow control was implemented for a thermal system. This was done computationally and can be leveraged for many advanced applications with many of the aforementioned improvements.
 </p>
 
 <div class="citation">
@@ -132,7 +132,7 @@ The transport of <i>scalar or vector quantities</i> with fluid flow creates stro
 nonlinear interactions between terms like <i>forces</i>, <i>energies</i>, and <i>fluxes</i> complicate the analysis. 
 Such <i>multiphysics-constrained flows</i> are ubiquitous in thermofluidics, fluid–structure interaction, reactive 
 flows, <i>magnetohydrodynamics (MHD)</i>, and <i>electrohydrodynamics (EHD)</i>. Although analytical and 
-semi-analytical models can suffice for simplified flows, they have limited applicability. High-fidelity (multiscale/fieldscale) simulations based on numerical methods (<i>FDM, FEM, FVM, SEM, LBM</i>) have proven strengths in computational science. Yet, computation often struggles to select the just method with right discretization schemes (<i>reparameterization</i>, <i>adaptive meshing</i>) and time stepping (<i>explicit or implicit</i>). Meanwhile, this should also complay stability and convergence, as well as overall run-time efficiency. <i>Multiphase</i> and <i>phase-change flows</i> require additional modeling with <i>phase-field</i>, <i>level-set</i>, and <i>volume-of-fluid</i> methods to track interfaces. To lower computational costs and improve efficiency, <i>machine learning (ML)</i>, <i>deep learning (DL)</i>, probabilistic surrogates, and <i>reduced-order modeling (POD, DMD)</i> are becoming popular. The field is evolving from purely data-driven methods to 
+semi-analytical models can suffice for simplified flows, they have limited applicability. High-fidelity (multiscale/fieldscale) simulations based on numerical methods (<i>FDM, FEM, FVM, SEM, LBM</i>) have proven strengths in computational science. Yet, computation often struggles to select the just method with right discretization schemes (<i>reparameterization</i>, <i>adaptive meshing</i>) and time stepping (<i>explicit or implicit</i>). Meanwhile, this should also complay with stability and convergence, as well as overall run-time efficiency. <i>Multiphase</i> and <i>phase-change flows</i> require additional modeling with <i>phase-field</i>, <i>level-set</i>, and <i>volume-of-fluid</i> methods to track interfaces. To lower computational costs and improve efficiency, <i>machine learning (ML)</i>, <i>deep learning (DL)</i>, probabilistic surrogates, and <i>reduced-order modeling (POD, DMD)</i> are becoming popular. The field is evolving from purely data-driven methods to 
 <i>physics-informed</i> and <i>operator learning frameworks</i>. It is possible to integrate a learnable model 
 with existing physics and solvers, or even replace parts of them entirely. This choice is opening new frontiers. Increasingly, <i>scientific machine learning (SciML)</i> and <i>differentiable physics</i> are being applied to this class of problems (multiphysics flow) for more efficient forward simulations and inverse estimations.
 </p>
