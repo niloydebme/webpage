@@ -3,7 +3,7 @@ title: "PMRE 413: Natural Gas Engineering"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/PMRE413NGE
-venue: "offered by Dept. of PMRE, BUET to Dept. of ChE, BUET"
+venue: "offered by the Department of PMRE, BUET to the Department of ChE, BUET"
 date: 2024-01-01
 location: "Dhaka-1000, Bangladesh"
 ---

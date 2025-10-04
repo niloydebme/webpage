@@ -10,26 +10,26 @@ redirect_from:
 
 <div style="font-family:Arial, sans-serif; font-size:14px;">
 
-  <p style="font-size:16px; color:#0077b6; font-weight:bold;">
-    Greetings and welcome!
+  <p style="font-size:15px; color:#0077b6; font-weight:bold;">
+    Welcome to my corner of the web!
   </p>
 
   <p>
-    I am <span style=" font-weight:bold;">Niloy Deb</span>, a <b>lecturer</b> in the 
+    I am <span style=" font-weight:bold;">Niloy Deb</span>, currently employed as a <b>lecturer</b> in the 
    Department of Petroleum and Mineral Resources Engineering
-    at Bangladesh University of Engineering and Technology (BUET), Bangladesh.  
-    I earned my <b>Bachelor of Science (B.Sc.) in Mechanical Engineering</b> from BUET.  
-    I also worked as a <b>research assistant</b> in the 
+    at Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh. Before that, I worked as a <b>research assistant</b> in the 
     <b>Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</b>, 
-    led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET).
+    led by <b>Dr. Sumon Saha</b> (Professor, Department of Mechanical Engineering, BUET). 
+    I earned my <b>B.Sc. in Mechanical Engineering</b> from BUET and am  now a <b>prospective Ph.D. student (Mechanical) </b>in the upcoming <b>Fall'26 intake </b>.   
 
 </p>
+
   <p>
-    As part of my research pursuits, I am interested in 
+    My research interests include
     <span style=" font-weight:bold;">chaotic dynamical systems</span>, 
     <span style=" font-weight:bold;">convection physics</span>, and 
     <span style=" font-weight:bold;">turbulence</span>.  
-    Many of my completed or ongoing research projects include 
+    Many of my completed or ongoing research projects are related to
     <b>CFD-based fluid system control</b>, 
     <b>fluid flow through porous and subsurface media</b>, and 
     <b>fluid behavior in multiphysics environments</b>.
