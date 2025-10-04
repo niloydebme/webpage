@@ -11,7 +11,7 @@ redirect_from:
 <div style="font-family:Arial, sans-serif; font-size:14px;">
 
   <p style="font-size:15px; color:#0077b6; font-weight:bold;">
-    Welcome to my corner of the web!
+    Welcome!
   </p>
 
   <p>
