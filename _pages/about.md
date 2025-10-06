@@ -11,7 +11,7 @@ redirect_from:
 <div style="font-family:Arial, sans-serif; font-size:14px;">
 
   <p style="font-size:15px; color:#0077b6; font-weight:bold;">
-    Hello and welcome!
+    Greetings and welcome!
   </p>
   <p>
     I am <span style=" font-weight:bold;">Niloy Deb</span> (/ˈniː.loɪ dɛb/), currently a <b>lecturer</b> in the 
