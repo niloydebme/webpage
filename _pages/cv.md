@@ -236,7 +236,7 @@ author_profile: true
       <p class="name">Niloy Deb</p>
       <p class="title">Mechanical Engineering Graduate</p>
       <p class="entry-desc" style="margin-top:8px;">
-        <strong>Summary:</strong> Aspiring mechanical engineering graduate focused on differentiable physics, scientific machine learning (SciML), statistical inference, computational methods, and multiobjective optimization. Research interests include chaotic dynamical systems, turbulence, fluid flow through porous and subsurface media, and multiphysics fluid dynamics.
+        <strong>Summary:</strong> My research interests lie at the intersection of fluid physics, computational methods, and data-driven science. Currently, I am focusing on integrating numerical methods and high-fidelity CFD with data-driven surrogates and differentiable physics to improve computational efficiency. 
       </p>
     </div>
     <div class="contact" style="width:32%;">
