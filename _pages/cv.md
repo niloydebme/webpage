@@ -635,11 +635,11 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
     </li>
     <li style="position: relative; margin-bottom: 6px;">
       <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong>Design, CAD, & Drawing:</strong> AutoCAD, SolidWorks, Proteus, Draw.io, Canva, Illustrator, Photoshop, LaTeX-TikZ, Python - OpenCV, Pillow, scikit-image
+      <strong>CAD/Drawing:</strong> AutoCAD, SolidWorks, Proteus, Draw.io, Canva, Illustrator, Photoshop, LaTeX-TikZ, Python - OpenCV, Pillow, scikit-image
     </li>
     <li style="position: relative; margin-bottom: 6px;">
       <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong>FEM Modeling:</strong> COMSOL Multiphysics
+      <strong> CFD Tool:</strong> COMSOL Multiphysics, Ansys Fluent
     </li>
     <li style="position: relative; margin-bottom: 6px;">
       <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
