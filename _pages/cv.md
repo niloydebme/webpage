@@ -348,7 +348,7 @@ author_profile: true
 
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
     <strong>Principal Investigator</strong>: Shaumik Rahman Ayon, Assistant Professor, Department of PMRE, BUET.  <br> <br>
-    <strong>Thermodynamic optimization of a novel multistage direct expansion cycle for LNG cold energy recovery</strong> <br>
+    <strong>Theme: </strong>Thermodynamic optimization of a novel multistage direct expansion cycle for LNG cold energy recovery <br>
     <span style="display:block; margin-left:10px; text-indent:0;">
       &bull; Modeling and Optimization &nbsp;
       &bull; Differential Evolution (DE) Optimization &nbsp;
@@ -375,7 +375,7 @@ author_profile: true
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
     <strong>Funding Agency</strong>: Bangladesh Hydrocarbon Unit, Ministry of Power, Energy and Mineral Resources, Bangladesh. <br>
     <strong>Principal Investigator</strong>: Dr. Mohammed Mahbubur Rahman, Professor, Department of PMRE, BUET. <br> <br>
-    <strong>A Study of the Reservoir Fluid Properties and Phase Behavior of Titas Gas Field, Bangladesh</strong> <br>
+    <strong>Theme: </strong> A Study of the Reservoir Fluid Properties and Phase Behavior of Titas Gas Field, Bangladesh <br>
     <span style="display:block; margin-left:10px; text-indent:0;">
       &bull; Reservoir Fluid Properties &nbsp;
       &bull; Reservoir Fluid Phase Behavior &nbsp;
@@ -413,7 +413,7 @@ author_profile: true
 </section>
 
 <section class="section" id="professional" >
-  <h2>
+  <h2 style="margin-bottom: 40px;">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
       <rect x="2" y="7" width="20" height="14" rx="2"></rect>
       <path d="M16 3h0a2 2 0 0 1 2 2v2H6V5a2 2 0 0 1 2-2h0"></path>
@@ -461,12 +461,12 @@ author_profile: true
 
    <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;"> 
     <strong>Principal Investigator</strong>: Dr. Sumon Saha , Professor, Department of Mechanical Engineering, BUET.
-    <ul style="list-style-type: none; padding-left: 20px;">
-      <li style="position: relative; margin-bottom: 0px;">
+    <ul style="list-style-type: none; padding-left: 0px;">
+      <li style="position: relative; margin-bottom: 2px;">
         Research includes: Numerical Methods, Turbulence Modeling, CFD-based Control of Convection, Multiphysics Flow,
 Multiphase Flow, and Flow Through Porous Media
       </li>
-      <li style="position: relative; margin-bottom: 0px;">
+      <li style="position: relative; margin-bottom: 2px;">
         <span style="text-decoration: underline;">Drafted a proposal </span> for the Research Innovation Center for Science and Engineering (RISE) <span style="text-decoration: underline;">internal research grant </span>, BUET. <br>
 <strong>Theme </strong>: Visualization, Optimization, and Performance Analysis of Two-Phase Fluid Flow in a Plate-Fin Compact Heat
 Exchanger.
