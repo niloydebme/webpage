@@ -639,17 +639,17 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
 <ul style="list-style-type: disc; padding-left: 20px; margin: 0; font-size: 12.5px;">
   <li style="position: relative; padding-right: 120px;">
     <strong>Dr. Muhammad Harunur Rashid Best Paper Award:</strong> Best Paper Award at the 14th International Conference on Mechanical Engineering, Dhaka, Bangladesh
-    <span style="position: absolute; right: 0;">ICME 2023</span>
+    <span style="position: absolute; right: 0;">[ICME 2023]</span>
   </li>
   
   <li style="position: relative; padding-right: 120px;">
     <strong>University Merit Scholarship (BUET):</strong> Awarded for academic excellence in undergraduate studies
-    <span style="position: absolute; right: 0;">2018–2023</span>
+    <span style="position: absolute; right: 0;">[2018–2023]</span>
   </li>
   
   <li style="position: relative; padding-right: 120px;">
     <strong>Dean’s List Award (Department of Mechanical Engineering, BUET):</strong> Awarded for academic excellence in all academic levels (I–IV) of undergraduate studies
-    <span style="position: absolute; right: 0;">2018–2023</span>
+    <span style="position: absolute; right: 0;">[2018–2023]</span>
   </li>
 </ul>
   </section>
