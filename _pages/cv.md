@@ -322,8 +322,8 @@ author_profile: true
     </div>
   </section>
 
-<section class="section" id="professional" style="margin-bottom: 80px;">
- <h2>
+<section class="section" id="professional">
+ <h2 style="margin-bottom: 40px;">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
     <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
     <line x1="8" y1="21" x2="16" y2="21"></line>
@@ -412,7 +412,7 @@ author_profile: true
   </div>
 </section>
 
-<section class="section" id="professional" style="margin-bottom: 80px;">
+<section class="section" id="professional" >
   <h2>
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
       <rect x="2" y="7" width="20" height="14" rx="2"></rect>
