@@ -568,38 +568,29 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
       Presentations and Talks
     </h2>
 
-    <div class="entry" style="margin-top:0px;">
-      <div class="entry-left">
-        <div class="inst-name"> &#9656;MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium</div>
-        <div class="entry-desc">Technical session, presented at the 14th International Conference on Mechanical Engineering (ICME 2023)</div>
-      </div>
-      <div class="entry-right">Dec 2023</div>
-    </div>
+  <div class="entry">
+  ▶ MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium — 
+  <i>Technical session, presented at the 14th International Conference on Mechanical Engineering (ICME 2023)</i>
+  <span class="entry-right">Dec 2023</span>
+</div>
 
-    <div class="entry" style="margin-top:0px;">
-      <div class="entry-left">
-        <div class="entry-desc"> &#9656; How to Review Literature [Workshop]</div>
-        <div class="entry-desc"> Technical writing session organized by the Computational Fluid Dynamics and Heat Transfer Research (CFDHT) Group</div>
-      </div>
-      <div class="entry-right">Aug 2023</div>
-    </div>
+<div class="entry">
+  ▶ How to Review Literature [Workshop] — 
+  <i>Technical writing session organized by the Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</i>
+  <span class="entry-right">Aug 2023</span>
+</div>
 
-    <div class="entry" style="margin-top:0px;">
-      <div class="entry-left">
-        <div class="entry-desc"> &#9656; Introduction to Porous Media and Related Mathematical Modeling for Fluid Flow and Heat Transfer [Workshop]</div>
-        <div class="entry-desc"> Computational Fluid Dynamics Simulation using COMSOL Multiphysics Software, workshop organized by REVA University, Bengaluru, India </div>
-      </div>
-      <div class="entry-right">Sep 2023</div>
-    </div>
+<div class="entry">
+  ▶ Introduction to Porous Media and Related Mathematical Modeling for Fluid Flow and Heat Transfer [Workshop] — 
+  <i>Computational Fluid Dynamics simulation using COMSOL Multiphysics software, workshop organized by REVA University, Bengaluru, India</i>
+  <span class="entry-right">Sep 2023</span>
+</div>
 
-
-    <div class="entry" style="margin-top:0px;">
-      <div class="entry-left">
-        <div class="entry-desc"> &#9656; Multi-segment Numerical Integration Method for Solution of Boundary Value Problems (Linear and Non-linear ODEs) [Tutorial]</div>
-        <div class="entry-desc"> Tutorial session on non-conventional numerical techniques for solving boundary value problems</div>
-      </div>
-      <div class="entry-right">May 2024</div>
-    </div>
+<div class="entry">
+  ▶ Multi-segment Numerical Integration Method for Solution of Boundary Value Problems (Linear and Non-linear ODEs) [Tutorial] — 
+  <i>Tutorial session on non-conventional numerical techniques for solving boundary value problems</i>
+  <span class="entry-right">May 2024</span>
+</div>
 
 
  
