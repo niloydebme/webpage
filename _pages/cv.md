@@ -570,8 +570,8 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
 
 <ul style="list-style-type: disc; padding-left: 20px; margin: 0; font-size: 13px;">
   <li style="position: relative; padding-right: 100px;">
-    MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium — 
-    <i>Technical session, presented at the 14th International Conference on Mechanical Engineering (ICME 2023)</i>
+    MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium [Technical session] — 
+    <i>presented at the 14th International Conference on Mechanical Engineering (ICME 2023), Dhaka, Bangladesh</i>
     <span style="position: absolute; right: 0;">[Dec 2023]</span>
   </li>
 
@@ -636,13 +636,22 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
   </svg>
   Awards and Honors
 </h2>
-<div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-     <ul class="compact-list">
-    <li><strong>Dr. Muhammad Harunur Rashid Best Paper Award:</strong> Best Paper Award at the 14th International Conference on Mechanical Engineering, Dhaka, Bangladesh &nbsp;&nbsp; [ICME 2023]</li>
-    <li><strong>University Merit Scholarship (BUET):</strong> Awarded for academic excellence in undergraduate studies &nbsp;&nbsp; [2018–2023]</li>
-    <li><strong>Dean’s List Award (Department of Mechanical Engineering, BUET) :</strong> Awarded for academic excellence in all academic levels (I–IV) of undergraduate studies &nbsp;&nbsp; [2018–2023]</li>
-  </ul>
-</div>
+<ul style="list-style-type: disc; padding-left: 20px; margin: 0; font-size: 12.5px;">
+  <li style="position: relative; padding-right: 120px;">
+    <strong>Dr. Muhammad Harunur Rashid Best Paper Award:</strong> Best Paper Award at the 14th International Conference on Mechanical Engineering, Dhaka, Bangladesh
+    <span style="position: absolute; right: 0;">ICME 2023</span>
+  </li>
+  
+  <li style="position: relative; padding-right: 120px;">
+    <strong>University Merit Scholarship (BUET):</strong> Awarded for academic excellence in undergraduate studies
+    <span style="position: absolute; right: 0;">2018–2023</span>
+  </li>
+  
+  <li style="position: relative; padding-right: 120px;">
+    <strong>Dean’s List Award (Department of Mechanical Engineering, BUET):</strong> Awarded for academic excellence in all academic levels (I–IV) of undergraduate studies
+    <span style="position: absolute; right: 0;">2018–2023</span>
+  </li>
+</ul>
   </section>
 
 <section class="section" id="involvements">
