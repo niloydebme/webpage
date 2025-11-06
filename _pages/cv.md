@@ -347,7 +347,7 @@ author_profile: true
   </div>
 
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-    <strong>Principal Investigator</strong>: Shaumik Rahman Ayon, Assistant Professor, Department of PMRE, BUET. <br>
+    <strong>Principal Investigator</strong>: Shaumik Rahman Ayon, Assistant Professor, Department of PMRE, BUET.  <br> <br>
     <strong>Thermodynamic optimization of a novel multistage direct expansion cycle for LNG cold energy recovery</strong> <br>
     <span style="display:block; margin-left:10px; text-indent:0;">
       &bull; Modeling and Optimization &nbsp;
@@ -374,7 +374,7 @@ author_profile: true
 
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
     <strong>Funding Agency</strong>: Bangladesh Hydrocarbon Unit, Ministry of Power, Energy and Mineral Resources, Bangladesh. <br>
-    <strong>Principal Investigator</strong>: Dr. Mohammed Mahbubur Rahman, Professor, Department of PMRE, BUET. <br>
+    <strong>Principal Investigator</strong>: Dr. Mohammed Mahbubur Rahman, Professor, Department of PMRE, BUET. <br> <br>
     <strong>A Study of the Reservoir Fluid Properties and Phase Behavior of Titas Gas Field, Bangladesh</strong> <br>
     <span style="display:block; margin-left:10px; text-indent:0;">
       &bull; Reservoir Fluid Properties &nbsp;
@@ -462,11 +462,11 @@ author_profile: true
    <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;"> 
     <strong>Principal Investigator</strong>: Dr. Sumon Saha , Professor, Department of Mechanical Engineering, BUET.
     <ul style="list-style-type: none; padding-left: 20px;">
-      <li style="position: relative; margin-bottom: 5px;">
+      <li style="position: relative; margin-bottom: 0px;">
         Research includes: Numerical Methods, Turbulence Modeling, CFD-based Control of Convection, Multiphysics Flow,
 Multiphase Flow, and Flow Through Porous Media
       </li>
-      <li style="position: relative; margin-bottom: 5px;">
+      <li style="position: relative; margin-bottom: 0px;">
         <span style="text-decoration: underline;">Drafted a proposal </span> for the Research Innovation Center for Science and Engineering (RISE) <span style="text-decoration: underline;">internal research grant </span>, BUET. <br>
 <strong>Theme </strong>: Visualization, Optimization, and Performance Analysis of Two-Phase Fluid Flow in a Plate-Fin Compact Heat
 Exchanger.
