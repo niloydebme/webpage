@@ -618,39 +618,15 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
     <strong>Highlights:</strong> Scientific Writing · Exploratory Data Analysis · Quantitative Research
   </div>
 
-  <ul style="list-style-type: none; padding-left: 20px; font-size: 13 px;">
-    <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong>Programming Languages:</strong> Python, MATLAB, C
-    </li>
-    <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong>Documentation/Scripting:</strong> LaTeX, MS Office, Markdown, HTML
-    </li>
-    <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong>Visualization:</strong> Tecplot 360, WebPlotDigitizer, Desmos, Python - Matplotlib, Plotly, Seaborn
-    </li>
-    <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong>CAD/Drawing:</strong> AutoCAD, SolidWorks, Proteus, Draw.io, Canva, Illustrator, Photoshop, LaTeX-TikZ, Python - OpenCV, Pillow, scikit-image
-    </li>
-    <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong> CFD Tool:</strong> COMSOL Multiphysics, Ansys Fluent
-    </li>
-    <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong>Reservoir Simulation:</strong> Kappa Workstation (Rubis, Saphir)
-    </li>
-    <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong>ML/DL/Stats:</strong> Python - scikit-learn, TensorFlow, PyTorch, JAX, SciPy, PyMC3/4
-    </li>
-    <li style="position: relative; margin-bottom: 6px;">
-      <span style="position: absolute; left: -15px; font-size: 1em;"> ► </span>
-      <strong>Exploratory Data Analysis:</strong> Python - Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn
-    </li>
+  <ul class="compact-list">
+    <li><strong>Programming Languages:</strong> Python, MATLAB, C</li>
+    <li><strong>Documentation / Scripting:</strong> LaTeX, MS Office, Markdown, HTML</li>
+    <li><strong>Visualization:</strong> Tecplot 360, WebPlotDigitizer, Desmos, Python (Matplotlib, Plotly, Seaborn)</li>
+    <li><strong>CAD / Drawing:</strong> AutoCAD, SolidWorks, Proteus, Draw.io, Canva, Illustrator, Photoshop, LaTeX-TikZ, Python (OpenCV, Pillow, scikit-image)</li>
+    <li><strong>CFD Tools:</strong> COMSOL Multiphysics, Ansys Fluent</li>
+    <li><strong>Reservoir Simulation:</strong> Kappa Workstation (Rubis, Saphir)</li>
+    <li><strong>ML / DL / Statistics:</strong> Python (scikit-learn, TensorFlow, PyTorch, JAX, SciPy, PyMC3/4)</li>
+    <li><strong>Exploratory Data Analysis:</strong> Python (Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn)</li>
   </ul>
   </section>
 
@@ -665,7 +641,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
   Awards and Honors
 </h2>
      <ul class="compact-list">
-    <li><strong>Dr. Muhammad Harunur Rashid Award:</strong> Best Paper Award at the 14th International Conference on Mechanical Engineering, Dhaka, Bangladesh &nbsp;&nbsp; [ICME 2023]</li>
+    <li><strong>Dr. Muhammad Harunur Rashid Best Paper Award:</strong> Best Paper Award at the 14th International Conference on Mechanical Engineering, Dhaka, Bangladesh &nbsp;&nbsp; [ICME 2023]</li>
     <li><strong>University Merit Scholarship (BUET):</strong> Awarded for academic excellence in undergraduate studies &nbsp;&nbsp; [2018–2023]</li>
     <li><strong>Dean’s List Award (Department of Mechanical Engineering, BUET) :</strong> Awarded for academic excellence in all academic levels (I–IV) of undergraduate studies &nbsp;&nbsp; [2018–2023]</li>
   </ul>
