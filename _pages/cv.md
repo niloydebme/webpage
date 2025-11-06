@@ -568,31 +568,32 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
       Presentations and Talks
     </h2>
 
-<ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li class="entry">
-    ▶ MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium — 
+<ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+  <li style="position: relative; padding-right: 100px;">
+    MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium — 
     <i>Technical session, presented at the 14th International Conference on Mechanical Engineering (ICME 2023)</i>
-    <span class="entry-right">Dec 2023</span>
+    <span style="position: absolute; right: 0;">Dec 2023</span>
   </li>
 
-  <li class="entry">
-    ▶ How to Review Literature [Workshop] — 
+  <li style="position: relative; padding-right: 100px;">
+    How to Review Literature [Workshop] — 
     <i>Technical writing session organized by the Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</i>
-    <span class="entry-right">Aug 2023</span>
+    <span style="position: absolute; right: 0;">Aug 2023</span>
   </li>
 
-  <li class="entry">
-    ▶ Introduction to Porous Media and Related Mathematical Modeling for Fluid Flow and Heat Transfer [Workshop] — 
+  <li style="position: relative; padding-right: 100px;">
+    Introduction to Porous Media and Related Mathematical Modeling for Fluid Flow and Heat Transfer [Workshop] — 
     <i>Computational Fluid Dynamics simulation using COMSOL Multiphysics software, workshop organized by REVA University, Bengaluru, India</i>
-    <span class="entry-right">Sep 2023</span>
+    <span style="position: absolute; right: 0;">Sep 2023</span>
   </li>
 
-  <li class="entry">
-    ▶ Multi-segment Numerical Integration Method for Solution of Boundary Value Problems (Linear and Non-linear ODEs) [Tutorial] — 
+  <li style="position: relative; padding-right: 100px;">
+    Multi-segment Numerical Integration Method for Solution of Boundary Value Problems (Linear and Non-linear ODEs) [Tutorial] — 
     <i>Tutorial session on non-conventional numerical techniques for solving boundary value problems</i>
-    <span class="entry-right">May 2024</span>
+    <span style="position: absolute; right: 0;">May 2024</span>
   </li>
 </ul>
+
 
 
 
