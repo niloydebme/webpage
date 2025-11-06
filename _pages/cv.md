@@ -658,20 +658,11 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
   </h2>
 
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-    <ul style="list-style-type: none; padding-left: 20px;">
-      <li style="position: relative; margin-bottom: 6px;">
-        <span style="position: absolute; left: -18px; font-size: 1em;">▶</span>
-        <strong>Co-Instructor</strong>, Short course on COMSOL Multiphysics Simulation of Thermo-fluidic Problems, Directorate of Continuing Education (DCE), BUET, Dhaka, Bangladesh
-      </li>
-      <li style="position: relative; margin-bottom: 6px;">
-        <span style="position: absolute; left: -18px; font-size: 1em;">▶</span>
-        <strong>Reviewer</strong>, <i>Scientific Reports; Numerical Heat Transfer, Part A: Applications</i>
-      </li>
-      <li style="position: relative; margin-bottom: 6px;">
-        <span style="position: absolute; left: -18px; font-size: 1em;">▶</span>
-        <strong>Question Setter</strong>, Mechanical Olympiad [Mechanical Festival 2023], Organized by the Department of Mechanical Engineering, BUET
-      </li>
-    </ul>
+    <ul class="compact-list">
+  <li><strong>Co-Instructor:</strong> Short Course on COMSOL Multiphysics Simulation of Thermo-fluidic Problems, Directorate of Continuing Education (DCE), Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
+  <li><strong>Reviewer:</strong> <i>Scientific Reports</i>; <i>Numerical Heat Transfer, Part A: Applications</i></li>
+  <li><strong>Question Setter:</strong> Mechanical Olympiad [Mechanical Festival 2023], organized by the Department of Mechanical Engineering, BUET</li>
+</ul>
   </div>
 </section>
 
