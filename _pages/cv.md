@@ -323,7 +323,7 @@ author_profile: true
   </section>
 
 <section class="section" id="professional">
- <h2 style="margin-bottom: 40px;">
+ <h2 style="margin-bottom: 30px;">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
     <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
     <line x1="8" y1="21" x2="16" y2="21"></line>
@@ -413,7 +413,7 @@ author_profile: true
 </section>
 
 <section class="section" id="professional" >
-  <h2 style="margin-bottom: 40px;">
+  <h2 style="margin-bottom: 30px;">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
       <rect x="2" y="7" width="20" height="14" rx="2"></rect>
       <path d="M16 3h0a2 2 0 0 1 2 2v2H6V5a2 2 0 0 1 2-2h0"></path>
@@ -538,20 +538,20 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
       Technical Projects
     </h2>
 
-   <div class="entry" style="margin-top:6px;">
+   <div class="entry" style="margin-top:6px; margin-left:10px;">
       <div class="entry-left">
         <div class="inst-name"> &#9656; Design of a Counter-Flow Shell & Helical Coil Tube Heat Exchanger (SHCTHX)</div>
-        <div class="inst-sub"><span style = "color: var(--accent);"> ME-310: Thermo-fluid System Design & Practice<br>
+        <div class="inst-sub" style="font-size: 12.3px;"><span style = "color: var(--accent);"> ME-310: Thermo-fluid System Design & Practice<br>
          Supervisor: Dr. AKM Monjur Morshed, Professor, Dept. of ME, BUET  </span> </div>
         <div class="entry-desc">CAD design · Thermo-hydraulic calculations · CFD simulation with flow & thermal field visualization · Structural integrity test ·  Prototype design. <a href="https://www.researchgate.net/publication/373337988_Design_of_a_counter-flow_shell_and_helical_coil_tube_heat_exchanger_SHCTHX">[Project Report]</a></div> 
       </div>
       <div class="entry-right">Jan - Feb 2022</div>
     </div>
 
-  <div class="entry" style="margin-top:6px;">
+  <div class="entry" style="margin-top:6px; margin-left:10px;">
       <div class="entry-left">
         <div class="inst-name">&#9656; Self-Stabilizing, Computer-Controlled Laser Turret</div>
-        <div class="inst-sub"><span style = "color: var(--accent);"> ME-366: Electromechanical System Design & Practice<br>
+        <div class="inst-sub" style="font-size: 12.3px;"><span style = "color: var(--accent);"> ME-366: Electromechanical System Design & Practice<br>
          Supervisor: Dr. Aman Uddin, Associate Professor, Dept. of ME, BUET </span></div>
         <div class="entry-desc">CAD design · Arduino programming · sensor integration & feedback control · hardware-software integration for stabilization and precision. <a href="https://www.researchgate.net/publication/373336950_Project_report_titled_'Self-stabilizing_computer-controlled_laser_turret'_for_Electromechanical_System_Design_and_Practice">[Project Report]</a></div> 
       </div>
@@ -663,13 +663,23 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
     Involvements
   </h2>
 
-  <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-    <ul class="compact-list">
-  <li><strong>Co-Instructor:</strong> Short Course on COMSOL Multiphysics Simulation of Thermo-fluidic Problems, Directorate of Continuing Education (DCE), Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh</li>
-  <li><strong>Reviewer:</strong> <i>Scientific Reports</i>; <i>Numerical Heat Transfer, Part A: Applications</i></li>
-  <li><strong>Question Setter:</strong> Mechanical Olympiad [Mechanical Festival 2023], organized by the Department of Mechanical Engineering, BUET</li>
+ <ul style="list-style-type: disc; padding-left: 20px; margin: 0; font-size: 12.5px;">
+  <li style="position: relative; padding-right: 120px;">
+    <strong>Co-Instructor:</strong> Short Course on COMSOL Multiphysics Simulation of Thermo-fluidic Problems, Directorate of Continuing Education (DCE), Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
+    <span style="position: absolute; right: 0;">[Dec 2023]</span>
+  </li>
+  
+  <li style="position: relative; padding-right: 120px;">
+    <strong>Reviewer:</strong> <i>Scientific Reports</i>; <i>Numerical Heat Transfer, Part A: Applications</i>
+    <span style="position: absolute; right: 0;">[2023–]</span>
+  </li>
+  
+  <li style="position: relative; padding-right: 120px;">
+    <strong>Question Setter:</strong> Mechanical Olympiad organized by the Department of Mechanical Engineering, BUET
+    <span style="position: absolute; right: 0;">[Mecha Fest 2023]</span>
+  </li>
 </ul>
-  </div>
+
 </section>
 
 
