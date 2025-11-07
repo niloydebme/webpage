@@ -613,7 +613,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
     <strong>Highlights:</strong> Scientific Writing · Exploratory Data Analysis · Quantitative Research
   </div>
 <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-  <ul class="compact-list">
+  <ul class="compact-list" style="margin:0; padding-left:15px; line-height:1.1; list-style-position:outside;">
     <li><strong>Programming Languages:</strong> Python, MATLAB, C</li>
     <li><strong>Documentation / Scripting:</strong> LaTeX, MS Office, Markdown, HTML</li>
     <li><strong>Visualization:</strong> Tecplot 360, WebPlotDigitizer, Desmos, Python (Matplotlib, Plotly, Seaborn)</li>
@@ -671,7 +671,7 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
   
   <li style="position: relative; padding-right: 120px;">
     <strong>Reviewer:</strong> <i>Scientific Reports</i>; <i>Numerical Heat Transfer, Part A: Applications</i>
-    <span style="position: absolute; right: 0;">[2023–]</span>
+    <span style="position: absolute; right: 0;">[2023 – Present]</span>
   </li>
   
   <li style="position: relative; padding-right: 120px;">
