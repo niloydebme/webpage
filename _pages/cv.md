@@ -538,20 +538,20 @@ generator, steam turbine, gas turbine, water treatments), plant maintenance, and
       Technical Projects
     </h2>
 
-   <div class="entry" style="margin-top:6px; margin-left:10px;">
+   <div class="entry" style="margin-top:6px; margin-left:15px;">
       <div class="entry-left">
         <div class="inst-name"> &#9656; Design of a Counter-Flow Shell & Helical Coil Tube Heat Exchanger (SHCTHX)</div>
-        <div class="inst-sub" style="font-size: 12.3px;"><span style = "color: var(--accent);"> ME-310: Thermo-fluid System Design & Practice<br>
+        <div class="inst-sub" style="font-size: 13px;"><span style = "color: var(--accent);"> ME-310: Thermo-fluid System Design & Practice<br>
          Supervisor: Dr. AKM Monjur Morshed, Professor, Dept. of ME, BUET  </span> </div>
         <div class="entry-desc">CAD design · Thermo-hydraulic calculations · CFD simulation with flow & thermal field visualization · Structural integrity test ·  Prototype design. <a href="https://www.researchgate.net/publication/373337988_Design_of_a_counter-flow_shell_and_helical_coil_tube_heat_exchanger_SHCTHX">[Project Report]</a></div> 
       </div>
       <div class="entry-right">Jan - Feb 2022</div>
     </div>
 
-  <div class="entry" style="margin-top:6px; margin-left:10px;">
+  <div class="entry" style="margin-top:6px; margin-left:15px;">
       <div class="entry-left">
         <div class="inst-name">&#9656; Self-Stabilizing, Computer-Controlled Laser Turret</div>
-        <div class="inst-sub" style="font-size: 12.3px;"><span style = "color: var(--accent);"> ME-366: Electromechanical System Design & Practice<br>
+        <div class="inst-sub" style="font-size: 13px;"><span style = "color: var(--accent);"> ME-366: Electromechanical System Design & Practice<br>
          Supervisor: Dr. Aman Uddin, Associate Professor, Dept. of ME, BUET </span></div>
         <div class="entry-desc">CAD design · Arduino programming · sensor integration & feedback control · hardware-software integration for stabilization and precision. <a href="https://www.researchgate.net/publication/373336950_Project_report_titled_'Self-stabilizing_computer-controlled_laser_turret'_for_Electromechanical_System_Design_and_Practice">[Project Report]</a></div> 
       </div>
