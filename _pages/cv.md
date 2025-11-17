@@ -246,7 +246,7 @@ author_profile: true
         <a href="LINKEDIN_URL" target="_blank">LinkedIn</a> · <a href="https://orcid.org/0009-0006-4542-0895" target="_blank">ORCID</a>
       </div>
       <div style="margin-top:8px;">
-        <a class="btn" href="https://www.dropbox.com/scl/fi/hrfkcsp3c33gphm8jfun0/CV_Niloy-Deb-Oct-2025.pdf?rlkey=oaaudivmj96vqif271oqc0bj3&st=ydjk3jt8&dl=0" style="background:var(--accent); color:#fff; padding:6px 10px; border-radius:6px; text-decoration:none; font-size:13px;">📄 PDF</a>
+        <a class="btn" href="https://www.dropbox.com/scl/fi/gyp2wdqfe81xtfvwh1cz9/Niloy_Deb_Curriculum_Vitae.pdf?rlkey=ts8ul83vt8lvj5c5tat3lb11x&st=drw83r12&dl=0" style="background:var(--accent); color:#fff; padding:6px 10px; border-radius:6px; text-decoration:none; font-size:13px;">📄 PDF</a>
       </div>
     </div>
   </div>
