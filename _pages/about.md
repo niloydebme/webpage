@@ -6,9 +6,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Normal font -->
+<div style="font-family: Arial, sans-serif; font-size: 14px; text-align: justify;">
+
+  <p style="font-size:15px; color:#0077b6;">
+    Greetings and welcome!
+  </p>
+
+  <p>
+    I am Niloy Deb (/ˈniː.loɪ dɛb/), currently a lecturer in the Department of Petroleum and Mineral Resources Engineering (PMRE) at Bangladesh University of Engineering and Technology (BUET), Dhaka. Before joining there, I worked as a research assistant in the Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, led by Dr. Sumon Saha (Professor, Department of Mechanical Engineering, BUET). I completed my B.Sc. in Mechanical Engineering from BUET and am a prospective doctoral student in Mechanical Engineering, starting in Fall 2026.
+  </p>
+
+  <p>
+    My research interests include chaotic dynamical (fluid) systems, convection physics, and turbulence. Many of my completed or ongoing research projects are related to CFD-based fluid system control, fluid flow through porous and subsurface media, and fluid behavior in multiphysics environments (constraints). My current focus is on integrating numerical analysis and high-fidelity (multiscale) computational fluid dynamics (CFD) with data-driven and differentiable physics methods to improve predictive accuracy, computational efficiency, and understanding of engineering systems. This requires modeling and prediction through scientific machine learning (SciML), as well as optimizing complex nonlinear phenomena using adjoint methods, Bayesian optimization, and gradient-based or metaheuristic algorithms. Above all, it entails combining knowledge from statistical inference, machine learning (ML), and deep learning (DL) with physics-based modeling.
+  </p>
+
+</div>
 
 
-<div style="font-family:Arial, sans-serif; font-size:14px;">
+<!-- <div style="font-family:Arial, sans-serif; font-size:14px;">
 
   <p style="font-size:15px; color:#0077b6; font-weight:bold;">
     Greetings and welcome!
@@ -48,7 +64,7 @@ redirect_from:
   </p>
 </div>
 
-
+ -->
 
 
 <!-- <p style="text-align: justify; font-size: 16px">
