@@ -89,19 +89,20 @@ redirect_from:
     <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
       <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
       <div>
-        <span style="font-weight: bold; color: #222;">2025-08-09</span><br>
+        <span style="font-weight: normal; color: #0077b6;">2025-08-09</span><br>
         <span>Appeared for the TOEFL iBT exam.</span>
       </div>
     </li>
     <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
       <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
       <div>
-        <span style="font-weight: bold; color: #222;">2025-04-23</span><br>
+        <span style="font-weight: normal; color: #0077b6;">2025-04-23</span><br>
         <span>Participated in a workshop organized by the Ministry of Shipping, Government of Bangladesh, to develop the National Action Plan for achieving net-zero greenhouse gas emissions in the maritime sector by 2050.</span>
       </div>
     </li>
   </ul>
 </section>
+
 
 
 
