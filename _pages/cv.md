@@ -373,7 +373,7 @@ author_profile: true
   </div>
 
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
-    <strong>Funding Agency</strong>: Bangladesh Hydrocarbon Unit, Ministry of Power, Energy and Mineral Resources, Bangladesh. <br>
+    <strong>Funding Agency</strong>: Hydrocarbon Unit, Ministry of Power, Energy and Mineral Resources, Bangladesh. <br>
     <strong>Principal Investigator</strong>: Dr. Mohammed Mahbubur Rahman, Professor, Department of PMRE, BUET. <br> <br>
     <strong>Theme: </strong> A Study of the Reservoir Fluid Properties and Phase Behavior of Titas Gas Field, Bangladesh <br>
     <span style="display:block; margin-left:10px; text-indent:0;">
