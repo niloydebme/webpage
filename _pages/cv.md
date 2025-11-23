@@ -284,7 +284,7 @@ author_profile: true
         <div class="institution">
           <img src="{{ site.baseurl }}/images/dhakacollege.png" alt="Dhaka College logo" class="institution-logo">
           <div>
-            <div class="inst-name">Dhaka College, Dhaka</div>
+            <div class="inst-name">Dhaka College</div>
             <div class="inst-sub">Higher Secondary Certificate (HSC) - Science </div>
           </div>
         </div>
@@ -343,18 +343,18 @@ author_profile: true
         </div>
       </div>
     </div>
-    <div class="entry-right">Jun 2025 – Sep 2025 <span class="location">Dhaka, Bangladesh</span></div>
+    <div class="entry-right">Jun 2025 – Present <span class="location">Dhaka, Bangladesh</span></div>
   </div>
 
   <div class="entry-desc" style="margin-top:8px; font-size: 12.5px;">
     <strong>Principal Investigator</strong>: Shaumik Rahman Ayon, Assistant Professor, Department of PMRE, BUET.  <br> <br>
-    <strong>Theme: </strong>Thermodynamic optimization of a novel multistage direct expansion cycle for LNG cold energy recovery <br>
+    <strong>Topic: </strong>Thermodynamic optimization of a novel multistage direct expansion cycle for LNG cold energy recovery <br>
     <span style="display:block; margin-left:10px; text-indent:0;">
       &bull; Modeling and Optimization &nbsp;
       &bull; Differential Evolution (DE) Optimization &nbsp;
       &bull; LNG Cold Energy Recovery &nbsp;
       &bull; Thermodynamic Conversion Cycle &nbsp;
-      &bull; Direct Expansion Cycle (DEC) &#9656; &#9656; <span style="color:blue;">[Manuscript ready for submission]</span>
+      &bull; Direct Expansion Cycle (DEC) &#9656; &#9656; <span style="color:blue;">[Manuscript in Preparation]</span>
     </span>
   </div>
 
@@ -362,7 +362,7 @@ author_profile: true
   <div class="entry" style="margin-top:12px;">
     <div class="entry-left">
       <div class="institution">
-        <img src="{{ site.baseurl }}/images/hydrocarbon.png" alt="Hydrocarbon Unit logo" class="institution-logo" style="width:35px; height:15px;">
+        <img src="{{ site.baseurl }}/images/hydrocarbon1.png" alt="Hydrocarbon Unit logo" class="institution-logo" style="width:35px; height:15px;">
         <div>
           <div class="inst-name">Research Associate</div>
           <div class="inst-sub">Funded Project, Hydrocarbon Unit Research Program 2023-24</div>
