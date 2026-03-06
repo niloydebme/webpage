@@ -22,13 +22,19 @@ location: "Dhaka-1000, Bangladesh"
   <li>Material Balance Equation (MBE) <a href="/webpage/files/mbe.pdf" target="_blank">[pdf]</a></li>
   <li>Gas Reservoir Analysis <a href="/webpage/files/gas_reservoir_analysis.pdf" target="_blank">[pdf]</a></li>
   <li>Oil Reservoir Analysis <a href="/webpage/files/oil_reservoir_analysis.pdf" target="_blank">[pdf]</a></li>
-  <li><u>Decline Curve Analysis </u><a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQCs32_fBP-pTJ7vSFkkpd3yATy0vITCcl51JKeff9Ons58?e=NdyYZ2" target="_blank">[pdf]</a></li>
-  <li><u>Fluid Flow Through Porous Media</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDe-h8qZkHZS5LQspI12h-KAad5rVKNrhb2U6FupEZu6n4?e=JpTccY" target="_blank">[pdf]</a><a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQBtFxU_N1a0TbIOl-3CdiG-ASdwYpWujuDTdtF-nVd7baU?e=POwdmi" target="_blank">[handout]</a></li>
+  <li><u>Decline Curve Analysis (DCA) </u><a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQCs32_fBP-pTJ7vSFkkpd3yATy0vITCcl51JKeff9Ons58?e=NdyYZ2" target="_blank">[pdf]</a></li>
+  <li><u>Fluid Flow Through Porous Media</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDe-h8qZkHZS5LQspI12h-KAad5rVKNrhb2U6FupEZu6n4?e=JpTccY" target="_blank">[pdf] </a>  <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQBtFxU_N1a0TbIOl-3CdiG-ASdwYpWujuDTdtF-nVd7baU?e=POwdmi" target="_blank">  [handout]</a></li>
 </ol>
 
 <b style="font-size: 14px; line-height: 1">Assignment</b>
 <ol style="font-size: 14px; line-height: 1">
   <li><u>Assignment 01 (Submission Optional)</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDoTzyZ8tAyT4tiPJxnXVsXAbd8wwss60W0neu3h7OspL8?e=voODQl" target="_blank">[pdf]</a></li> 
+</ol>
+
+<b style="font-size: 14px; line-height: 1">Additional Materials</b>
+<ol style="font-size: 14px; line-height: 1">
+  <li><u>Example Problems (DCA)</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQCvW8Bw7RCUR7EC557im4jOAXYiWRD-GXxBhpLf-dlTxmY?e=7hSWK2" target="_blank">[pdf1]</a>   <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQCbDso9PuGxTq_0o4Z9eAF0AbExjxeXnL9rmZKJAF5vpzE?e=XjMqdV" target="_blank"> [pdf2]</a>   <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQBQNMfxaXn2S4oxvQ8hmOvcAUWcV4EmFra7buvwbiX_9qI?e=RmB6HB" target="_blank"> [pdf3]</a></li> 
+  <li><u>Diffusivity Equation (Visualization)</u> <a href="https://buetedu-my.sharepoint.com/:u:/g/personal/niloydeb_pmre_buet_ac_bd/IQD6gbWH1XlwTqRzWyyZj_SnAUqN5-s3l8L4qyntUBM0TSI?e=RK1xam" target="_blank">[ipynb]</a></li>
 </ol>
 
 <b style="font-size: 14px; line-height: 1">Reference Books</b>
