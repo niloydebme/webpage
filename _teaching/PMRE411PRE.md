@@ -23,11 +23,12 @@ location: "Dhaka-1000, Bangladesh"
   <li>Gas Reservoir Analysis <a href="/webpage/files/gas_reservoir_analysis.pdf" target="_blank">[pdf]</a></li>
   <li>Oil Reservoir Analysis <a href="/webpage/files/oil_reservoir_analysis.pdf" target="_blank">[pdf]</a></li>
   <li><u>Decline Curve Analysis </u><a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQCs32_fBP-pTJ7vSFkkpd3yATy0vITCcl51JKeff9Ons58?e=NdyYZ2" target="_blank">[pdf]</a></li>
-  <li><u>Fluid Flow Through Porous Media</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDe-h8qZkHZS5LQspI12h-KAad5rVKNrhb2U6FupEZu6n4?e=JpTccY" target="_blank">[pdf]</a></li>
+  <li><u>Fluid Flow Through Porous Media</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDe-h8qZkHZS5LQspI12h-KAad5rVKNrhb2U6FupEZu6n4?e=JpTccY" target="_blank">[pdf]</a><a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQBtFxU_N1a0TbIOl-3CdiG-ASdwYpWujuDTdtF-nVd7baU?e=POwdmi" target="_blank">[handout]</a></li>
 </ol>
+
 <b style="font-size: 14px; line-height: 1">Assignment</b>
 <ol style="font-size: 14px; line-height: 1">
-  <li><u>Assignment (Submission Optional)</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDoTzyZ8tAyT4tiPJxnXVsXAbd8wwss60W0neu3h7OspL8?e=voODQl" target="_blank">[pdf]</a></li> 
+  <li><u>Assignment 01 (Submission Optional)</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDoTzyZ8tAyT4tiPJxnXVsXAbd8wwss60W0neu3h7OspL8?e=voODQl" target="_blank">[pdf]</a></li> 
 </ol>
 
 <b style="font-size: 14px; line-height: 1">Reference Books</b>
@@ -38,6 +39,5 @@ location: "Dhaka-1000, Bangladesh"
   <li><strong>Blunt, M. J.</strong> (2017). <em>Reservoir Engineering</em>.The Imperial College lectures in petroleum engineering ; volume 2.
   <li><strong>Ikoku, C. U.</strong> (1983). <em>Natural Gas Reservoir Engineering</em>.</li>
   <li><strong>Lee, J.</strong>, & <strong>Wattenbarger, R. A.</strong> (2003). <em>Gas Reservoir Engineering</em>. Society of Petroleum Engineers.</li>
-</ol>
 
 
