@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <!-- Normal font -->
-<div style="font-family: Arial, sans-serif; font-size: 14px; text-align: justify;">
+<div style="font-family: Arial, sans-serif; font-size: 14px; text-align: justify; margin-top: 20px;">
 
 
 
