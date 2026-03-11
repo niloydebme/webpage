@@ -80,7 +80,6 @@ redirect_from:
     <img src="images/myinterests.png" alt="Research Interests Venn Diagram" style="max-width: 100%; height: auto;">
 </figure> -->
 
-<head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <style>
@@ -94,7 +93,6 @@ redirect_from:
     }
     svg { width: 100%; max-width: 720px; height: auto; overflow: visible; display: block; }
   </style>
-</head>
 <body>
 <svg viewBox="0 0 780 855" xmlns="http://www.w3.org/2000/svg">
 
@@ -103,10 +101,10 @@ redirect_from:
   <circle cx="475" cy="325" r="210" fill="rgba(230,150,60,0.38)"/>
   <circle cx="390" cy="530" r="210" fill="rgba(90,130,210,0.32)"/>
 
-  <!-- Circle Labels — closer to circles -->
-  <text x="305" y="140" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">1. Physics</text>
-  <text x="390" y="755" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">2. Theory &amp; Methods</text>
-  <text x="475" y="140" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">3. Data-Driven Science</text>
+  <!-- Circle Labels -->
+  <text x="112" y="56" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">1. Physics</text>
+  <text x="666" y="56" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">3. Data-Driven Science</text>
+  <text x="390" y="832" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">2. Theory &amp; Methods</text>
 
   <!-- PHYSICS ONLY -->
   <text x="178" y="218" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
@@ -142,8 +140,46 @@ redirect_from:
     <tspan x="390" dy="16">modeling</tspan>
   </text>
 
-  <!-- OVERLAPS and CENTER — unchanged -->
-  <!-- ...rest of your <tspan> elements here... -->
+  <!-- PHYSICS + DATA overlap -->
+  <text x="390" y="138" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+    <tspan x="390" dy="0">Data-driven</tspan>
+    <tspan x="390" dy="19">turbulence models</tspan>
+    <tspan x="390" dy="19">ML closures for</tspan>
+    <tspan x="390" dy="16">multiphase flows</tspan>
+    <tspan x="390" dy="19">Bayesian calibration</tspan>
+    <tspan x="390" dy="16">of CFD</tspan>
+  </text>
+
+  <!-- PHYSICS + THEORY overlap -->
+  <text x="244" y="426" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+    <tspan x="244" dy="0">High-fidelity</tspan>
+    <tspan x="244" dy="19">CFD solvers</tspan>
+    <tspan x="244" dy="19">Adjoint-based</tspan>
+    <tspan x="244" dy="16">simulations</tspan>
+    <tspan x="244" dy="19">Turbulence theory</tspan>
+    <tspan x="244" dy="16">&amp; closures</tspan>
+  </text>
+
+  <!-- DATA + THEORY overlap -->
+  <text x="536" y="426" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+    <tspan x="536" dy="0">Surrogate-assisted</tspan>
+    <tspan x="536" dy="19">optimization</tspan>
+    <tspan x="536" dy="19">Differentiable</tspan>
+    <tspan x="536" dy="16">surrogates</tspan>
+    <tspan x="536" dy="19">Bayesian</tspan>
+    <tspan x="536" dy="16">optimization</tspan>
+  </text>
+
+  <!-- CENTER — ALL THREE -->
+  <text x="390" y="348" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+    <tspan x="390" dy="0">Differentiable physics methods</tspan>
+    <tspan x="390" dy="19">Physics-informed ML/DL</tspan>
+    <tspan x="390" dy="19">Adjoint + surrogate optimization</tspan>
+    <tspan x="390" dy="19">Multi-fidelity UQ &amp;</tspan>
+    <tspan x="390" dy="16">predictive models</tspan>
+    <tspan x="390" dy="19">Modal Decomposition</tspan>
+    <tspan x="390" dy="16">(POD, DMD)</tspan>
+  </text>
 
 </svg>
 </body>
