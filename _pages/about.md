@@ -80,8 +80,6 @@ redirect_from:
     <img src="images/myinterests.png" alt="Research Interests Venn Diagram" style="max-width: 100%; height: auto;">
 </figure> -->
 
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <style>
     html, body {
       margin: 0; padding: 0;
@@ -93,7 +91,8 @@ redirect_from:
     }
     svg { width: 100%; max-width: 720px; height: auto; overflow: visible; display: block; }
   </style>
-<body>
+
+<div>
 <svg viewBox="0 0 780 855" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Circles -->
@@ -102,9 +101,9 @@ redirect_from:
   <circle cx="390" cy="530" r="210" fill="rgba(90,130,210,0.32)"/>
 
   <!-- Circle Labels -->
-  <text x="112" y="56" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">1. Physics</text>
-  <text x="666" y="56" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">3. Data-Driven Science</text>
-  <text x="390" y="832" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">2. Theory &amp; Methods</text>
+  <text x="112" y="46" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">1. Physics</text>
+  <text x="666" y="46" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">3. Data-Driven Science</text>
+  <text x="390" y="820" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">2. Theory &amp; Methods</text>
 
   <!-- PHYSICS ONLY -->
   <text x="178" y="218" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
@@ -182,7 +181,7 @@ redirect_from:
   </text>
 
 </svg>
-</body>
+</div>
 
 
 <!-- updates  -->
