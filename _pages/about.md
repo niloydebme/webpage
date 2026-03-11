@@ -101,8 +101,8 @@ redirect_from:
   <circle cx="390" cy="530" r="210" fill="rgba(90,130,210,0.32)"/>
 
   <!-- Circle Labels -->
-  <text x="112" y="36" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">1. Physics</text>
-  <text x="666" y="36" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">3. Data-Driven Science</text>
+  <text x="112" y="80" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">1. Physics</text>
+  <text x="666" y="80" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">3. Data-Driven Science</text>
   <text x="390" y="810" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">2. Theory &amp; Methods</text>
 
   <!-- PHYSICS ONLY -->
@@ -140,7 +140,7 @@ redirect_from:
   </text>
 
   <!-- PHYSICS + DATA overlap -->
-  <text x="390" y="130" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <text x="390" y="150" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
     <tspan x="390" dy="0">Data-driven</tspan>
     <tspan x="390" dy="19">turbulence models</tspan>
     <tspan x="390" dy="19">ML closures for</tspan>
