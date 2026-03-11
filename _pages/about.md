@@ -140,7 +140,7 @@ redirect_from:
   </text>
 
   <!-- PHYSICS + DATA overlap -->
-  <text x="390" y="138" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <text x="390" y="130" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
     <tspan x="390" dy="0">Data-driven</tspan>
     <tspan x="390" dy="19">turbulence models</tspan>
     <tspan x="390" dy="19">ML closures for</tspan>
@@ -190,6 +190,13 @@ redirect_from:
     <i class="fa fa-newspaper" style="color:#0077b6; margin-right:6px;"></i> News & Updates
   </h2>
   <ul style="list-style: none; padding: 0; margin: 0; font-size: 13px; line-height: 1.6; color: #444;">
+    <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
+  <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
+  <div>
+    <span style="font-weight: normal; color: #0077b6;">2026-03-09</span><br>
+    <span>Our paper on a thermodynamic optimization study got published in <b>Energy Conversion and Management: X</b>.</span>
+  </div>
+</li>
     <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
       <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
       <div>
