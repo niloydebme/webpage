@@ -81,107 +81,89 @@ redirect_from:
 </figure> -->
 
 <!-- Circles -->
-  <circle cx="305" cy="325" r="210" fill="rgba(100,180,100,0.38)"/>
-  <circle cx="475" cy="325" r="210" fill="rgba(230,150,60,0.38)"/>
-  <circle cx="390" cy="530" r="210" fill="rgba(90,130,210,0.32)"/>
+<circle cx="305" cy="325" r="210" fill="rgba(100,180,100,0.38)"/>
+<circle cx="475" cy="325" r="210" fill="rgba(230,150,60,0.38)"/>
+<circle cx="390" cy="530" r="210" fill="rgba(90,130,210,0.32)"/>
 
-  <!-- Circle Labels -->
-  <text x="112" y="58"
-    style="font-family:Arial,sans-serif; font-size:15px; font-weight:bold; fill:#1a3a7a; text-anchor:middle;">
-    1. Physics
-  </text>
-  <text x="666" y="58"
-    style="font-family:Arial,sans-serif; font-size:15px; font-weight:bold; fill:#1a3a7a; text-anchor:middle;">
-    3. Data-Driven Science
-  </text>
-  <text x="390" y="826"
-    style="font-family:Arial,sans-serif; font-size:15px; font-weight:bold; fill:#1a3a7a; text-anchor:middle;">
-    2. Theory &amp; Methods
-  </text>
+<!-- Circle Labels -->
+<text x="112" y="56" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">1. Physics</text>
+<text x="666" y="56" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">3. Data-Driven Science</text>
+<text x="390" y="828" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">2. Theory &amp; Methods</text>
 
-  <!-- PHYSICS ONLY -->
-  <text x="178" y="218"
-    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
-    <tspan x="178" dy="0">Chaotic dynamical systems</tspan>
-    <tspan x="178" dy="19">Convection physics</tspan>
-    <tspan x="178" dy="19">Turbulence</tspan>
-    <tspan x="178" dy="19">Multiphase flows</tspan>
-    <tspan x="178" dy="19">Porous &amp; subsurface</tspan>
-    <tspan x="178" dy="16">media flow</tspan>
-    <tspan x="178" dy="19">Heat transfer</tspan>
-    <tspan x="178" dy="19">Multiphysics coupling</tspan>
-  </text>
+<!-- PHYSICS ONLY -->
+<text x="178" y="218" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <tspan x="178" dy="0">Chaotic dynamical systems</tspan>
+  <tspan x="178" dy="19">Convection physics</tspan>
+  <tspan x="178" dy="19">Turbulence</tspan>
+  <tspan x="178" dy="19">Multiphase flows</tspan>
+  <tspan x="178" dy="19">Porous &amp; subsurface</tspan>
+  <tspan x="178" dy="16">media flow</tspan>
+  <tspan x="178" dy="19">Heat transfer</tspan>
+  <tspan x="178" dy="19">Multiphysics coupling</tspan>
+</text>
 
-  <!-- DATA-DRIVEN ONLY -->
-  <text x="600" y="234"
-    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
-    <tspan x="600" dy="0">Statistical inference</tspan>
-    <tspan x="600" dy="19">Machine learning (ML)</tspan>
-    <tspan x="600" dy="19">Deep learning (DL)</tspan>
-    <tspan x="600" dy="19">Reduced-order</tspan>
-    <tspan x="600" dy="16">models (ROMs)</tspan>
-    <tspan x="600" dy="19">Data assimilation</tspan>
-  </text>
+<!-- DATA-DRIVEN ONLY -->
+<text x="600" y="234" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <tspan x="600" dy="0">Statistical inference</tspan>
+  <tspan x="600" dy="19">Machine learning (ML)</tspan>
+  <tspan x="600" dy="19">Deep learning (DL)</tspan>
+  <tspan x="600" dy="19">Reduced-order</tspan>
+  <tspan x="600" dy="16">models (ROMs)</tspan>
+  <tspan x="600" dy="19">Data assimilation</tspan>
+</text>
 
-  <!-- THEORY ONLY -->
-  <text x="390" y="574"
-    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
-    <tspan x="390" dy="0">Numerical analysis</tspan>
-    <tspan x="390" dy="19">Koopman operator theory</tspan>
-    <tspan x="390" dy="19">Adjoint methods</tspan>
-    <tspan x="390" dy="19">Control theory</tspan>
-    <tspan x="390" dy="19">Gradient-based optimization</tspan>
-    <tspan x="390" dy="19">Metaheuristics (ES, GA)</tspan>
-    <tspan x="390" dy="19">Multiscale/multi-fidelity</tspan>
-    <tspan x="390" dy="16">modeling</tspan>
-  </text>
+<!-- THEORY ONLY -->
+<text x="390" y="574" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <tspan x="390" dy="0">Numerical analysis</tspan>
+  <tspan x="390" dy="19">Koopman operator theory</tspan>
+  <tspan x="390" dy="19">Adjoint methods</tspan>
+  <tspan x="390" dy="19">Control theory</tspan>
+  <tspan x="390" dy="19">Gradient-based optimization</tspan>
+  <tspan x="390" dy="19">Metaheuristics (ES, GA)</tspan>
+  <tspan x="390" dy="19">Multiscale/multi-fidelity</tspan>
+  <tspan x="390" dy="16">modeling</tspan>
+</text>
 
-  <!-- PHYSICS + DATA overlap (top-center) -->
-  <text x="390" y="138"
-    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
-    <tspan x="390" dy="0">Data-driven</tspan>
-    <tspan x="390" dy="19">turbulence models</tspan>
-    <tspan x="390" dy="19">ML closures for</tspan>
-    <tspan x="390" dy="16">multiphase flows</tspan>
-    <tspan x="390" dy="19">Bayesian calibration</tspan>
-    <tspan x="390" dy="16">of CFD</tspan>
-  </text>
+<!-- PHYSICS + DATA overlap -->
+<text x="390" y="138" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <tspan x="390" dy="0">Data-driven</tspan>
+  <tspan x="390" dy="19">turbulence models</tspan>
+  <tspan x="390" dy="19">ML closures for</tspan>
+  <tspan x="390" dy="16">multiphase flows</tspan>
+  <tspan x="390" dy="19">Bayesian calibration</tspan>
+  <tspan x="390" dy="16">of CFD</tspan>
+</text>
 
-  <!-- PHYSICS + THEORY overlap (lower-left) -->
-  <text x="244" y="426"
-    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
-    <tspan x="244" dy="0">High-fidelity</tspan>
-    <tspan x="244" dy="19">CFD solvers</tspan>
-    <tspan x="244" dy="19">Adjoint-based</tspan>
-    <tspan x="244" dy="16">simulations</tspan>
-    <tspan x="244" dy="19">Turbulence theory</tspan>
-    <tspan x="244" dy="16">&amp; closures</tspan>
-  </text>
+<!-- PHYSICS + THEORY overlap -->
+<text x="244" y="426" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <tspan x="244" dy="0">High-fidelity</tspan>
+  <tspan x="244" dy="19">CFD solvers</tspan>
+  <tspan x="244" dy="19">Adjoint-based</tspan>
+  <tspan x="244" dy="16">simulations</tspan>
+  <tspan x="244" dy="19">Turbulence theory</tspan>
+  <tspan x="244" dy="16">&amp; closures</tspan>
+</text>
 
-  <!-- DATA + THEORY overlap (lower-right) -->
-  <text x="536" y="426"
-    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
-    <tspan x="536" dy="0">Surrogate-assisted</tspan>
-    <tspan x="536" dy="19">optimization</tspan>
-    <tspan x="536" dy="19">Differentiable</tspan>
-    <tspan x="536" dy="16">surrogates</tspan>
-    <tspan x="536" dy="19">Bayesian</tspan>
-    <tspan x="536" dy="16">optimization</tspan>
-  </text>
+<!-- DATA + THEORY overlap -->
+<text x="536" y="426" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <tspan x="536" dy="0">Surrogate-assisted</tspan>
+  <tspan x="536" dy="19">optimization</tspan>
+  <tspan x="536" dy="19">Differentiable</tspan>
+  <tspan x="536" dy="16">surrogates</tspan>
+  <tspan x="536" dy="19">Bayesian</tspan>
+  <tspan x="536" dy="16">optimization</tspan>
+</text>
 
-  <!-- CENTER — ALL THREE -->
-  <text x="390" y="348"
-    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
-    <tspan x="390" dy="0">Differentiable physics methods</tspan>
-    <tspan x="390" dy="19">Physics-informed ML/DL</tspan>
-    <tspan x="390" dy="19">Adjoint + surrogate optimization</tspan>
-    <tspan x="390" dy="19">Multi-fidelity UQ &amp;</tspan>
-    <tspan x="390" dy="16">predictive models</tspan>
-    <tspan x="390" dy="19">Modal Decomposition</tspan>
-    <tspan x="390" dy="16">(POD, DMD)</tspan>
-  </text>
-
-</svg>
+<!-- CENTER — ALL THREE -->
+<text x="390" y="348" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <tspan x="390" dy="0">Differentiable physics methods</tspan>
+  <tspan x="390" dy="19">Physics-informed ML/DL</tspan>
+  <tspan x="390" dy="19">Adjoint + surrogate optimization</tspan>
+  <tspan x="390" dy="19">Multi-fidelity UQ &amp;</tspan>
+  <tspan x="390" dy="16">predictive models</tspan>
+  <tspan x="390" dy="19">Modal Decomposition</tspan>
+  <tspan x="390" dy="16">(POD, DMD)</tspan>
+</text>
 
 <!-- updates  -->
   <section style="font-family: Arial, sans-serif; max-width: 720px; margin: 20px auto;">
