@@ -9,12 +9,14 @@ redirect_from:
 <!-- Normal font -->
 <div style="font-family: Arial, sans-serif; font-size: 14px; text-align: justify;">
 
+
+
   <p style="font-size:15px; color:#0077b6;">
     Greetings and welcome!
   </p>
 
   <p>
-    I am Niloy Deb (/ˈniː.loɪ dɛb/), currently a lecturer in the Department of Petroleum and Mineral Resources Engineering (PMRE) at Bangladesh University of Engineering and Technology (BUET), Dhaka. Before joining there, I worked as a research assistant in the Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, led by Dr. Sumon Saha (Professor, Department of Mechanical Engineering, BUET). I completed my B.Sc. in Mechanical Engineering from BUET and am a prospective doctoral student in Mechanical Engineering, starting in Fall 2026.
+    I am <strong>Niloy Deb</strong> (/ˈniː.loɪ dɛb/), currently a lecturer in the Department of Petroleum and Mineral Resources Engineering (PMRE) at Bangladesh University of Engineering and Technology (BUET), Dhaka. Before joining there, I worked as a research assistant in the Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, led by Dr. Sumon Saha (Professor, Department of Mechanical Engineering, BUET). I completed my B.Sc. in Mechanical Engineering from BUET and am a prospective doctoral student in Mechanical Engineering, starting in Fall 2026.
   </p>
 
   <p>
@@ -194,7 +196,7 @@ redirect_from:
   <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
   <div>
     <span style="font-weight: normal; color: #0077b6;">2026-03-09</span><br>
-    <span>Our paper on a thermodynamic cycle optimization study got published in <b>Energy Conversion and Management: X</b>.</span>
+    <span>Our paper on thermodynamic cycle optimization got published in <b>Energy Conversion and Management: X</b>.</span>
   </div>
 </li>
     <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
