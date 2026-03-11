@@ -80,19 +80,22 @@ redirect_from:
     <img src="images/myinterests.png" alt="Research Interests Venn Diagram" style="max-width: 100%; height: auto;">
 </figure> -->
 
-  <style>
-    html, body {
-      margin: 0; padding: 0;
-      background: transparent;
-      font-family: Arial, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: flex-start;
-    }
-    svg { width: 100%; max-width: 720px; height: auto; overflow: visible; display: block; }
-  </style>
+ <style>
+  .svg-container {
+    width: 100%;
+    max-width: 720px;
+    margin: 20px auto; /* Centering without using flex on body */
+    overflow: visible;
+  }
+  .svg-container svg {
+    width: 100%;
+    height: auto;
+    display: block;
+    overflow: visible;
+  }
+</style>
 
-<div>
+<div class="svg-container">
 <svg viewBox="0 0 780 855" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Circles -->
@@ -194,7 +197,7 @@ redirect_from:
   <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
   <div>
     <span style="font-weight: normal; color: #0077b6;">2026-03-09</span><br>
-    <span>Our paper on thermodynamic cycle optimization was published in <b>Energy Conversion and Management: X</b>.</span>
+    <span>Our paper on thermodynamic cycle optimization for LNG's cold energy recovery was published in <b>Energy Conversion and Management: X</b>.</span>
   </div>
 </li>
     <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
