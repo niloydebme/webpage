@@ -6,11 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <!-- Normal font -->
-<div style="font-family: Arial, sans-serif; font-size: 14px; text-align: justify; margin-top: 20px;">
-
-
-
+<div style="font-family: Arial, sans-serif; font-size: 14px; text-align: justify;">
   <p style="font-size:15px; color:#0077b6;">
     Greetings and welcome!
   </p>
@@ -196,7 +194,7 @@ redirect_from:
   <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
   <div>
     <span style="font-weight: normal; color: #0077b6;">2026-03-09</span><br>
-    <span>Our paper on thermodynamic cycle optimization got published in <b>Energy Conversion and Management: X</b>.</span>
+    <span>Our paper on thermodynamic cycle optimization was published in <b>Energy Conversion and Management: X</b>.</span>
   </div>
 </li>
     <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
