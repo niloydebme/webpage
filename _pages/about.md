@@ -101,9 +101,9 @@ redirect_from:
   <circle cx="390" cy="530" r="210" fill="rgba(90,130,210,0.32)"/>
 
   <!-- Circle Labels -->
-  <text x="112" y="80" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">1. Physics</text>
-  <text x="666" y="80" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">3. Data-Driven Science</text>
-  <text x="390" y="810" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">2. Theory &amp; Methods</text>
+  <text x="112" y="90" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">1. Physics</text>
+  <text x="666" y="90" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">3. Data-Driven Science</text>
+  <text x="390" y="800" style="font-family:Arial,sans-serif;font-size:14px;font-weight:bold;fill:#1a3a7a;text-anchor:middle;">2. Theory &amp; Methods</text>
 
   <!-- PHYSICS ONLY -->
   <text x="178" y="218" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
@@ -140,7 +140,7 @@ redirect_from:
   </text>
 
   <!-- PHYSICS + DATA overlap -->
-  <text x="390" y="150" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
+  <text x="390" y="160" style="font-family:Arial,sans-serif;font-size:13px;fill:#1c1c2e;text-anchor:middle;">
     <tspan x="390" dy="0">Data-driven</tspan>
     <tspan x="390" dy="19">turbulence models</tspan>
     <tspan x="390" dy="19">ML closures for</tspan>
@@ -194,7 +194,7 @@ redirect_from:
   <i class="fa fa-calendar-day" style="margin-right: 10px; color: #0073e6; font-size: 14px; margin-top: 2px;"></i>
   <div>
     <span style="font-weight: normal; color: #0077b6;">2026-03-09</span><br>
-    <span>Our paper on a thermodynamic optimization study got published in <b>Energy Conversion and Management: X</b>.</span>
+    <span>Our paper on a thermodynamic cycle optimization study got published in <b>Energy Conversion and Management: X</b>.</span>
   </div>
 </li>
     <li style="margin-bottom: 14px; display: flex; align-items: flex-start;">
