@@ -80,218 +80,108 @@ redirect_from:
     <img src="images/myinterests.png" alt="Research Interests Venn Diagram" style="max-width: 100%; height: auto;">
 </figure> -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Research Interest Venn Diagram</title>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
+<!-- Circles -->
+  <circle cx="305" cy="325" r="210" fill="rgba(100,180,100,0.38)"/>
+  <circle cx="475" cy="325" r="210" fill="rgba(230,150,60,0.38)"/>
+  <circle cx="390" cy="530" r="210" fill="rgba(90,130,210,0.32)"/>
 
-    :root {
-      --physics-color: rgba(100, 180, 100, 0.38);
-      --data-color: rgba(230, 150, 60, 0.38);
-      --theory-color: rgba(90, 130, 210, 0.32);
-      --label-color: #1a3a7a;
-      --text-color: #1c1c2e;
-      --bg: #f8f7f3;
-    }
+  <!-- Circle Labels -->
+  <text x="112" y="58"
+    style="font-family:Arial,sans-serif; font-size:15px; font-weight:bold; fill:#1a3a7a; text-anchor:middle;">
+    1. Physics
+  </text>
+  <text x="666" y="58"
+    style="font-family:Arial,sans-serif; font-size:15px; font-weight:bold; fill:#1a3a7a; text-anchor:middle;">
+    3. Data-Driven Science
+  </text>
+  <text x="390" y="826"
+    style="font-family:Arial,sans-serif; font-size:15px; font-weight:bold; fill:#1a3a7a; text-anchor:middle;">
+    2. Theory &amp; Methods
+  </text>
 
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+  <!-- PHYSICS ONLY -->
+  <text x="178" y="218"
+    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
+    <tspan x="178" dy="0">Chaotic dynamical systems</tspan>
+    <tspan x="178" dy="19">Convection physics</tspan>
+    <tspan x="178" dy="19">Turbulence</tspan>
+    <tspan x="178" dy="19">Multiphase flows</tspan>
+    <tspan x="178" dy="19">Porous &amp; subsurface</tspan>
+    <tspan x="178" dy="16">media flow</tspan>
+    <tspan x="178" dy="19">Heat transfer</tspan>
+    <tspan x="178" dy="19">Multiphysics coupling</tspan>
+  </text>
 
-    body {
-      background: var(--bg);
-      font-family: 'EB Garamond', Georgia, serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      padding: 2rem;
-    }
+  <!-- DATA-DRIVEN ONLY -->
+  <text x="600" y="234"
+    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
+    <tspan x="600" dy="0">Statistical inference</tspan>
+    <tspan x="600" dy="19">Machine learning (ML)</tspan>
+    <tspan x="600" dy="19">Deep learning (DL)</tspan>
+    <tspan x="600" dy="19">Reduced-order</tspan>
+    <tspan x="600" dy="16">models (ROMs)</tspan>
+    <tspan x="600" dy="19">Data assimilation</tspan>
+  </text>
 
-    .diagram-wrapper {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 1rem;
-    }
+  <!-- THEORY ONLY -->
+  <text x="390" y="574"
+    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
+    <tspan x="390" dy="0">Numerical analysis</tspan>
+    <tspan x="390" dy="19">Koopman operator theory</tspan>
+    <tspan x="390" dy="19">Adjoint methods</tspan>
+    <tspan x="390" dy="19">Control theory</tspan>
+    <tspan x="390" dy="19">Gradient-based optimization</tspan>
+    <tspan x="390" dy="19">Metaheuristics (ES, GA)</tspan>
+    <tspan x="390" dy="19">Multiscale/multi-fidelity</tspan>
+    <tspan x="390" dy="16">modeling</tspan>
+  </text>
 
-    .diagram-title {
-      font-family: 'EB Garamond', serif;
-      font-size: 1.3rem;
-      font-weight: 600;
-      color: var(--text-color);
-      letter-spacing: 0.01em;
-      text-align: center;
-    }
+  <!-- PHYSICS + DATA overlap (top-center) -->
+  <text x="390" y="138"
+    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
+    <tspan x="390" dy="0">Data-driven</tspan>
+    <tspan x="390" dy="19">turbulence models</tspan>
+    <tspan x="390" dy="19">ML closures for</tspan>
+    <tspan x="390" dy="16">multiphase flows</tspan>
+    <tspan x="390" dy="19">Bayesian calibration</tspan>
+    <tspan x="390" dy="16">of CFD</tspan>
+  </text>
 
-    .venn-container {
-      position: relative;
-      width: 780px;
-      height: 820px;
-    }
+  <!-- PHYSICS + THEORY overlap (lower-left) -->
+  <text x="244" y="426"
+    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
+    <tspan x="244" dy="0">High-fidelity</tspan>
+    <tspan x="244" dy="19">CFD solvers</tspan>
+    <tspan x="244" dy="19">Adjoint-based</tspan>
+    <tspan x="244" dy="16">simulations</tspan>
+    <tspan x="244" dy="19">Turbulence theory</tspan>
+    <tspan x="244" dy="16">&amp; closures</tspan>
+  </text>
 
-    svg.venn-svg {
-      width: 100%;
-      height: 100%;
-      overflow: visible;
-    }
+  <!-- DATA + THEORY overlap (lower-right) -->
+  <text x="536" y="426"
+    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
+    <tspan x="536" dy="0">Surrogate-assisted</tspan>
+    <tspan x="536" dy="19">optimization</tspan>
+    <tspan x="536" dy="19">Differentiable</tspan>
+    <tspan x="536" dy="16">surrogates</tspan>
+    <tspan x="536" dy="19">Bayesian</tspan>
+    <tspan x="536" dy="16">optimization</tspan>
+  </text>
 
-    .circle-physics { fill: var(--physics-color); }
-    .circle-data    { fill: var(--data-color); }
-    .circle-theory  { fill: var(--theory-color); }
+  <!-- CENTER — ALL THREE -->
+  <text x="390" y="348"
+    style="font-family:Arial,sans-serif; font-size:13px; fill:#1c1c2e; text-anchor:middle;">
+    <tspan x="390" dy="0">Differentiable physics methods</tspan>
+    <tspan x="390" dy="19">Physics-informed ML/DL</tspan>
+    <tspan x="390" dy="19">Adjoint + surrogate optimization</tspan>
+    <tspan x="390" dy="19">Multi-fidelity UQ &amp;</tspan>
+    <tspan x="390" dy="16">predictive models</tspan>
+    <tspan x="390" dy="19">Modal Decomposition</tspan>
+    <tspan x="390" dy="16">(POD, DMD)</tspan>
+  </text>
 
-    .node-text {
-      font-family: 'EB Garamond', Georgia, serif;
-      font-size: 15px;
-      fill: var(--text-color);
-      text-anchor: middle;
-    }
-
-    .circle-label {
-      font-family: 'EB Garamond', Georgia, serif;
-      font-size: 16px;
-      font-weight: 600;
-      fill: var(--label-color);
-      text-anchor: middle;
-    }
-  </style>
-</head>
-<body>
-<div class="diagram-wrapper">
-  <div class="diagram-title">My Research Interest Venn Diagram</div>
-
-  <div class="venn-container">
-    <!--
-      Canvas: 780 × 820
-      Center: (390, 410)
-      Circle radius r = 210  (smaller than before)
-      Offset between centers = 120px (significant overlap)
-
-      Circle centers:
-        Physics  135°: cx = 390 - 85 = 305,  cy = 410 - 85 = 325
-        Data      45°: cx = 390 + 85 = 475,  cy = 410 - 85 = 325
-        Theory   270°: cx = 390,              cy = 410 + 120 = 530
-    -->
-    <svg class="venn-svg" viewBox="0 0 780 820" xmlns="http://www.w3.org/2000/svg">
-
-      <!-- Circles -->
-      <circle class="circle-physics" cx="305" cy="325" r="210"/>
-      <circle class="circle-data"    cx="475" cy="325" r="210"/>
-      <circle class="circle-theory"  cx="390" cy="530" r="210"/>
-
-      <!-- Circle Labels (outside each circle) -->
-      <text class="circle-label" x="112"  y="58">1. Physics</text>
-      <text class="circle-label" x="666"  y="58">3. Data-Driven Science</text>
-      <text class="circle-label" x="390"  y="812">2. Theory &amp; Methods</text>
-
-      <!-- ══════════════════════════════════
-           PHYSICS ONLY (upper-left)
-           Centroid of left-only region: ~(185, 295)
-      ══════════════════════════════════ -->
-      <text class="node-text" x="178" y="218">
-        <tspan x="178" dy="0">Chaotic dynamical systems</tspan>
-        <tspan x="178" dy="20">Convection physics</tspan>
-        <tspan x="178" dy="20">Turbulence</tspan>
-        <tspan x="178" dy="20">Multiphase flows</tspan>
-        <tspan x="178" dy="20">Porous &amp; subsurface</tspan>
-        <tspan x="178" dy="17">media flow</tspan>
-        <tspan x="178" dy="20">Heat transfer</tspan>
-        <tspan x="178" dy="20">Multiphysics coupling</tspan>
-      </text>
-
-      <!-- ══════════════════════════════════
-           DATA-DRIVEN ONLY (upper-right)
-           Centroid: ~(595, 295)
-      ══════════════════════════════════ -->
-      <text class="node-text" x="600" y="234">
-        <tspan x="600" dy="0">Statistical inference</tspan>
-        <tspan x="600" dy="20">Machine learning (ML)</tspan>
-        <tspan x="600" dy="20">Deep learning (DL)</tspan>
-        <tspan x="600" dy="20">Reduced-order</tspan>
-        <tspan x="600" dy="17">models (ROMs)</tspan>
-        <tspan x="600" dy="20">Data assimilation</tspan>
-      </text>
-
-      <!-- ══════════════════════════════════
-           THEORY ONLY (bottom)
-           Theory circle center=(390,530), r=210 → bottom ≈ y=740
-           Block ~8 lines × 19px = 152px; anchor y=614 → ends ~y=766
-           Stays inside circle bottom edge
-      ══════════════════════════════════ -->
-      <text class="node-text" x="390" y="574">
-        <tspan x="390" dy="0">Numerical analysis</tspan>
-        <tspan x="390" dy="20">Koopman operator theory</tspan>
-        <tspan x="390" dy="20">Adjoint methods</tspan>
-        <tspan x="390" dy="20">Control theory</tspan>
-        <tspan x="390" dy="20">Gradient-based optimization</tspan>
-        <tspan x="390" dy="20">Metaheuristics (ES, GA)</tspan>
-        <tspan x="390" dy="20">Multiscale/multi-fidelity</tspan>
-        <tspan x="390" dy="17">modeling</tspan>
-      </text>
-
-      <!-- ══════════════════════════════════
-           PHYSICS + DATA overlap (top-center)
-           Between the two top circles, above three-way zone
-           Anchor x=390, y=138 → 6 lines ends ~y=245
-           Three-way zone starts ~y=370 so plenty of room
-      ══════════════════════════════════ -->
-      <text class="node-text" x="390" y="138">
-        <tspan x="390" dy="0">Data-driven</tspan>
-        <tspan x="390" dy="20">turbulence models</tspan>
-        <tspan x="390" dy="20">ML closures for</tspan>
-        <tspan x="390" dy="17">multiphase flows</tspan>
-        <tspan x="390" dy="20">Bayesian calibration</tspan>
-        <tspan x="390" dy="17">of CFD</tspan>
-      </text>
-
-      <!-- ══════════════════════════════════
-           PHYSICS + THEORY overlap (lower-left petal)
-           Centroid: ~(248, 490)
-      ══════════════════════════════════ -->
-      <text class="node-text" x="244" y="426">
-        <tspan x="244" dy="0">High-fidelity</tspan>
-        <tspan x="244" dy="20">CFD solvers</tspan>
-        <tspan x="244" dy="20">Adjoint-based</tspan>
-        <tspan x="244" dy="17">simulations</tspan>
-        <tspan x="244" dy="20">Turbulence theory</tspan>
-        <tspan x="244" dy="17">&amp; closures</tspan>
-      </text>
-
-      <!-- ══════════════════════════════════
-           DATA + THEORY overlap (lower-right petal)
-           Centroid: ~(536, 490)
-      ══════════════════════════════════ -->
-      <text class="node-text" x="536" y="426">
-        <tspan x="536" dy="0">Surrogate-assisted</tspan>
-        <tspan x="536" dy="20">optimization</tspan>
-        <tspan x="536" dy="20">Differentiable</tspan>
-        <tspan x="536" dy="17">surrogates</tspan>
-        <tspan x="536" dy="20">Bayesian</tspan>
-        <tspan x="536" dy="17">optimization</tspan>
-      </text>
-
-      <!-- ══════════════════════════════════
-           CENTER — ALL THREE
-           Three-way centroid: ~(390, 430)
-           7 lines × 19px = 133px → anchor y=374 → ends ~y=507
-      ══════════════════════════════════ -->
-      <text class="node-text" x="390" y="348">
-        <tspan x="390" dy="0">Differentiable physics methods</tspan>
-        <tspan x="390" dy="20">Physics-informed ML/DL</tspan>
-        <tspan x="390" dy="20">Adjoint + surrogate optimization</tspan>
-        <tspan x="390" dy="20">Multi-fidelity UQ &amp;</tspan>
-        <tspan x="390" dy="17">predictive models</tspan>
-        <tspan x="390" dy="20">Modal Decomposition</tspan>
-        <tspan x="390" dy="17">(POD, DMD)</tspan>
-      </text>
-
-    </svg>
-  </div>
-</div>
-</body>
-</html>
+</svg>
 
 <!-- updates  -->
   <section style="font-family: Arial, sans-serif; max-width: 720px; margin: 20px auto;">
