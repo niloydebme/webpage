@@ -14,7 +14,7 @@ redirect_from:
   </p>
 
   <p>
-    I am <strong>Niloy Deb</strong> (/ˈniː.loɪ dɛb/), currently a lecturer in the Department of Petroleum and Mineral Resources Engineering (PMRE) at Bangladesh University of Engineering and Technology (BUET), Dhaka. Before joining there, I worked as a research assistant in the Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, led by Dr. Sumon Saha (Professor, Department of Mechanical Engineering, BUET). I completed my B.Sc. in Mechanical Engineering from BUET and am a prospective doctoral student in Mechanical Engineering, starting in Fall 2026.
+    I am <strong>Niloy Deb</strong> (/ˈniː.loɪ dɛb/), currently a lecturer in the Department of Petroleum and Mineral Resources Engineering (PMRE) at Bangladesh University of Engineering and Technology (BUET), Dhaka. Before joining there, I worked as a research assistant in the Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group, led by Dr. Sumon Saha (Professor, Department of Mechanical Engineering, BUET). I completed my B.Sc. in Mechanical Engineering from BUET and am a prospective doctoral student in Mechanical Engineering, starting in Fall 2027.
   </p>
 
   <p>
