@@ -1,0 +1,70 @@
+---
+---
+{% include base_path %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% include seo.html %}
+  <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Forum&family=Jost:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+  {% assign author = site.author %}
+
+  <header class="masthead-min">
+    <a href="{{ '/' | relative_url }}" class="portrait">
+      <img src="{{ author.avatar | prepend: '/images/' | relative_url }}" alt="{{ author.name }}">
+    </a>
+    <div class="identity">
+      <p class="name"><a href="{{ '/' | relative_url }}">{{ author.name }}</a></p>
+      {% for line in author.header_lines %}<p class="role">{{ line }}</p>{% endfor %}
+      <p class="contact">{{ author.address }}</p>
+      <p class="contact">Email: {{ author.email_display }}</p>
+      <p class="profiles">
+        {% if author.cv_pdf %}[<a href="{{ author.cv_pdf }}" target="_blank" rel="noopener">CV</a>]{% endif %}
+        {% if author.googlescholar %}[<a href="{{ author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>]{% endif %}
+        {% if author.orcid %}[<a href="{{ author.orcid }}" target="_blank" rel="noopener">ORCID</a>]{% endif %}
+        {% if author.researchgate %}[<a href="{{ author.researchgate }}" target="_blank" rel="noopener">ResearchGate</a>]{% endif %}
+        {% if author.linkedin %}[<a href="{{ author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>]{% endif %}
+        {% if author.github %}[<a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener">GitHub</a>]{% endif %}
+      </p>
+    </div>
+  </header>
+
+  <nav class="tabs" aria-label="Main">
+    {% for link in site.data.navigation.main %}
+      {% if link.url == "/" %}
+        {% if page.url == "/" %}{% assign current = true %}{% else %}{% assign current = false %}{% endif %}
+      {% else %}
+        {% if page.url contains link.url %}{% assign current = true %}{% else %}{% assign current = false %}{% endif %}
+      {% endif %}
+      <a href="{{ link.url | relative_url }}"{% if current %} class="current" aria-current="page"{% endif %}>{{ link.title }}</a>
+    {% endfor %}
+  </nav>
+
+  <main class="page-body">
+    {% if page.collection == "publications" %}
+      <h1 class="doc-title">{{ page.title }}</h1>
+      {% include pub-header.html %}
+      {{ content }}
+      {% include pub-footer.html %}
+    {% elsif page.collection == "teaching" %}
+      <h1 class="doc-title">{{ page.title }}</h1>
+      <p class="doc-meta">{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+      {{ content }}
+    {% else %}
+      {{ content }}
+    {% endif %}
+  </main>
+
+  <footer class="foot-min">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name }}
+  </footer>
+</body>
+</html>

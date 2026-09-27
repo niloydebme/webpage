@@ -1,0 +1,7 @@
+{% comment %}One publication (light format): title / authors / venue + links. Expects `pub`.{% endcomment %}
+<li id="{{ pub.slug }}">
+  <span class="pub-title">{{ pub.title }}</span>
+  <span class="pub-authors">{{ pub.authors | replace: "Niloy Deb", "<strong>Niloy Deb</strong>" }}</span>
+  <span class="pub-venue"><i>{{ pub.venue }}</i>{% if pub.details %}, {{ pub.details }}{% endif %}, {{ pub.year }}.{% if pub.note %} <span class="pub-note">({{ pub.note }})</span>{% endif %}
+    <span class="pub-links">[<a href="{{ pub.url | relative_url }}">Abstract</a>]{% if pub.doi %} [<a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>]{% endif %}{% if pub.link %} [<a href="{{ pub.link }}" target="_blank" rel="noopener">Link</a>]{% endif %}{% if pub.pdf %} [<a href="{{ pub.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>]{% endif %}</span></span>
+</li>

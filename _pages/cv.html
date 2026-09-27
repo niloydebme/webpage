@@ -1,0 +1,178 @@
+---
+title: "Curriculum Vitae"
+permalink: /cv/
+author_profile: true
+---
+
+{% comment %}
+  Laid out like the PDF CV: section label (left) | entries (right).
+  Entry rows: <div class="row"><span>left text</span><span>right text</span></div>
+{% endcomment %}
+
+<p class="cv-download">[<a href="{{ site.author.cv_pdf }}" target="_blank" rel="noopener">Download PDF</a>]</p>
+
+<section class="cvs">
+  <h2>Academic Credentials</h2>
+  <div class="cvs-body">
+    <div class="entry">
+      <div class="row"><strong>Bangladesh University of Engineering and Technology (BUET)</strong><span>April 2024 – October 2026 (Expected)</span></div>
+      <div class="row"><span>Master of Science (M.Sc.) in Petroleum Engineering</span><span>Dhaka, Bangladesh</span></div>
+      <div>CGPA: 4.00/4.00</div>
+    </div>
+    <div class="entry">
+      <div class="row"><strong>Bangladesh University of Engineering and Technology (BUET)</strong><span>March 2018 – May 2023</span></div>
+      <div class="row"><span>Bachelor of Science (B.Sc.) in Mechanical Engineering (Honours)</span><span>Dhaka, Bangladesh</span></div>
+      <div>CGPA: 3.94/4.00 &nbsp; Rank: 6th of 188 (Top 3.2%)</div>
+    </div>
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Research Interests</h2>
+  <div class="cvs-body">
+    <p>Reduced-Order Modeling, Modal Decomposition, Computational Fluid Dynamics, Physics of Turbulence and Convection, Flow through Porous and Subsurface Media, Scientific Machine Learning, Numerical Methods</p>
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Professional Experience</h2>
+  <div class="cvs-body">
+    <div class="entry">
+      <div class="row"><strong>Lecturer</strong><span>January 2024 – Present</span></div>
+      <div class="row"><span>Department of Petroleum and Mineral Resources Engineering (PMRE), BUET</span><span>Dhaka, Bangladesh</span></div>
+      <div>Courses: PMRE 413 Natural Gas Engineering, PMRE 411 Reservoir Engineering</div>
+    </div>
+    <div class="entry">
+      <div class="row"><strong>Research Assistant</strong><span>June 2023 – December 2023</span></div>
+      <div class="row"><span>Computational Fluid Dynamics and Heat Transfer (CFDHT) Research Group</span><span>Dhaka, Bangladesh</span></div>
+      <div>Principal Investigator: Dr. Sumon Saha, Professor, Dept. of Mechanical Engineering, BUET</div>
+    </div>
+    <div class="entry">
+      <div class="row"><strong>Industrial Trainee</strong><span>October – November 2022</span></div>
+      <div class="row"><span>Haripur 360 MW Combined Cycle Power Plant (CCPP)</span><span>Dhaka, Bangladesh</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Research Experience</h2>
+  <div class="cvs-body">
+    <div class="entry">
+      <div class="row"><strong>M.Sc. Thesis</strong><span>2024 – 2026</span></div>
+      <div class="row"><span>Supervisor: Dr. M. M. Rahman, Professor, Dept. of PMRE, BUET</span><span>Dhaka, Bangladesh</span></div>
+      <div>Topic: Modal Decomposition and Parametric Non-Intrusive Reduced-Order Modeling for Reservoir Pressure and Rate Transient Analysis.</div>
+      <div>Code: <a href="https://github.com/niloydebme/reservoir-opinf-rom" target="_blank" rel="noopener">github.com/niloydebme/reservoir-opinf-rom</a> &nbsp; Data: <a href="https://doi.org/10.5281/zenodo.21492749" target="_blank" rel="noopener">doi.org/10.5281/zenodo.21492749</a></div>
+    </div>
+    <div class="entry">
+      <div class="row"><strong>Research Collaboration</strong><span>June 2025 – November 2025</span></div>
+      <div class="row"><span>Energy Systems and Modeling Research Group, PMRE, BUET</span><span>Dhaka, Bangladesh</span></div>
+      <div>Principal Investigator: S. R. Ayon, Assistant Professor, Dept. of PMRE, BUET</div>
+      <div>Title: Thermodynamic optimization of a novel multistage direct expansion cycle for LNG cold energy recovery. [Published in <i>Energy Conversion and Management: X</i>, 2026]</div>
+    </div>
+    <div class="entry">
+      <div class="row"><strong>Undergraduate Thesis</strong><span>May 2022 – May 2023</span></div>
+      <div class="row"><span>Supervisor: Dr. Sumon Saha, Professor, Dept. of Mechanical Engineering, BUET</span><span>Dhaka, Bangladesh</span></div>
+      <div>Topic: Numerical Study of Natural and Mixed Convection in Enclosures with Porous Media of Varying Geometries.</div>
+    </div>
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Publications</h2>
+  <div class="cvs-body">
+    {% for category in site.publication_category %}
+      {% assign pubs = site.publications | where: "category", category[0] | sort: "date" | reverse %}
+      {% if pubs.size > 0 %}
+        <p class="sub"><i>{% if category[0] == "manuscripts" %}Journal{% elsif category[0] == "conferences" %}Conference{% else %}{{ category[1].title }}{% endif %}</i></p>
+        <ol class="cites">
+          {% for pub in pubs %}{% include pub-cite.html %}{% endfor %}
+        </ol>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Technical Projects</h2>
+  <div class="cvs-body">
+    <div class="entry">
+      <div class="row"><strong>Design of a Counter-Flow Shell &amp; Helical Coil Tube Heat Exchanger</strong><span>January – February 2022</span></div>
+      <div>Supervisor: Dr. AKM Monjur Morshed, Professor, Dept. of Mechanical Engineering, BUET</div>
+      <div>CAD design, thermo-hydraulic calculations, CFD simulation [<a href="https://www.researchgate.net/publication/373337988_Design_of_a_counter-flow_shell_and_helical_coil_tube_heat_exchanger_SHCTHX" target="_blank" rel="noopener">Report</a>]</div>
+    </div>
+    <div class="entry">
+      <div class="row"><strong>Self-Stabilizing, Computer-Controlled Laser Turret</strong><span>April – June 2021</span></div>
+      <div>Supervisor: Dr. Aman Uddin, Associate Professor, Dept. of Mechanical Engineering, BUET</div>
+      <div>Arduino programming, sensor integration &amp; feedback control [<a href="https://www.researchgate.net/publication/373336950_Project_report_titled_'Self-stabilizing_computer-controlled_laser_turret'_for_Electromechanical_System_Design_and_Practice" target="_blank" rel="noopener">Report</a>]</div>
+    </div>
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Presentations and Talks</h2>
+  <div class="cvs-body">
+    <dl class="dated">
+      <dt>May 2024</dt><dd>Multi-segment Numerical Integration Method for Solution of Boundary Value Problems (Linear and Non-linear ODEs) [Tutorial]</dd>
+      <dt>Dec 2023</dt><dd>MHD Natural Convective Flow with Internal Heat Generation and Joule Heating inside a Two Layer Discretely Heated Chamber Partially Filled with Porous Medium [Technical session, ICME 2023, Dhaka]</dd>
+      <dt>Sep 2023</dt><dd>Introduction to Porous Media and Related Mathematical Modeling for Fluid Flow and Heat Transfer [Workshop, REVA University, Bengaluru, India]</dd>
+      <dt>Aug 2023</dt><dd>How to Review Literature [Workshop, CFDHT Research Group]</dd>
+    </dl>
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Technical Skills</h2>
+  <div class="cvs-body">
+    <dl class="kv">
+      <dt>Highlights</dt><dd>Scientific Writing, Exploratory Data Analysis (EDA), Quantitative Research</dd>
+      <dt>Programming</dt><dd>Python, MATLAB, C</dd>
+      <dt>Scripting</dt><dd>LaTeX, MS Office, Markdown, HTML</dd>
+      <dt>Visualization</dt><dd>Tecplot 360, Desmos Graph, Python - Matplotlib, Plotly, Seaborn</dd>
+      <dt>CAD/Drawing</dt><dd>AutoCAD, SolidWorks, Proteus, Draw.io, Canva, Illustrator, Photoshop, LaTeX - TikZ, Python - OpenCV, Pillow, scikit-image</dd>
+      <dt>CFD Tool</dt><dd>COMSOL Multiphysics, Ansys Fluent</dd>
+      <dt>Reservoir Simulation</dt><dd>MRST, Kappa Workstation (Rubis; Saphir)</dd>
+      <dt>ML/DL/Stats</dt><dd>Python - scikit-learn, TensorFlow, PyTorch, JAX, SciPy, PyMC</dd>
+      <dt>EDA</dt><dd>Python - Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn</dd>
+      <dt>Certifications</dt><dd><a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/EXOfHmAlqktAtOIqCe3qqqwBMHvi-7VKch1JsfkeN4RUmw?e=1pHMCX" target="_blank" rel="noopener">Research Skill Development, DCE, BUET</a>; <a href="https://www.coursera.org/account/accomplishments/verify/KUNNEK67EW6E" target="_blank" rel="noopener">Quantitative Method, Coursera</a>; <a href="https://www.coursera.org/account/accomplishments/verify/QWF5B9NVSPDD" target="_blank" rel="noopener">Evaluating Problems, Coursera</a>; <a href="https://www.coursera.org/account/accomplishments/verify/3V72R3HBVLJS" target="_blank" rel="noopener">Welcome to Game Theory, Coursera</a>; <a href="https://www.coursera.org/account/accomplishments/verify/8SC5YX5ZGN9K" target="_blank" rel="noopener">Intro to Data Analysis using Excel, Coursera</a>; <a href="https://www.coursera.org/account/accomplishments/verify/TCQNM5G5Y7FP" target="_blank" rel="noopener">Introduction to Programming with MATLAB, Coursera</a>; <a href="https://www.coursera.org/account/accomplishments/specialization/VPRVZ5MZ43HX" target="_blank" rel="noopener">Python for Everybody (Specialization), Coursera</a>; <a href="https://courses.edx.org/certificates/9abb933553e644ed9f41ff096fc60a72" target="_blank" rel="noopener">ELEN7070x: Research Methods, edX</a>; <a href="https://courses.edx.org/certificates/ec2238cfcac64bbebddb7263c82ce30c" target="_blank" rel="noopener">16.00x: Introduction to Aerospace Engineering, edX</a>; <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=6c90b29d-19c4-4b51-9069-fa743ed4b1f7&amp;" target="_blank" rel="noopener">Image Processing Onramp, MathWorks</a>; <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c390f6ca-c82a-4189-83ef-c67ccb7cc0dc&amp;" target="_blank" rel="noopener">Solving ODEs with MATLAB, MathWorks</a></dd>
+    </dl>
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Relevant Coursework</h2>
+  <div class="cvs-body">
+    <dl class="kv">
+      <dt>Graduate &amp; Self-Learning</dt><dd>Advanced Numerical Analysis (Dept. of ME, BUET); Advanced Thermodynamics (classical and statistical) (Dept. of ME, BUET); Boiling &amp; Condensation Heat Transfer (Dept. of ME, BUET); Reservoir Engineering (Dept. of PMRE, BUET); Well Testing Analysis (Dept. of PMRE, BUET); Non-linear Dynamics &amp; Chaos (S. Strogatz, Online); Non-linear Systems (J. Slotine, MOCW); Control Bootcamp (S. L. Brunton, Online); Global Warming - Science &amp; Modeling (D. Archer, edX); Understanding Rheology (F. Morrison, Online); Flow in Porous Media (M. Blunt, Online); Physics of Turbulence (M. K. Verma, IITK-NPTEL); Advanced Fluid Mechanics (S. Chakraborty, IITKGP-NPTEL); AI Principles &amp; Techniques (Stanford Online); Deep Learning in Scientific Computing (ETH Zurich); Data Analytics and Geostatistics (M. J. Pyrcz, Online); Matrix Calculus for Machine Learning and Beyond (A. Edelman &amp; S. G. Johnson, MOCW); Matrix, Numerical and Optimization Methods in Science and Engineering (K. Cassel, Online); Applied Time Series Analysis (A. K. Tangirala, IITM-NPTEL); Probabilistic System Analysis and Applied Probability (J. Tsitsiklis, MOCW); Data-Driven Science and Engineering (S. L. Brunton, Online); Random Physics Lectures (classical, Statistical, Quantum Mechanics, Modern Physics - Special and General Relativity by L. Susskind, Online) - did just for fun <span class="muted">(listed partially)</span></dd>
+      <dt>Undergraduate Core</dt><dd>Instrumentation and Measurement; Electro-Mechanical System Design (Project); Noise &amp; Vibration; Control Engineering; Engineering Mechanics (I &amp; II); Mechanics of Solids; Thermodynamics (Basic); Advanced Thermodynamics (Classical and Statistical); Fluid Mechanics (I &amp; II); Heat Transfer; Heat Transfer Equipment Design; Thermo Fluid System Design (Project); Combustion; Refrigeration and Building Mechanical System; Numerical Analysis; Computer Programming</dd>
+    </dl>
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Involvements</h2>
+  <div class="cvs-body">
+    <dl class="kv">
+      <dt>Co-Instructor</dt><dd>Short course on COMSOL Multiphysics Simulation of Thermo-fluidic Problems, DCE, BUET</dd>
+      <dt>Reviewer</dt><dd><i>Scientific Reports</i>; <i>Numerical Heat Transfer, Part A: Applications</i>; <i>Physics of Fluids</i></dd>
+      <dt>Question Setter</dt><dd>Mechanical Olympiad, Department of Mechanical Engineering, BUET</dd>
+    </dl>
+  </div>
+</section>
+
+<section class="cvs">
+  <h2>Awards and Honors</h2>
+  <div class="cvs-body">
+    <div class="entry">
+      <div class="row"><strong>Dr. Muhammad Harunur Rashid Best Paper Award</strong><span>ICME 2023</span></div>
+      <div class="row"><span>14th International Conference on Mechanical Engineering</span><span>Dhaka, Bangladesh</span></div>
+    </div>
+    <div class="entry">
+      <div class="row"><strong>University Merit Scholarship, BUET</strong><span>2018 – 2023</span></div>
+      <div>Awarded for academic excellence in undergraduate studies</div>
+    </div>
+    <div class="entry">
+      <div class="row"><strong>Dean’s List Award, Department of Mechanical Engineering, BUET</strong><span>2018 – 2023</span></div>
+      <div>Awarded for academic excellence in all levels (I – IV) of undergraduate studies</div>
+    </div>
+  </div>
+</section>

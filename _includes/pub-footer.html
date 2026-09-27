@@ -1,0 +1,5 @@
+{% comment %}Footer block on a single publication page.{% endcomment %}
+{% if page.keywords %}<p class="small"><strong>Keywords:</strong> {{ page.keywords | replace: " | ", "; " }}</p>{% endif %}
+<div class="cite-box">
+  <strong>Citation:</strong> {{ page.authors }}. {{ page.title }}. <em>{{ page.venue }}</em>{% if page.details %}, {{ page.details }}{% endif %}, {{ page.year }}.{% if page.doi %} <a href="https://doi.org/{{ page.doi }}">https://doi.org/{{ page.doi }}</a>{% endif %}
+</div>

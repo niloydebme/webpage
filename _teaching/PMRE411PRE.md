@@ -1,0 +1,50 @@
+---
+title: "PMRE 411: Reservoir Engineering"
+collection: teaching
+type: "Undergraduate Course"
+permalink: /teaching/PMRE411PRE
+venue: "offered by the Department of PMRE, BUET to the Department of ChE, BUET"
+date: 2025-01-01
+location: "Dhaka-1000, Bangladesh"
+---
+
+<div class="course">
+<p>
+  <b>Course Content</b>: Reservoir rock and fluid properties, reservoir fluid flow, gas and oil well performance and recovery, material balance, and decline curve analysis.
+</p>
+
+<p class="course-label">Lecture Materials</p>
+<ol>
+  <li>Fundamental Concepts</li>
+  <li><u>Properties of Reservoir Rock </u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQAFqljjtWtJQ4CWs0UGrEgTAdeKkq7F1XKLnQfyykg6TME?e=FVAO2i" target="_blank">[pdf]</a></li>
+  <li>Reservoir Pressure and Temperature</li>
+  <li>Properties of Reservoir Fluid</li>
+  <li>Volumetric Method of Reservoir Analysis</li>
+  <li>Material Balance Equation (MBE)</li>
+  <li>Gas Reservoir Analysis</li>
+  <li>Oil Reservoir Analysis</li>
+  <li><u>Decline Curve Analysis (DCA) </u><a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQCs32_fBP-pTJ7vSFkkpd3yATy0vITCcl51JKeff9Ons58?e=NdyYZ2" target="_blank">[pdf]</a></li>
+  <li><u>Fluid Flow Through Porous Media</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDe-h8qZkHZS5LQspI12h-KAad5rVKNrhb2U6FupEZu6n4?e=JpTccY" target="_blank">[pdf] </a>  <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQBtFxU_N1a0TbIOl-3CdiG-ASdwYpWujuDTdtF-nVd7baU?e=POwdmi" target="_blank">  [handout]</a></li>
+</ol>
+
+<p class="course-label">Assignment</p>
+<ol>
+  <li><u>Assignment 01 (Submission Optional)</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDoTzyZ8tAyT4tiPJxnXVsXAbd8wwss60W0neu3h7OspL8?e=voODQl" target="_blank">[pdf]</a></li> 
+</ol>
+
+<p class="course-label">Additional Materials</p>
+<ol>
+  <li><u>Example Problems (DCA)</u> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQCvW8Bw7RCUR7EC557im4jOAXYiWRD-GXxBhpLf-dlTxmY?e=7hSWK2" target="_blank">[pdf1]</a>   <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQCbDso9PuGxTq_0o4Z9eAF0AbExjxeXnL9rmZKJAF5vpzE?e=XjMqdV" target="_blank"> [pdf2]</a>   <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQBQNMfxaXn2S4oxvQ8hmOvcAUWcV4EmFra7buvwbiX_9qI?e=RmB6HB" target="_blank"> [pdf3]</a></li> 
+  <li><u>Diffusivity Equation (Visualization)</u> <a href="https://buetedu-my.sharepoint.com/:u:/g/personal/niloydeb_pmre_buet_ac_bd/IQD6gbWH1XlwTqRzWyyZj_SnAUqN5-s3l8L4qyntUBM0TSI?e=RK1xam" target="_blank">[ipynb]</a></li>
+</ol>
+
+<p class="course-label">Reference Books</p>
+<ol>
+  <li><strong>Dake, L. P.</strong> (1978). <em>Fundamentals of Reservoir Engineering</em>. Elsevier Scientific Publishing Company.</li>
+  <li><strong>Craft, B. C., Hawkins, M. F., & Terry, R. E.</strong> (1991). <em>Applied Petroleum Reservoir Engineering</em> (2nd ed.). Prentice Hall.</li>
+  <li><strong>Ahmed, T.</strong> (2018). <em>Reservoir Engineering Handbook</em> (5th ed.). Gulf Professional Publishing (Elsevier).</li>
+  <li><strong>Blunt, M. J.</strong> (2017). <em>Reservoir Engineering</em>.The Imperial College lectures in petroleum engineering ; volume 2.</li>
+  <li><strong>Ikoku, C. U.</strong> (1983). <em>Natural Gas Reservoir Engineering</em>.</li>
+  <li><strong>Lee, J.</strong>, & <strong>Wattenbarger, R. A.</strong> (2003). <em>Gas Reservoir Engineering</em>. Society of Petroleum Engineers.</li>
+</ol>
+</div>

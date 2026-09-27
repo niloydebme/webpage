@@ -1,0 +1,7 @@
+{% comment %}Header block on a single publication page.{% endcomment %}
+<div class="pub-meta">
+  <p>{{ page.authors | replace: "Niloy Deb", "<strong>Niloy Deb</strong>" }}</p>
+  <p><i>{{ page.venue }}</i>{% if page.details %}, {{ page.details }}{% endif %}, {{ page.year }}.{% if page.note %} <em class="pub-note">({{ page.note }})</em>{% endif %}</p>
+  <p class="pub-links">{% if page.doi %}[<a href="https://doi.org/{{ page.doi }}" target="_blank" rel="noopener">DOI</a>]{% endif %} {% if page.link %}[<a href="{{ page.link }}" target="_blank" rel="noopener">Link</a>]{% endif %} {% if page.pdf %}[<a href="{{ page.pdf | relative_url }}" target="_blank" rel="noopener">PDF</a>]{% endif %} [<a href="{{ '/publications/' | relative_url }}">All publications</a>]</p>
+</div>
+<h2>Abstract</h2>

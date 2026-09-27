@@ -1,0 +1,2 @@
+{% comment %}One publication as a single citation line (CV style). Expects `pub`.{% endcomment %}
+<li>{{ pub.authors | replace: "Niloy Deb", "<strong>Niloy Deb</strong>" }}. {{ pub.title }}. <i>{{ pub.venue }}</i>{% if pub.details %}, {{ pub.details }}{% endif %}, {{ pub.year }}.{% if pub.doi %} [<a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">Paper</a>]{% endif %}{% if pub.note %} [{{ pub.note }}]{% endif %}</li>

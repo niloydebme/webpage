@@ -1,0 +1,21 @@
+---
+layout: minimal
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% comment %}Each item is a file in _teaching/; grouped by its `type`, newest first.{% endcomment %}
+
+<p class="inst">Bangladesh University of Engineering and Technology (BUET)</p>
+
+{% assign groups = site.teaching | group_by: "type" %}
+{% for group in groups %}
+  <p class="teach-group">{{ group.name }}</p>
+  {% assign docs = group.items | sort: "date" | reverse %}
+  <ul class="teach-list">
+    {% for doc in docs %}
+      <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>, <i>{{ doc.venue }}</i>, {{ doc.date | date: "%Y" }}</li>
+    {% endfor %}
+  </ul>
+{% endfor %}

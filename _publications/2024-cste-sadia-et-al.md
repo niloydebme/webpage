@@ -1,0 +1,18 @@
+---
+title: "Entropy generation on magnetohydrodynamic conjugate free convection with Joule heating of heat-generating liquid and solid element inside a chamber"
+authors: "Sadia Tasnim, Md Shahneoug Shuvo, Niloy Deb, Md Sadman Islam, Sumon Saha"
+venue: "Case Studies in Thermal Engineering"
+details: "Vol. 52, Article 103711"
+year: 2023
+doi: "10.1016/j.csite.2023.103711"
+link: "https://www.sciencedirect.com/science/article/pii/S2214157X23010171"
+pdf: "/files/2024-cste-sadia-et-al.pdf"
+key: "CSTE '23b"
+category: manuscripts
+date: 2023-11-01
+keywords: "Conjugate Natural Convection | Heat-generating Liquids and Solid"
+redirect_from:
+  - "/publications/2024_CSTE_Sadia et al"
+---
+
+This study presents the entropy production of MHD conjugate free convective flow within a square chamber infused with water encasing a heat-generating and conducting square solid element. The chamber’s vertical side is exposed to an external magnetism effect. The flowing fluid circulating inside the hollow space of the chamber produces a volumetric heat generation rate. The finite element approach is used to solve the model equations for mass, momentum, and heat energy conservations, which are affected by a number of variables, including the Rayleigh number (Ra), Hartmann number (Ha), Joule heating parameter, and internal heat generation parameter (Δ), and the area ratio of the solid element (Ab). By systematically varying those parameters (e.g., 103 ≤ Ra ≤ 106, 0 ≤ Ha ≤ 20, 0 ≤ Δ ≤ 10, 0.1 ≤ Ab ≤ 0.3), variations of hydro-thermal properties are observed and analyzed through streamline, isotherm, Nusselt number, entropy generation, thermal performance criterion, and mean fluid temperature of the system. It can be declared that convective heat transport increases as the area ratio of the solid element and the internal heat generation decrease. However, the minimum thermodynamic irreversibility is obtained for the highest area ratio and lowest heat generation parameter. The study shows a 48.37% increase in convective heat transfer as Ab decreases from 0.3 to 0.1. Similarly, reducing Ha and Δ to zero leads to an 8.76% and 526% reduction in TPC, respectively.

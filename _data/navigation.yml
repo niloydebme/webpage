@@ -1,0 +1,20 @@
+# Header menu, in display order.
+
+main:
+  - title: "About"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Curriculum Vitae"
+    url: /cv/
+
+  - title: "Blog/Webliography"
+    url: /year-archive/

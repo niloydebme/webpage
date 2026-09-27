@@ -1,0 +1,10 @@
+{% comment %}"Reference papers: [KEY] [KEY]" line. Usage: include theme-refs.html ids="slug-one,slug-two" (file names in _publications without .md).{% endcomment %}
+<p class="theme-refs"><strong>Reference papers:</strong>
+  {% if include.ids and include.ids != "" %}
+    {% assign ids = include.ids | split: "," %}
+    {% for id in ids %}{% assign pub = site.publications | where: "slug", id | first %}{% if pub %}<a href="{{ pub.url | relative_url }}">[{{ pub.key }}]</a> {% endif %}{% endfor %}
+  {% else %}
+    <span class="muted">(coming soon)</span>
+  {% endif %}
+  {% if include.extra %}<span class="muted">{{ include.extra }}</span>{% endif %}
+</p>

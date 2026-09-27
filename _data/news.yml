@@ -1,0 +1,17 @@
+# News & Updates on the home page, newest first. `text` accepts inline HTML.
+
+- date: "2026-09-15"
+  text: "Took the GRE General Test."
+
+- date: "2026-09-07"
+  text: "Attended the seminar &lsquo;Energy Security in Bangladesh: From Crisis Management to Resilient Energy Transition&rsquo; at <a href='https://www.biiss.org/' target='_blank' rel='noopener'>BIISS</a>, Dhaka."
+
+- date: "2026-03-09"
+  text: "Our paper on thermodynamic cycle optimization for LNG's cold energy recovery was published in <b>Energy Conversion and Management: X</b>."
+
+- date: "2025-08-09"
+  text: "Appeared for the TOEFL iBT exam."
+
+- date: "2025-04-23"
+  text: "Participated in a workshop organized by the Bangladesh Ministry of Shipping to develop the National Action Plan for net-zero greenhouse gas emissions in the maritime sector by 2050."
+
