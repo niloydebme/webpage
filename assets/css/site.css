@@ -178,6 +178,7 @@ h2.first { margin-top: 0; }
 }
 .theme-foot { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 0 12px; margin-top: 0.4em; }
 .theme-foot .theme-refs { margin: 0 !important; }
+.theme-foot .theme-res { flex-basis: 100%; margin: 0 0 0.2em !important; text-align: left; }
 .read-more {
   margin-left: auto; padding: 0; border: 0; background: none; cursor: pointer;
   color: var(--link); font-family: var(--sans); font-size: 13.5px;

@@ -121,10 +121,11 @@ author_profile: true
   <div class="theme-body">
     <h3>Modal Decomposition and Reduced-Order Modeling</h3>
     <div class="theme-text">
+    <p>Fluid flows are high-dimensional and multiscale, yet their dominant dynamics often evolve on a much smaller set of coherent structures. Modal decomposition extracts these structures from big simulation or messy measurement data. Proper orthogonal decomposition (POD) ranks modes by energy, while dynamic mode decomposition (DMD) finds modes with a single frequency and growth rate, closely linked to Koopman operator theory. Singular spectrum analysis (SSA) applies similar ideas to time series, separating trend, oscillation, and noise. These modes form a natural basis for reduced-order models (ROMs), which replace a full simulation with a small system of equations. Intrusive ROMs project the governing equations onto this basis (Galerkin projection), but they need access to the solver and can become unstable for nonlinear or convection-dominated flows. Non-intrusive ROMs, on the other hand, learn the reduced dynamics directly from data; operator inference, for example, fits polynomial reduced operators by least squares without opening the solver. Parametric ROMs extend this across design or physical parameters through interpolation (e.g., radial basis functions). Linear subspaces, however, struggle with moving shocks and fronts, which motivates nonlinear manifolds, autoencoders, and operator learning. Fast ROMs make many-query tasks practical, from design and control to uncertainty quantification and inverse problems.</p>
     <p>M.Sc. thesis: Modal Decomposition and Non-Intrusive Parametric Reduced-Order Modeling for Reservoir Pressure and Rate Transient Analysis.</p>
-    <p class="theme-res"><strong>Resources:</strong> [<a href="https://github.com/niloydebme/reservoir-opinf-rom" target="_blank" rel="noopener">Code</a>] [<a href="https://doi.org/10.5281/zenodo.21492749" target="_blank" rel="noopener">Data</a>]</p>
     </div>
     <div class="theme-foot">
+    <p class="theme-res"><strong>Resources:</strong> [<a href="https://github.com/niloydebme/reservoir-opinf-rom" target="_blank" rel="noopener">Code</a>] [<a href="https://doi.org/10.5281/zenodo.21492749" target="_blank" rel="noopener">Data</a>]</p>
     {% include theme-refs.html ids="" %}
     <button type="button" class="read-more" hidden>Read more</button>
     </div>
