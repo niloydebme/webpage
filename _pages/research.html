@@ -125,10 +125,12 @@ author_profile: true
     <p>These modes form a basis for reduced-order models (ROMs). A ROM approximates the full model at a fraction of its cost and makes many-query tasks tractable. Intrusive ROMs project the governing equations onto the reduced basis by Galerkin projection. They need access to the solver and can become unstable for nonlinear or convection-dominated flows. Non-intrusive ROMs learn the reduced dynamics from data. A common example is operator inference, which fits polynomial reduced operators to snapshot data by least squares without modifying the solver. Parametric ROMs extend this across physical or design parameters by interpolating the reduced operators, for example with radial basis functions. Linear subspaces need many modes for moving shocks and fronts, where nonlinear manifolds, autoencoders, and operator learning can have an advantage.</p>
     </div>
     <div class="theme-foot">
-    <p class="theme-res">M.Sc. thesis: Modal Decomposition and Non-Intrusive Parametric Reduced-Order Modeling for Reservoir Pressure and Rate Transient Analysis.</p>
-    <p class="theme-res"><strong>Resources:</strong> [<a href="https://github.com/niloydebme/reservoir-opinf-rom" target="_blank" rel="noopener">Code</a>] [<a href="https://doi.org/10.5281/zenodo.21492749" target="_blank" rel="noopener">Data</a>]</p>
     {% include theme-refs.html ids="" %}
     <button type="button" class="read-more" hidden>Read more</button>
+    </div>
+    <div class="theme-extra">
+    <p class="theme-res">M.Sc. thesis: Modal Decomposition and Non-Intrusive Parametric Reduced-Order Modeling for Reservoir Pressure and Rate Transient Analysis.</p>
+    <p class="theme-res"><strong>Resources:</strong> [<a href="https://github.com/niloydebme/reservoir-opinf-rom" target="_blank" rel="noopener">Code</a>] [<a href="https://doi.org/10.5281/zenodo.21492749" target="_blank" rel="noopener">Data</a>]</p>
     </div>
   </div>
 </section>
@@ -221,7 +223,8 @@ document.querySelectorAll('.venn-label[data-set]').forEach(function (label) {
       var lh = parseFloat(getComputedStyle(text).lineHeight) || 23;
       var stacked = body.getBoundingClientRect().top >= fig.getBoundingClientRect().bottom - 1;
       var reserve = t.querySelector('.theme-foot').children.length === 1 ? lh : 0;
-      var avail = stacked ? lh * 6 : fig.offsetHeight - (body.offsetHeight - text.offsetHeight) - reserve;
+      var extra = t.querySelector('.theme-extra'), xh = extra ? extra.offsetHeight : 0;
+      var avail = stacked ? lh * 6 : fig.offsetHeight - (body.offsetHeight - xh - text.offsetHeight) - reserve;
       var lines = Math.max(5, Math.floor(avail / lh));
       if (text.scrollHeight <= lines * lh + 4) { btn.hidden = true; return; }
       text.style.maxHeight = (lines * lh) + 'px'; text.classList.add('clamped'); btn.hidden = false;
