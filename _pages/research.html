@@ -123,9 +123,9 @@ author_profile: true
     <div class="theme-text">
     <p>Although fluid flows are high-dimensional and multiscale, their dominant dynamics are mostly captured by a few coherent structures. Modal decomposition extracts these structures from simulation or measurement data. Proper orthogonal decomposition (POD) ranks the modes by energy. Dynamic mode decomposition (DMD) finds modes, each with a single frequency and growth rate, and is linked to Koopman operator theory. Singular spectrum analysis (SSA) applies a related idea to time series to separate trend, oscillation, and noise.</p>
     <p>These modes form a basis for reduced-order models (ROMs). A ROM approximates the full model at a fraction of its cost and makes many-query tasks tractable. Intrusive ROMs project the governing equations onto the reduced basis by Galerkin projection. They need access to the solver and can become unstable for nonlinear or convection-dominated flows. Non-intrusive ROMs learn the reduced dynamics from data. A common example is operator inference, which fits polynomial reduced operators to snapshot data by least squares without modifying the solver. Parametric ROMs extend this across physical or design parameters by interpolating the reduced operators, for example with radial basis functions. Linear subspaces need many modes for moving shocks and fronts, where nonlinear manifolds, autoencoders, and operator learning can have an advantage.</p>
-    <p>M.Sc. thesis: Modal Decomposition and Non-Intrusive Parametric Reduced-Order Modeling for Reservoir Pressure and Rate Transient Analysis.</p>
     </div>
     <div class="theme-foot">
+    <p class="theme-res">M.Sc. thesis: Modal Decomposition and Non-Intrusive Parametric Reduced-Order Modeling for Reservoir Pressure and Rate Transient Analysis.</p>
     <p class="theme-res"><strong>Resources:</strong> [<a href="https://github.com/niloydebme/reservoir-opinf-rom" target="_blank" rel="noopener">Code</a>] [<a href="https://doi.org/10.5281/zenodo.21492749" target="_blank" rel="noopener">Data</a>]</p>
     {% include theme-refs.html ids="" %}
     <button type="button" class="read-more" hidden>Read more</button>
