@@ -263,10 +263,6 @@ details[open] > summary .when-closed { display: none; }
 .plain li { margin-bottom: 0.25em; }
 .plain.cols { column-count: 2; column-gap: 20px; font-size: 14px; }
 .plain.cols li { break-inside: avoid; }
-.plain.hang { padding-left: 0; list-style: none; }
-.plain.hang li { position: relative; }
-.plain.hang li::before { content: "•"; position: absolute; left: -0.9em; color: var(--grey); }
-.plain.hang.cols { column-gap: 2em; }
 
 
 /* Teaching --------------------------------------------------------------- */
@@ -336,7 +332,6 @@ details[open] > summary .when-closed { display: none; }
   .kv { grid-template-columns: 1fr; gap: 0; }
   .kv dt { font-weight: 700; margin-top: 0.3em; }
   .cites { padding-left: 1.6em; }
-  .plain.hang { padding-left: 1em; }
   .news li > div { flex-direction: column; gap: 0; }
 }
 
