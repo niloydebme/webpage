@@ -256,13 +256,17 @@ details[open] > summary .when-closed { display: none; }
 .dated dt { color: var(--grey); font-family: var(--sans); font-size: 13.5px; padding-top: 2px; white-space: nowrap; }
 .dated dd { margin: 0; }
 
-.cites { margin: 0 0 0.8em; padding-left: 1.5em; }
+.cites { margin: 0 0 0.8em; padding-left: 0; }  /* numbers hang into the gap; text aligns with the body */
 .cites li { margin-bottom: 0.35em; }
 
 .plain { margin: 0 0 0.6em; padding-left: 1.2em; }
 .plain li { margin-bottom: 0.25em; }
 .plain.cols { column-count: 2; column-gap: 20px; font-size: 14px; }
 .plain.cols li { break-inside: avoid; }
+.plain.hang { padding-left: 0; list-style: none; }
+.plain.hang li { position: relative; }
+.plain.hang li::before { content: "2"; position: absolute; left: -0.9em; color: var(--grey); }
+.plain.hang.cols { column-gap: 2em; }
 
 
 /* Teaching --------------------------------------------------------------- */
@@ -331,6 +335,8 @@ details[open] > summary .when-closed { display: none; }
   .plain.cols { column-count: 1; }
   .kv { grid-template-columns: 1fr; gap: 0; }
   .kv dt { font-weight: 700; margin-top: 0.3em; }
+  .cites { padding-left: 1.6em; }
+  .plain.hang { padding-left: 1em; }
   .news li > div { flex-direction: column; gap: 0; }
 }
 
