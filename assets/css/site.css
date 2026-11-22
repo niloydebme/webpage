@@ -265,7 +265,7 @@ details[open] > summary .when-closed { display: none; }
 .plain.cols li { break-inside: avoid; }
 .plain.hang { padding-left: 0; list-style: none; }
 .plain.hang li { position: relative; }
-.plain.hang li::before { content: "2"; position: absolute; left: -0.9em; color: var(--grey); }
+.plain.hang li::before { content: "•"; position: absolute; left: -0.9em; color: var(--grey); }
 .plain.hang.cols { column-gap: 2em; }
 
 
