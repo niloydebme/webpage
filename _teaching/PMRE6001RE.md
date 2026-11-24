@@ -4,14 +4,14 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/PMRE6001RE
 venue: "guest lecture"
-term: "April 2026 semester"
+term: "April 2026 semester, Department of PMRE, BUET"
 date: 2026-04-01
 location: "Dhaka-1000, Bangladesh"
 ---
 
 <div class="course">
 <p>
-  <b>Topics Covered</b>: Reservoir Rocks and Their Geological Setting, Porosity, Darcy's Law and Permeability, Measurement of Permeability, Fluid Saturation, Interfacial Tension and Wettability, Capillary Pressure, Drainage, Imbibition and Residual Saturation, Relative Permeability, Pressure and Rock Compressibility.
+  <b>Topics Covered</b>: Overview of reservoir engineering; reservoir rocks and their geological setting; porosity; Darcy's law, permeability, and its measurement; fluid saturation; interfacial tension and wettability; capillary pressure; drainage, imbibition, and residual saturation; relative permeability; and reservoir pressure and rock compressibility.
 </p>
 
 <p class="course-label">Lecture Materials</p>
