@@ -62,7 +62,7 @@
       {% include pub-footer.html %}
     {% elsif page.collection == "teaching" %}
       <h1 class="doc-title">{{ page.title }}</h1>
-      <p class="doc-meta">{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+      <p class="doc-meta">{{ page.type }}, <i>{{ page.venue }}</i>, {% if page.term %}{{ page.term }}{% else %}{{ page.date | date: "%Y" }}{% endif %}</p>
       {{ content }}
     {% else %}
       {{ content }}

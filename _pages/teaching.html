@@ -17,7 +17,7 @@ author_profile: true
   {% assign docs = items | sort: "date" | reverse %}
   <ul class="teach-list">
     {% for doc in docs %}
-      <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>, <i>{{ doc.venue }}</i>, {{ doc.date | date: "%Y" }}</li>
+      <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>, <i>{{ doc.venue }}</i>, {% if doc.term %}{{ doc.term }}{% else %}{{ doc.date | date: "%Y" }}{% endif %}</li>
     {% endfor %}
   </ul>
 {% endfor %}
