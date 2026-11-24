@@ -9,10 +9,12 @@ author_profile: true
 
 <p class="inst">Bangladesh University of Engineering and Technology (BUET)</p>
 
-{% assign groups = site.teaching | group_by: "type" %}
-{% for group in groups %}
-  <p class="teach-group">{{ group.name }}</p>
-  {% assign docs = group.items | sort: "date" | reverse %}
+{% assign order = "Graduate Course,Undergraduate Course,Lecture Notes" | split: "," %}
+{% for gname in order %}
+  {% assign items = site.teaching | where: "type", gname %}
+  {% if items.size == 0 %}{% continue %}{% endif %}
+  <p class="teach-group">{{ gname }}</p>
+  {% assign docs = items | sort: "date" | reverse %}
   <ul class="teach-list">
     {% for doc in docs %}
       <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>, <i>{{ doc.venue }}</i>, {{ doc.date | date: "%Y" }}</li>
