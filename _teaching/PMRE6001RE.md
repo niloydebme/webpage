@@ -11,7 +11,7 @@ location: "Dhaka-1000, Bangladesh"
 
 <div class="course">
 <p>
-  <b>Topics Covered</b>: Overview of reservoir engineering; reservoir rocks and their geological setting; porosity; Darcy's law, permeability, and its measurement; fluid saturation; interfacial tension and wettability; capillary pressure; drainage, imbibition, and residual saturation; relative permeability; and reservoir pressure and rock compressibility.
+  <b>Topics Covered</b>: Overview of reservoir engineering; reservoir rocks, porosity, and permeability (Darcy's law); fluid saturation, wettability, and capillary pressure; drainage, imbibition, and relative permeability; rock compressibility.
 </p>
 
 <p class="course-label">Lecture Materials</p>
