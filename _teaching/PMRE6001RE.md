@@ -18,6 +18,7 @@ location: "Dhaka-1000, Bangladesh"
 <ol>
   <li>Overview of Reservoir Engineering <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDgW032xq2YQKiwOdBlyBmAAQmlOfU20IbwaYyF9zEjkmw?e=hZBbIZ" target="_blank">[slides]</a></li>
   <li>Rock Properties and Rock-Fluid Interactions <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQDnyXUr396LQ6q4XptGZGZ_AVA9fuPPjPV6959t-eOTddU?e=lmoC1C" target="_blank">[slides]</a> <a href="https://buetedu-my.sharepoint.com/:b:/g/personal/niloydeb_pmre_buet_ac_bd/IQC9zoVgZwU5TJasLR3K4BSNAcOIvfQzssNvXUBFvlMNuNg?e=2tcaof" target="_blank">[notes]</a></li>
+  <li>Reservoir Fluid Flow</li>
 </ol>
 
 <p class="course-label">Additional Materials</p>
